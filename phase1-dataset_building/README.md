@@ -2,7 +2,7 @@
 
 Here you find all the data and the code used to mine/extract energy-related data points.
 
-The file [<i>mongodb-dump.tar.gz</i>](./mongodb-dump.tar.gz) contains all the ROS data we have scrapped (339,563 data points). 
+The file [<i>mongodb-dump.tar.gz</i>](./mongodb-dump.tar.gz) contains all the 339,563 ROS data points. 
 
 ## Pre-configuration
 
