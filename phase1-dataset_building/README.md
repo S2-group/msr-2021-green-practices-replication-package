@@ -6,7 +6,9 @@ The file [<i>mongodb-dump.tar.gz</i>](./mongodb-dump.tar.gz) contains all the 33
 
 ## Pre-configuration
 
-1) Install all the python dependencies.
+Considering the Python is already installed and configured:
+
+1) Install the Python dependencies.
 
 ```bash
 $ pip install -r requirements.txt 
@@ -14,7 +16,7 @@ $ pip install -r requirements.txt
 
 2) [Restore](https://docs.mongodb.com/manual/reference/program/mongorestore/) the database to your MongoDB instance.
 
-3) Configure the configuration parameters (file parameters.cfg):
+3) Configure the configuration parameters (file ```./parameters.cfg```):
  
 ```
 [general]
@@ -32,22 +34,22 @@ token = ***
 ```
 The GitHub token is required for Phase 2.
 
-## How to Replicate Phase 1
+## Phase 1
 
 ```bash
 $ cd phase1/
 $ python energy_mining.py
 ```
 
-The output will be in the <i>output_data</i> folder. By default, the data from MSR2021 paper is there.
+The output will be in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.
 
-## Generating the Analysis Spreadsheets
+## Generating the Data for Phase 2
 
-Here we just get the data point dates and transforme them into timestamps. If you wish to completly execute this phase, you mus delete the <i>input_data/included-datapoints-date.csv</i> file.
+Here we just get the data point dates and transform them into timestamps. If you wish to completly execute this phase, you must delete the <i>input_data/included-datapoints-date.csv</i> file.
 
 ```bash
 $ cd phase2/
 $ python get_timestamps.py
 ```
 
-All the data points and their timestamps will be in the <i>output_data/energy-datapoints.csv</i> file. Proceed to the [data analysis](../data_analysis/).
+All the data required for Phase 2 will be in the <i>output_data/energy-datapoints.csv</i> file. Now, proceed to the [data analysis](../data_analysis/).
