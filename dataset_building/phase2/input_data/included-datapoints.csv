@@ -1,0 +1,618 @@
+ID,URL,Collection,Title,Contents,Date
+C87222,https://github.com/jsk-ros-pkg/jsk_common,Commits,jsk_common,6d1f0cb564f760092af147': 'add hardware id tp battery capacity'},
+C87203,https://github.com/jsk-ros-pkg/jsk_common,Commits,jsk_common,ab3e90898c57715c5bcc6fc9372b89533312a': 'add battery full capacity summary script'},
+C82758,https://github.com/jhu-asco/aerial_autonomy,Commits,aerial_autonomy,"grator to xy in rpyt vel controller, reduce battery percentage'}",
+C82372,https://github.com/jhu-asco/aerial_autonomy,Commits,aerial_autonomy,ad7ec222aa8af4': 'Abort instead of Land when battery is low'},
+C82205,https://github.com/jhu-asco/aerial_autonomy,Commits,aerial_autonomy,is closed\nIt also generates a land event if battery is low'},
+C82055,https://github.com/jhu-asco/aerial_autonomy,Commits,aerial_autonomy,"position control\n\nWhen taking off, if low battery, should try to land\nWhen reaching goal, if",
+C73332,https://github.com/ipa320/cob_robots,Commits,cob_robots,"06293c024f360a0910b': 'added ur10, phidgets, battery monitor, em monitor to robot bringup for raw",
+C73261,https://github.com/ipa320/cob_robots,Commits,cob_robots,7aecd52b50210a55210fb38eb9f026b0eb514': 'use powerstate from phidget node'},
+C73016,https://github.com/ipa320/cob_robots,Commits,cob_robots,5ccd7d3520115f1b20ab24a2828d': 'configurable battery thresholds'},
+C70904,https://github.com/ipa320/cob_robots,Commits,cob_robots,d7a45a63f53aa4f05f43911c8729e3a1': 'enhanced battery monitoring'},
+C70875,https://github.com/ipa320/cob_robots,Commits,cob_robots,96aacf9a0e8396ad1ad88e4ba2202d94be33e': 'add battery and emergency monitor for cob3-6'},
+C70854,https://github.com/ipa320/cob_robots,Commits,cob_robots,c8ab1aee96fa': 'add config for emergency and battery monitor'},
+C66043,https://github.com/ipa320/cob_environment_perception,Commits,cob_environment_perception,64a3d67ba25c60ae53b56d19b0f002': 'introduced energy factor'},
+C63074,https://github.com/ipa320/cob_environment_perception,Commits,cob_environment_perception,"742e194c347fa0301309f': 'renamed msg + added energy value, encoded as XML'}",
+C63073,https://github.com/ipa320/cob_environment_perception,Commits,cob_environment_perception,"7185e304f43b5418ab2d2': 'renamed msg + added energy value, encoded as XML'}",
+C59785,https://github.com/ipa320/cob_command_tools,Commits,cob_command_tools,89651e6e502d16caa15d6d': 'allow to configure battery monitor notifications'},
+C59596,https://github.com/ipa320/cob_command_tools,Commits,cob_command_tools,e55f8b312fb': 'stop charging mode if no more power_state msgs received'},
+C59588,https://github.com/ipa320/cob_command_tools,Commits,cob_command_tools,641e403456ea1cfa859cc10f7d81': 'configurable battery thresholds'},
+C59583,https://github.com/ipa320/cob_command_tools,Commits,cob_command_tools,Merge pull request #130 from ipa-bnm/feature/battery_light_mode\n\nshow charging progress on led,
+C59169,https://github.com/ipa320/cob_command_tools,Commits,cob_command_tools,bae8dc2819e1a465cd1b1cf52b6ecb22ff6b3': 'cob_battery for dashboard'},
+C59120,https://github.com/ipa320/cob_command_tools,Commits,cob_command_tools,793e09b426331c16aa00a22c60568271': 'enhanced battery monitoring'},
+C56381,https://github.com/inomuh/evapi_ros,Commits,evapi_ros,5cd6a4820df1c81b341c689da7371b4dc1f8a': 'add battery sensor'},
+C56353,https://github.com/inomuh/evapi_ros,Commits,evapi_ros,1c52e8bbb234a40e9a9359187': 'add voltage and battery msgs'},
+C49863,https://github.com/g/grizzly,Commits,grizzly,"0d2ff308b772275e': 'Added dead reckoning and energy estimation nodes, fixed up fan control, faul",
+C44705,https://github.com/ethz-asl/asctec_mav_framework,Commits,asctec_mav_framework,3dfeb': 'adapted buzzer and main to have the battery warning voltage adjustable'},
+C44653,https://github.com/ethz-asl/asctec_mav_framework,Commits,asctec_mav_framework,9040daccccffd8c5fa9f2f3041aa63b2aeb': 'added battery warnings to rosout'},
+C44596,https://github.com/ethz-asl/asctec_mav_framework,Commits,asctec_mav_framework,0e9eacfad7e1b7af981ae4f7a9c82affb9e7': 'made battery warning voltage adjustable'},
+C41326,https://github.com/elpimous/Neo_robot,Commits,Neo_robot,9ae72cd7fb7ee8afa061992dd2': 'A package with energy vocal alerts.'},
+C40942,https://github.com/ekumenlabs/tangobot,Commits,tangobot,e pull request #127 from jubeira/dev/publish_battery\n\nPublishing robot and device battery'},
+C40941,https://github.com/ekumenlabs/tangobot,Commits,tangobot,7545c2d488d94dcd2b704eafe50b356': 'Splitting battery publishers into two nodes'},
+C40940,https://github.com/ekumenlabs/tangobot,Commits,tangobot,b88c3bb3f8fecc07901ce5599071c170bb': 'Adding battery publisher node\n- It has to be split into tw,
+C40493,https://github.com/edinferno/edinferno,Commits,edinferno,"er class, publishes if Nao is un/plugged and battery charge'}",
+C376,https://github.com/aau-ros/aau_multi_robot,Commits,aau_multi_robot,"Revert ""added new strategy which checks the battery state""\n\nThis reverts commit af8a517e1cdaeb",
+C373,https://github.com/aau-ros/aau_multi_robot,Commits,aau_multi_robot,"Revert ""Robots now drive back to home when energy level is at 50%.""\n\nThis reverts commit b3a",
+C371,https://github.com/aau-ros/aau_multi_robot,Commits,aau_multi_robot,"vert ""add a function that calculates the the energy consumption""\n\nThis reverts commit ba22c0f5",
+C369,https://github.com/aau-ros/aau_multi_robot,Commits,aau_multi_robot,f0': 'add a function that calculates the the energy consumption\nand the traveled distance so fa,
+C359,https://github.com/aau-ros/aau_multi_robot,Commits,aau_multi_robot,5f193e': 'Robots now drive back to home when energy level is at 50%.\nWhen the energy level is a,
+C356,https://github.com/aau-ros/aau_multi_robot,Commits,aau_multi_robot,434cc': 'added new strategy which checks the battery state'},
+C32998,https://github.com/craftit/DogBotSoftware,Commits,DogBotSoftware,10af912545ca0f0efe8ca': 'added help info for battery operation'},
+C32995,https://github.com/craftit/DogBotSoftware,Commits,DogBotSoftware,Add supply voltage calibration so we can set battery thresholds more accurately.'},
+C29359,https://github.com/CopterExpress/clever,Commits,clever,3a13598fa975dc6e0be9bb7': 'selfcheck.py: add battery voltage checks'},
+C26579,https://github.com/chrisl8/ArloBot,Commits,ArloBot,12777': 'Rewrite Node (web interface) laptop battery check code to be faster and cause less load,
+C26112,https://github.com/chrisl8/ArloBot,Commits,ArloBot,messsages from arlobot_safety and add laptop battery level monitoring.'},
+C24246,https://github.com/bluesat/owr_software,Commits,owr_software,eb3c8b1b7d01322913c6ca993d8e47a2df6': 'Added battery voltage reading.'},
+C23929,https://github.com/bluesat/owr_software,Commits,owr_software,"c834927dfe1a': 'For #28 and #29, intergrated battery level ros_msgs into the gui. Created test da",
+C216380,https://github.com/yujinrobot/kobuki,Commits,kobuki,"63334234d683f9ed71d2bd': 'charging state for battery diagnostics, not just state, maybe android n",
+C216290,https://github.com/yujinrobot/kobuki,Commits,kobuki,23aa2d170e052dd2060349917fb1d71': 'Make test_battery works again'},
+C216272,https://github.com/yujinrobot/kobuki,Commits,kobuki,"ode : Updated DockDriveControl,py to display battery level and charging state of robot and laptop",
+C215894,https://github.com/yujinrobot/kobuki,Commits,kobuki,f19067d45398830085da0ffa122167bd9': 'Include battery charge percent.'},
+C215846,https://github.com/yujinrobot/kobuki,Commits,kobuki,0bcbbd0473ee0027994ea017d107': 'Added laptop battery publisher into minimal.launch.'},
+C215844,https://github.com/yujinrobot/kobuki,Commits,kobuki,05cc9543c43d38': 'kobuki_node : Added laptop battery state publisher.'},
+C215744,https://github.com/yujinrobot/kobuki,Commits,kobuki,2': 'parameter configuration for level based battery.'},
+C215720,https://github.com/yujinrobot/kobuki,Commits,kobuki,1bd9a40caaed06587c50736bece5af956': 'kobuki: battery status diagnostics.'},
+C215532,https://github.com/youbot/youbot-ros-pkg,Commits,youbot-ros-pkg,b983d47bd6f674fdd442672': 'check also if one battery cell exceeded the minimum voltage level'},
+C215476,https://github.com/youbot/youbot-ros-pkg,Commits,youbot-ros-pkg,077389346dca5d562f93672dc07a4f': 'add youbot battery monitor'},
+C21401,https://github.com/BCLab-UNM/SwarmBaseCode-ROS,Commits,SwarmBaseCode-ROS,Integral constant a little to help with low battery state and attempting to aline to a target bl,
+C213219,https://github.com/whoenig/crazyflie_ros,Commits,crazyflie_ros,da887dd99c655c669': 'add sensor readings for battery'},
+C212740,https://github.com/vortexntnu/rov-control,Commits,rov-control,tead of set zero. Do this to avoid excessive power usage after shutdown.'},
+C210983,https://github.com/uwreact/frc_control,Commits,frc_control,b936cc2c6ed6d19a344': 'Add widget to control battery voltage display'},
+C210864,https://github.com/uwreact/frc_control,Commits,frc_control,f67deb07': 'Add dedicated match time msg and battery voltage'},
+C210036,https://github.com/utexas-bwi/segbot,Commits,segbot,d4090': 'added additional flexability to the battery_diagnostics sendmail node that will now allo,
+C207670,https://github.com/uf-mil/SubjuGator,Commits,SubjuGator,cf555c992ddce14ba8628fd548': 'THRUSTERS: add power to ThrusterStatus msg\n\n* Also update msg f,
+C207315,https://github.com/uf-mil/SubjuGator,Commits,SubjuGator,"67e19505609f31a2a8a6': 'ALARMS: Add variable battery voltage alarms, fix height_over_bottom typo'",
+C205977,https://github.com/uf-mil/NaviGator,Commits,NaviGator,1807ba2687fcf91b241ddbfea7': 'LAUNCH: launch battery monitor with motor controllers'},
+C205976,https://github.com/uf-mil/NaviGator,Commits,NaviGator,e if we have >0 measurements\n\n* fixes auto battery low kill on startup'},
+C205536,https://github.com/uf-mil/NaviGator,Commits,NaviGator,be1e322a2f0ab3': 'TOOLS: add tool to publish voltage and wrench to rviz'},
+C205325,https://github.com/uf-mil/NaviGator,Commits,NaviGator,24775c6e45e310220dc8f21a47d0275': 'GUI: Made battery alarm triggers rosparams and added voltage a,
+C204914,https://github.com/uf-mil/NaviGator,Commits,NaviGator,c660b91b2e6541a22': 'SENSOR_CONTROL: Added a battery voltage monitor and alarm'},
+C202217,https://bitbucket.org/udg_cirs/cola2_core,Commits,cola2_core,997394bebfc7db187480ef682266e498abc': 'Added voltage diagnostics for completing VehicleStatus,
+C199079,https://github.com/turtlebot/turtlebot,Commits,turtlebot,"9095eb46c622dc7ebc1e66b6bf': ""rewound laptop battery power checking (kobuki's used an earlier ver",
+C199012,https://github.com/turtlebot/turtlebot,Commits,turtlebot,b38aca521ed2bc8c40393b0a8': 'adding critical battery level in full mode restart 15% battery will,
+C198708,https://github.com/turtlebot/turtlebot,Commits,turtlebot,dc7042a1252551884002ebacb4cf675038': 'laptop battery status diagnostics'},
+C188833,https://github.com/start-jsk/rtmros_common,Commits,rtmros_common,2bee177c1d216f43d9cd9499c99a2319aad75': 'add power indicator'},
+C186229,https://github.com/sjtu-automatic-maritime-system/Sailboat-Ros,Commits,Sailboat-Ros,9687457d723f1a1473d7dfb96648d44bd7987': 'add voltage'},
+C185463,https://github.com/sigmaai/self-driving-golf-cart,Commits,self-driving-golf-cart,osbag record.\n\nexamine computer strain and power consumption'},
+C180069,https://github.com/sbrodeur/ros-icreate-bbb,Commits,ros-icreate-bbb,"ization\n\n- Added visualization support for battery charge (mAh and percentage),\nand battery st",
+C178985,https://github.com/RoverRobotics/rr_openrover_basic,Commits,rr_openrover_basic,5e1d76d3e784ed384bf37d41e652e39b3': 'Add new power info to diagnostics'},
+C178984,https://github.com/RoverRobotics/rr_openrover_basic,Commits,rr_openrover_basic,8894a44812c893d5dd6b9ba2fc886c70b96be': 'Add battery current and battery voltage to OpenRover'},
+C178952,https://github.com/RoverRobotics/rr_openrover_basic,Commits,rr_openrover_basic,d311498faf1f00553939bbf2': 'Added data about battery health and status'},
+C178729,https://github.com/rospilot/rospilot,Commits,rospilot,fc6df0ceb6ebb83b242b7708c': 'Add support for battery voltage monitoring'},
+C177948,https://github.com/rosflight/rosflight,Commits,rosflight,9d98e2ddf6c7595bee04ecf87da06414bc9ad': 'Add battery monitor support'},
+C177946,https://github.com/rosflight/rosflight,Commits,rosflight,e64f5b9172bb33c8f28ee7527': 'Add support for battery monitor messages'},
+C174490,https://github.com/ros/diagnostics,Commits,diagnostics,e5bdb9f5ad571e9f6744a4ba267f8880c3b5f': 'Add voltage sensor support'},
+C173916,https://github.com/ros/diagnostics,Commits,diagnostics,2a018b75046ef272fffeba649aca2': 'Fix type on battery notify call'},
+C16806,https://github.com/autowarefoundation/autoware,Commits,autoware,9eb90a73fe242f3711406c4c5a57f744837d1': 'add battery charging state (#2256)\n\nSigned-off-by: Azu,
+C16802,https://github.com/autowarefoundation/autoware,Commits,autoware,\n* Add bettery charge [%] topic -> /vehicle/battery\r\n\r\nSigned-off-by: Akihito Ohsato <aohsat,
+C157802,https://github.com/ros-interactive-manipulation/pr2_object_manipulation,Commits,pr2_object_manipulation,1a9a1f483141befdb9d2d24a347dfaf1f28': 'added battery level text'},
+C156794,https://github.com/ros-industrial/motoman,Commits,motoman,r the motion.\nFixed enabling servos when in energy-savings mode.\nRemoved extra task creation w,
+C156793,https://github.com/ros-industrial/motoman,Commits,motoman,er - Update\n\nFixed enabling servos when in energy-savings mode.\nRemoved extra task creation w,
+C156745,https://github.com/ros-industrial/motoman,Commits,motoman,"from Rosen Diankov (Mujin):\n> Detection of ""energy savings"" mode.\n> Fix support for R3 and R4",
+C150820,https://github.com/ROBOTIS-GIT/turtlebot3,Commits,turtlebot3,e2a0d6ee9dc0fe0eb708d414f10348a76c2': 'added battery voltage msg pub'},
+C150819,https://github.com/ROBOTIS-GIT/turtlebot3,Commits,turtlebot3,48b19b093db61947a76562fa43087b44542': 'added battery voltage msg and info'},
+C148825,https://github.com/robotican/lizi,Commits,lizi,0200771f8c926609d456c10b70019bb0e': 'publish battery on any state'},
+C146816,https://github.com/RoboJackets/igvc-software,Commits,igvc-software,ng in inaccurate imu readings\r\n\r\n* added battery diagnostics\r\n\r\n* wrote analyser for sens,
+C146476,https://github.com/RoboJackets/igvc-software,Commits,igvc-software,32b2d916a6a431a74cd': 'add comments. Clarify battery avg calculation'},
+C146149,https://github.com/RoboJackets/igvc-software,Commits,igvc-software,416cd1881961dcf93d70': 'fixed issue with low battery warning never publishing'},
+C145095,https://github.com/RoboJackets/igvc-software,Commits,igvc-software,3e9f813086547a4c27b57f0c9dfc8485d4bb': 'Adds battery monitor to dashboard.\nChanges layout of das,
+C138236,https://github.com/RCPRG-ros-pkg/elektron_robot,Commits,elektron_robot,2da803968e37933cd2bad': 'Sound indication of battery lvl'},
+C138233,https://github.com/RCPRG-ros-pkg/elektron_robot,Commits,elektron_robot,929a9174faf9928b68ddd1cffe8c66815504': 'Main battery monitor'},
+C138176,https://github.com/RCPRG-ros-pkg/elektron_robot,Commits,elektron_robot,b77683b85b036914ae12e1dbc681b00a9a': 'Laptop battery monitor'},
+C129080,https://github.com/pantor/ros-control-center,Commits,ros-control-center,52e6632c2fff6b7bb813aaf0673da666b8476c44': 'battery status formatting'},
+C129079,https://github.com/pantor/ros-control-center,Commits,ros-control-center,6e847f1910f53a01893045d8ba3a4b1a62a95653': 'battery status percentage'},
+C129076,https://github.com/pantor/ros-control-center,Commits,ros-control-center,"32eef4d274aae34f760512d437ae20e8d888e28d': 'battery status bar, fixed undefined error'}",
+C129066,https://github.com/pantor/ros-control-center,Commits,ros-control-center,"8f00fa6d4edfe6667be018197': 'new screenshot, battery view, better overflow'}",
+C128629,https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs,Commits,pandora_ros_pkgs,11c8df50c054b7292d76762e3d8fe8db1f2e7': 'Add battery voltage validity check (>12V)'},
+C12664,https://github.com/AutonomyLab/create_autonomy,Commits,create_autonomy,3': 'Move ChargingState publisher with other battery state information'},
+C126274,https://github.com/OUXT-Polaris/robotx_core,Commits,robotx_core,f7583729c6be154a5ddbb54c9be266f5c6c7f': 'add battery_monitor_driver_node'},
+C12622,https://github.com/AutonomyLab/create_autonomy,Commits,create_autonomy,onomyLab/charge-ratio\n\nCompute and publish battery charge ratio'},
+C12621,https://github.com/AutonomyLab/create_autonomy,Commits,create_autonomy,f15dbe012370226426004': 'Compute and publish battery charge ratio'},
+C12607,https://github.com/AutonomyLab/create_autonomy,Commits,create_autonomy,Merge pull request #9 from AutonomyLab/feat-battery\n\nAdd battery info topics'},
+C12605,https://github.com/AutonomyLab/create_autonomy,Commits,create_autonomy,fbdf19fb33e73a1426815d2f7aece8a621c65': 'Add battery info support'},
+C12507,https://github.com/AutonomyLab/bebop_autonomy,Commits,bebop_autonomy,undant IFrame wait test\n- [Tests] Fixed the battery test issue with Bebop 2\n- Tested with Bebop,
+C118673,https://github.com/mavlink/mavros,Commits,mavros,"1b69cf2176079f5a2c6c88bd2': 'sys_status: Add battery status monitoring\n\nFix #19, partial #16.'}",
+C118415,https://github.com/markusk/minibot,Commits,minibot,e27e9ea8f7db1d2d0c915': 'Added piezo beep if battery is empty.'},
+C118414,https://github.com/markusk/minibot,Commits,minibot,652f39d88e8eb2da0e154d2844f730a5aa2': 'Added battery percentage check for battery alarm.\nAlso fi,
+C118301,https://github.com/markusk/minibot,Commits,minibot,3ed': 'Added calculation and actions for all battery states'},
+C118262,https://github.com/markusk/minibot,Commits,minibot,7613f9bd0e6fcbbf62f9dcb302fb00': 'Added more battery status fields'},
+C118254,https://github.com/markusk/minibot,Commits,minibot,6eabd5cc87e7f1e28fd7415b78': 'Added start of battery_publisher'},
+C117940,https://github.com/markusk/minibot,Commits,minibot,a4dee2': 'initial commit. will start the new battery status OLED script'},
+C117926,https://github.com/markusk/minibot,Commits,minibot,cf5d67351df12a587676741e9a535598c21': 'Added battery LCD test. Voltage reading and display.'},
+C117923,https://github.com/markusk/minibot,Commits,minibot,97c859630621ff80e9520bbe51': 'Now displaying battery voltage'},
+C117832,https://github.com/markusk/minibot,Commits,minibot,591466be3748fb4': 'changed code to work with battery service'},
+C117771,https://github.com/markusk/minibot,Commits,minibot,de28': 'Added AD converter code for checking battery voltage'},
+C113935,https://github.com/kuka-isir/cart_opt_ctrl,Commits,cart_opt_ctrl,1e4b5cbf47e814aa3f6f95': 'Adding the kinetic energy constraint'},
+C113689,https://github.com/kucars/haptic_teleoperation,Commits,haptic_teleoperation,ooler will not send data to the robot if the battery is less that 40 %.'},
+C103060,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,ddce8ab6492c1': 'Increase speaking volume in battery_warning.py'},
+C103026,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,"84aec24a561b41': ""Merge branch 'master' into battery_warning""}",
+C102886,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,7cb7f2a203f34bef77343b9b5f39ea9': 'add speak battery app'},
+C102885,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,094154bb891d4dbe15951a43c3a4025fef93e': 'add battery_warning in fetch_bringup.launch'},
+C102881,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,5b19f9929d7c132333cdeaea9d59ee299acac898': 'battery warning init'},
+C102724,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,3517919292109f': 'Speak warning message when battery voltage is low'},
+C102719,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,c23a399d9a701afec90dee08f8ef403c8277e': 'new battery_warning'},
+C101392,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,1be4d1815a2be2b1a747f42e76e67685ef': 'Record battery info before pwer go off'},
+C101049,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,"iwunau/master\n\nspeak the percentage of the battery with min charge and it's id""}",
+C101046,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,3de0f05513e65': 'speak the percentage of the battery with min charge'},
+C100485,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,"""Merge pull request #106 from garaemon/speak-battery-remaining\n\nSpeak the remaining percentages",
+C100484,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,"9a': ""Speak the remaining percentages of the battery if it's not charged""}",
+C100292,https://github.com/jsk-ros-pkg/jsk_robot,Commits,jsk_robot,bc2720c0eda77': 'add script to visualize pr2 battery'},
+GitIssue997,https://github.com/mavlink/mavros/issues/275,GitHubIssues,"Without GPS, Does the /mavros/setpoint_position/local work?","1
+ name: mavros: Battery
+ message: Low voltage
+ hardware_id: /dev/ttyUSB0:57600
+ v",
+GitIssue957,https://github.com/uf-mil/NaviGator/issues/289,GitHubIssues,Create curses based status/debug TUI,"based status GUI which displays things like battery voltage, autonomous/remote control mode, etc",
+GitIssue928,https://github.com/yujinrobot/kobuki/issues/64,GitHubIssues,Implement drive_mode,Just use our api or the cmd_vel.Robot can be charged without modeRobot can be work during charg,
+GitIssue926,https://github.com/turtlebot/turtlebot/issues/102,GitHubIssues,Battery info not working on reference laptop?,"Need to dig more on this, but looks like the battery reader script needs a review. On ASUS laptop",
+GitIssue925,https://github.com/sbrodeur/ros-icreate-bbb/issues/18,GitHubIssues,Convert rosbag files to video files for visualization,"odometry topic).Battery voltage, current and charge information.Collision sensors (range and sw",
+GitIssue923,https://github.com/jsk-ros-pkg/jsk_robot/issues/348,GitHubIssues,To-do List,ffnessの問題[ ]It allows you to charge Pepper’s battery (see Chapter 7.6 Charging).It also deactivat,
+GitIssue920,https://github.com/mavlink/mavros/issues/1284,GitHubIssues,sensor_msgs::BatteryState percentage with a negative value,"s or request features.
+When I am reading the battery status (/mavros/battery -- see below) I noti",
+GitIssue916,https://github.com/whoenig/crazyflie_ros/issues/27,GitHubIssues,Launch crazyflie that is turned off,"pplication and one of the CFs had ran out of battery and died, or if I would just like to remove",
+GitIssue913,https://github.com/yujinrobot/kobuki/issues/137,GitHubIssues,Battery charge set to 100% just after connecting it to the adapter,"This happens because the robot signals ""charged"" for about a second just after connecting",
+GitIssue91,https://github.com/ROBOTIS-GIT/turtlebot3/issues/505,GitHubIssues,Reg:Couldn't determine robot's pose associated with laser scan - burger,"NFO] [1572526181.378821]: Setup publisher on battery_state [sensor_msgs/BatteryState]
+[INFO] [157",
+GitIssue907,https://github.com/turtlebot/turtlebot/issues/54,GitHubIssues,Break out linux_hardware,why dashboard is using topics for the laptop battery. It uses the diagnostics for everything else,
+GitIssue906,https://github.com/UBC-Thunderbots/Software/issues/223,GitHubIssues,Handle Robot Charge state,"In the old AI, the desired robot charge state (whether the capacitors are charged,",
+GitIssue897,https://github.com/ROBOTIS-GIT/turtlebot3/issues/205,GitHubIssues,"Using 1800 batteries, will the opencr board be damaged when the voltage is unstable?","is no problem. After accessing this 1800mah battery, after running for a period of time, it auto",
+GitIssue601,https://github.com/ros-planning/navigation2/issues/887,GitHubIssues,Replace time-based global path replanning with a condition-based approach,to be the difference of putting it into the power saving mode -- so there's no benefit of runn,
+GitIssue6,https://github.com/bluesat/numbat_software/issues/37,GitHubIssues,Estimate battery cost,"Need lipo batteries on robot, estimate cost battery and charge system.Make sure the batteries ar",
+GitIssue586,https://github.com/ROBOTIS-GIT/turtlebot3/issues/403,GitHubIssues,"USB Power OK, but doesnt turn on with 11.1V battery or 12V SMPS power supply",ot responding for any 11.1V power supply via battery or a 12v power supply. Do you think the fuse,
+GitIssue55,https://github.com/UBC-Thunderbots/Software/issues/1173,GitHubIssues,Make robot max battery voltage constant,"tions, we need to actually know the range of battery voltages we can have.We should either create",
+GitIssue548,https://github.com/mavlink/mavros/issues/589,GitHubIssues,Increase the data stream rate in px4 stack using mavros,"puter and then power power the pixhawk using battery.
+But if I power the pixhawk first with a bat",
+GitIssue52,https://github.com/grvcTeam/grvc-ual/issues/66,GitHubIssues,Publish gps position and battery state,no_keyword_in_contents,YES
+GitIssue498,https://github.com/ROBOTIS-GIT/ROBOTIS-OP3/issues/55,GitHubIssues,Sudden power on / off in OpenCR broke NUC,"NUC was broken out when our OP3 ran out the battery and shut down.Second time, it happened when",
+GitIssue491,https://github.com/yujinrobot/kobuki/issues/139,GitHubIssues,Trigger adapter/docking base plug/unplug events,"es:When plug/unplugged we generate ""phantom"" battery full event due to issue . They should disapp",
+GitIssue489,https://github.com/yujinrobot/kobuki/issues/129,GitHubIssues,Battery Documentation,"ctly or view it on GitHub:
+ for generating a battery graph with kobuki turtlebot. It should refer",
+GitIssue488,https://github.com/yujinrobot/kobuki/issues/66,GitHubIssues,Battery Level Runtime Graph,Generate a runtime graph for battery voltage levels. We need these to set the lev,
+GitIssue479,https://github.com/ekumenlabs/tangobot/issues/104,GitHubIssues,Publish battery from Tangobot,Publish battery status:Mobile base battery using the KobukiS,
+GitIssue470,https://github.com/whoenig/crazyflie_ros/issues/112,GitHubIssues,High-level controller causing failed takeoff,"gram camera, a transmitter, and a non-stock battery attached to it. However, I am able to fly ma",
+GitIssue469,https://github.com/tork-a/rtmros_nextage/issues/181,GitHubIssues,Is the simulation working?,"Messages for representing PR2 state, such as battery information and the PR2 fingertip sensors.
+i",
+GitIssue466,https://github.com/AutonomyLab/ardrone_autonomy/issues/191,GitHubIssues,All navdatas are always at 0,", the displayed firmware was ""0.0.0"" and the battery percentage was always at 0. I tried to contr",
+GitIssue465,https://github.com/AutonomyLab/bebop_autonomy/issues/200,GitHubIssues,Echoing /bebop/cmd_vel displays nothing,I have another question!!! where to get the battery state so I can send an error message when th,
+GitIssue460,https://github.com/whoenig/crazyflie_ros/issues/36,GitHubIssues,"(Update: ""Size doesn't match!"" error) Crazyflie won't log battery, temperature, etc.","SI are working fine, but I can't seem to get battery data through the package. I tried connecting",
+GitIssue459,https://github.com/yujinrobot/kobuki/issues/123,GitHubIssues,Battery warning spam if no battery,"rn once, not repeatedly.Uncomment the laptop battery call in minimal.launch when fixed.Done by Un",
+GitIssue455,https://github.com/utexas-bwi/bwi/issues/22,GitHubIssues,Segbot batteries: need endurance tests,"e collected a ROS bag file that recorded the battery voltage over 3 hours, more or less. The robo",
+GitIssue452,https://github.com/utexas-bwi/segbot/issues/39,GitHubIssues,segbot_sensors: smooth voltage data in battery diagnostics node,The raw battery voltages reported seem to fluctuate by sever,
+GitIssue448,https://github.com/UBC-Thunderbots/Software/issues/158,GitHubIssues,Add log support for Annunciator messages,"xample, 
+N/ALog(ANNUNCIATOR) << ""Robot 0 low battery"" << std::endl;",
+GitIssue447,https://github.com/turtlebot/turtlebot/issues/219,GitHubIssues,Will turtlebot be released & supported on Kinetic?,will get us to releasing turtlebot.The smart_battery_msgs has been collapsed into sensor_msgs so,
+GitIssue430,https://github.com/mavlink/mavros/issues/833,GitHubIssues,setpoint_attitude still not publishing attitude in latest mavros,"n/raw/fix [sensor_msgs/NavSatFix]
+ * /mavros/battery [sensor_msgs/BatteryState]
+ * /mavros/setpoi",
+GitIssue43,https://github.com/AutonomyLab/bebop_autonomy/issues/188,GitHubIssues,Trouble with launching driver,bebop/bebop_driver/states/enable_commonstate_batterystatechanged: True/bebop/bebop_driver/states/,
+GitIssue422,https://github.com/dji-sdk/Onboard-SDK-ROS/issues/234,GitHubIssues,No camera images to ROS topics with M210,"ar_velocity_fused
+/dji_sdk/attitude
+/dji_sdk/battery_state
+/dji_sdk/display_mode
+/dji_sdk/flight_",
+GitIssue421,https://github.com/AutonomyLab/bebop_autonomy/issues/48,GitHubIssues,Bebop Disconnects From Wireless Network When Driver is Launched,y after running successfully we replaced the battery and restarted the Bebop. It connects to the,
+GitIssue420,https://github.com/AutonomyLab/bebop_autonomy/issues/77,GitHubIssues,[DISCO] `Video streaming started` encounters `shared_ptr` error,"bebop/bebop_driver/states/enable_commonstate_batterystatechanged: True
+ * /bebop/bebop_driver/sta",
+GitIssue417,https://github.com/jackal/jackal/issues/61,GitHubIssues,Odometry shows false data,troit mercy. Thanks for your advice with the battery management. I have figured out the charging,
+GitIssue416,https://github.com/osu-uwrt/riptide_software/issues/38,GitHubIssues,Safety Node,"node which monitors all safety related data (battery info, kill switch status, is the computer cr",
+GitIssue415,https://github.com/chrisl8/ArloBot/issues/8,GitHubIssues,kinect with arlobot,purely for the purpose of conserving laptop battery power. If you are sure that the Kinect works,
+GitIssue414,https://github.com/yujinrobot/kobuki/issues/228,GitHubIssues,Battery Data,to be able to read the current draw from the battery using kobuki_driver. I know that the dashboa,
+GitIssue413,https://github.com/yujinrobot/kobuki/issues/271,GitHubIssues,Fix Kobuki's inertia,"s volume, which is wrong (mostly due to the battery being intentionally placed at the front).The",
+GitIssue412,https://github.com/yujinrobot/kobuki/issues/43,GitHubIssues,Battery,How to do a warning for the battery level?Make sure that it works with the dashb,
+GitIssue410,https://github.com/whoenig/crazyflie_ros/issues/78,GitHubIssues,hover with vrpn problems,"ll fly out off control
+Is it becasuse of low battery?
+2.
+Can I just publish the position to the g",
+GitIssue406,https://github.com/whoenig/crazyflie_ros/issues/26,GitHubIssues,Control with protective frame,different from your configuration is that my battery is placed on the bottom since I am using the,
+GitIssue403,https://github.com/yujinrobot/kobuki/issues/72,GitHubIssues,Publish laptop battery status,"We are already publishing robot battery status in diagnostics, but not laptop data.",
+GitIssue401,https://github.com/yujinrobot/kobuki/issues/174,GitHubIssues,Too many timed out error on kobuki_node,"on a laptop and robot that were both low on battery.Keep an eye out for this, and if it happens,",
+GitIssue400,https://github.com/yujinrobot/kobuki/issues/95,GitHubIssues,What is the Android Cog?,What is that cog that sits alongside the battery graphics in the android apps?Leave this till,
+GitIssue4,https://github.com/AutonomyLab/bebop_autonomy/issues/43,GitHubIssues,Publish the battery state as a ROS standard message,no_keyword_in_contents,
+GitIssue399,https://github.com/yujinrobot/kobuki/issues/350,GitHubIssues,kobuki diagnostics parameter was out dated,I found that kobuki battery is not presented on kobuki_dashboard when ko,
+GitIssue398,https://github.com/yujinrobot/kobuki/issues/65,GitHubIssues,Check charger bit flags,atch your photo!Done. Still not publishing a battery message containing both robot and laptop bat,
+GitIssue397,https://github.com/uf-mil/NaviGator/issues/45,GitHubIssues,Thrusters not giving feedback,rn feedback information (we mainly just want battery voltage)Any progress on this? It's not vital,
+GitIssue396,https://github.com/uf-mil/NaviGator/issues/51,GitHubIssues,RobotTeq motor controller current trip,"urrent trips were very rare even without the battery swapping, so I do not think enough testing h",
+GitIssue395,https://github.com/uf-mil/NaviGator/issues/258,GitHubIssues,Battery kill never unkills,"Once the battery kill is raised because of low voltage, it do",
+GitIssue394,https://github.com/uf-mil/NaviGator/issues/254,GitHubIssues,Address Battery Paradox,"motor controllers to kill NaviGator when the battery gets too low, and warn us before this. But w",
+GitIssue390,https://github.com/turtlebot/turtlebot/issues/224,GitHubIssues,add a way to disable laptop battery checks,a way to avoid the warnings that the laptop battery could not be measured.Resolved by PR with t,
+GitIssue39,https://github.com/turtlebot/turtlebot/issues/141,GitHubIssues,Trusty laptop battery state not detected,indicates that you need to alter the default battery path (through the ~acpi_path parameter)[WARN,
+GitIssue387,https://github.com/UbiquityRobotics/magni_robot/issues/43,GitHubIssues,Battery Voltage topic not visible on latest image,The latest image doesn't seem to publish a battery voltage topic. I see the following topics:/c,
+GitIssue385,https://github.com/sbrodeur/ros-icreate-bbb/issues/37,GitHubIssues,Battery charge is always zero in visualizations,"Not sure if the problem is that the battery charge is wrongly reported by the robot, or",
+GitIssue384,https://github.com/sbrodeur/ros-icreate-bbb/issues/15,GitHubIssues,Battery life,"Currently at the 75 to 80% mark, the battery dies. This usually manifest as a sudden jump",
+GitIssue383,https://github.com/sbrodeur/ros-icreate-bbb/issues/11,GitHubIssues,Test rosbag recording on robot,eed to verify how long the robot can last on battery power while moving and recording.Recording g,
+GitIssue377,https://github.com/RoboJackets/igvc-software/issues/88,GitHubIssues,battery topic seems to always publish 0?,"Look into how the battery topic works, what sensors it relies on, and",
+GitIssue374,https://github.com/ROBOTIS-GIT/turtlebot3/issues/204,GitHubIssues,How to use large capacity battery ？,"The battery capacity is 8800mah, but more than 2 hours,",
+GitIssue371,https://github.com/ROBOTIS-GIT/turtlebot3/issues/187,GitHubIssues,/dev/tty/ACM0 disappears when OpenCR's 12V output is used,"supplying power with decent power supply or battery, please check whether the 3 analog input sig",
+GitIssue368,https://github.com/ROBOTIS-GIT/turtlebot3/issues/326,GitHubIssues,/battery_state/current does not update,rsions. We need updates to current from the /battery_state topic but it is always displayed as ze,
+GitIssue366,https://github.com/ROBOTIS-GIT/turtlebot3/issues/340,GitHubIssues,Turtlebot3_core doesn't grab the NAMESPACE configuration,e're working directly over the robot and the battery runs out very fast. So that's the reason I d,
+GitIssue365,https://github.com/ROBOTIS-GIT/turtlebot3/issues/338,GitHubIssues,Dynamixel gets stuck after some movement.,"of this if it's helpful.Hi :)Because of low battery, the red led was on. Please check your batte",
+GitIssue361,https://github.com/RoboJackets/igvc-software/issues/53,GitHubIssues,Rviz Plugin - Display Battery Level,Make an rviz plugin to display the current battery level.,
+GitIssue360,https://github.com/ROBOTIS-GIT/ROBOTIS-OP3/issues/63,GitHubIssues,Power supply Intel Nuc and OpenCR,he quick response !Could you recommend me a battery/power supply to get the most out of the 12V,
+GitIssue358,https://github.com/ROBOTIS-GIT/turtlebot3/issues/140,GitHubIssues,Motor Setup Issue,right? I've connected it with the turtlebot3 battery and the red led on the dynamixel blinks when,
+GitIssue355,https://github.com/PR2/pr2_robot/issues/95,GitHubIssues,Bringing up joystick node drains battery (ros ticket #3608),stick keeps a connection open and drains the battery. We could only start the joystick node when,
+GitIssue353,https://github.com/mavlink/mavros/issues/68,GitHubIssues,PX4 connection test,"It works . The problem was I didn't have the battery connected :D
+So the steps are:What about tak",
+GitIssue352,https://github.com/mavlink/mavros/issues/126,GitHubIssues,Define setpoints also as a service,"lsafe cause I have not armed the quad and no battery is connected).
+I will send you a PR with thi",
+GitIssue350,https://github.com/mavlink/mavros/issues/33,GitHubIssues,Add topics for orientation control setpoint.,"l on the same position since I connected the battery, so yeah it's drifting. I'll checkout your n",
+GitIssue349,https://github.com/mavlink/mavros/issues/1094,GitHubIssues,Better communication between my computer and my drone / Change Mavros/Mavlink settings,s on one of the computers) was switching the battery levels between the real battery and the one,
+GitIssue348,https://github.com/mavlink/mavros/issues/759,GitHubIssues,Sync ROS time with FCU time,"ime.
+Because usually GPS module has it's own battery backed rtc, so date are known since first SY",
+GitIssue347,https://github.com/mavlink/mavros/issues/719,GitHubIssues,rosrun mavros mavsafety arm Request failed.,"y fixed this problem!It work after I disable battery failsafe.
+I found this in log output of rosl",
+GitIssue344,https://github.com/mavlink/mavros/issues/461,GitHubIssues,Mavros topic not publishing on ArduCopter,"iagnostics
+/mavlink/from
+/mavlink/to
+/mavros/battery
+/mavros/fix
+/mavros/gps_vel
+/mavros/imu/atm_",
+GitIssue343,https://github.com/mavlink/mavros/issues/209,GitHubIssues,Plugins not publishing when using TELEM2,"iagnostics
+/mavlink/from
+/mavlink/to
+/mavros/battery
+/mavros/camera_image
+/mavros/camera_image/co",
+GitIssue342,https://github.com/mavlink/mavros/issues/190,GitHubIssues,Pixhawk driver,"from it I need to read the rotation angles, battery status, all data. I need a driver package. T",
+GitIssue341,https://github.com/mavlink/mavros/issues/179,GitHubIssues,Extending mavros support to IRIS+,"slightly better results, I occasionally get battery data on the topic (/mavros/battery), but sti",
+GitIssue337,https://github.com/jsk-ros-pkg/jsk_robot/issues/909,GitHubIssues,PR1040のバッテリ交換,した。 what command did you use when displaying battery infomation Battery Name|,
+GitIssue336,https://github.com/jsk-ros-pkg/jsk_robot/issues/21,GitHubIssues,add a script to show time to charge and remaining battery time,we need to be more careful about battery life according to the last week demonstratio,
+GitIssue335,https://github.com/ARCC-RACE/jetson_car/issues/31,GitHubIssues,Packing list for competition,collection USB driveLion charger for traxxas batteryCharger for powerpadd batteryRouterMonitor+HD,
+GitIssue332,https://github.com/gtagency/buzzmobile/issues/42,GitHubIssues,Properly fix battery,rewing the ends of the cable together to the battery again. I thought I had done it properly with,
+GitIssue329,https://github.com/dji-sdk/Onboard-SDK-ROS/issues/31,GitHubIssues,Issues with 0.1.8 Release,iring.problem is: should betogether with the battery following.You can update it by yourself or w,
+GitIssue328,https://github.com/dji-sdk/Onboard-SDK-ROS/issues/19,GitHubIssues,Compass reading is not published,"It still doesn't work. check if RC data and battery data are correct.
+if so, you didn't set comp",
+GitIssue325,https://github.com/dji-sdk/Onboard-SDK-ROS/issues/293,GitHubIssues,Update to 3.9 for ROS Package?,ave been addressed in OSDK-3.9. They are the battery bug and the RTH function. I'll wait for v3.9,
+GitIssue323,https://github.com/bluesat/numbat_software/issues/5,GitHubIssues,Get smart servos working,"the vin and GND pins on the arduino, as the battery doesn’t seem to work (found a power supply t",
+GitIssue321,https://github.com/AutonomyLab/ardrone_autonomy/issues/32,GitHubIssues,Unable to run ardrone_driver on drone 1.0 (firmware 1.7.11),ge that it connected successfully with a 0% battery and then looses the nave data. The LED light,
+GitIssue317,https://github.com/AutonomyLab/ardrone_autonomy/issues/200,GitHubIssues,No bottom camera stream,"again freeflight without removing the drone battery, freeflight doesn't show the bottom camera.M",
+GitIssue313,https://github.com/ROBOTIS-GIT/turtlebot3/issues/245,GitHubIssues,turtlebot3 low battery beeping,no_keyword_in_contents,
+GitIssue312,https://github.com/PR2/pr2_robot/issues/120,GitHubIssues,put battery characterization into a proper stack/package (ros ticket #3747),ld find a good home for it.trac data:measure_power.pypr2_gazebo_pluginsOwner: Reporter: Reporte,
+GitIssue311,https://github.com/mavlink/mavros/issues/1377,GitHubIssues,FCU: arming denied check battery,no_keyword_in_contents,
+GitIssue310,https://github.com/mavlink/mavros/issues/19,GitHubIssues,Publish battery status,no_keyword_in_contents,
+GitIssue303,https://github.com/ros-planning/navigation2/issues/1455,GitHubIssues,To configure maximum speed at runtime,"g fragile or unstable objects, to reduce the energy consumption or to reduce the noise, for exam",
+GitIssue3,https://github.com/uf-mil/mil_common/issues/187,GitHubIssues,GNC: write common library for 3D thruster mapping,"d for other minimization functions (minimize energy, faster processing, etc)Function to disable/",
+GitIssue267,https://github.com/mavlink/mavros/issues/1180,GitHubIssues,offboard request failed,"os/actuator_control
+/mavros/altitude
+/mavros/battery
+/mavros/extended_state
+/mavros/global_positi",
+GitIssue26,https://github.com/AutonomyLab/create_autonomy/issues/7,GitHubIssues,Add support for battery state,"having the various information regarding the battery state as individual topics, it might make mo",
+GitIssue237,https://github.com/utexas-bwi/segbot/issues/112,GitHubIssues,"segbot_sensors: Segbot V4 battery, hardware information is ignored",f the V2. The V4 segbots have much more rich battery information (State of Charge for both the pr,
+GitIssue227,https://github.com/AutonomyLab/bebop_autonomy/issues/184,GitHubIssues,Stablilizing Image frequency,"ally, usually when having low voltage of the battery or in some other magic cases. When the rate",
+GitIssue225,https://github.com/jsk-ros-pkg/jsk_robot/issues/941,GitHubIssues,low battery of PR1040,Speed of decreasing battery of PR1040 is very fast.There was same issue(,
+GitIssue21,https://github.com/ethz-asl/asctec_mav_framework/issues/62,GitHubIssues,Random errors with asctec_mav_framework,"4223845]: ok
+[ERROR] [1525729493.554670607]: battery voltage critical - land now !!!: 0 V
+checksu",
+GitIssue209,https://github.com/AutonomyLab/create_autonomy/issues/31,GitHubIssues,[minor] Incorrect battery charge state when the base is plugged in,driver when the base was plugged in and the battery was dead empty:Thanks. I've noticed this bef,
+GitIssue14,https://github.com/ros-planning/navigation2/issues/1339,GitHubIssues,Add action server feedback to all action tasks,io. It can be used when checking the current battery level is enough to complete task etc...Numbe,
+GitIssue134,https://github.com/ROBOTIS-GIT/turtlebot3/issues/538,GitHubIssues,Turtlebot battery monitoring,"er used by the turtlebot.
+Thank you.
+Hi, the battery voltage is read from OpenCR and delivered to",
+GitIssue115,https://github.com/introlab/rtabmap_ros/issues/286,GitHubIssues,Autonomous Navigation with Turtlebot and Kinect2,"sher/robot_state_publisher)
+turtlebot_laptop_battery (laptop_battery_monitor/laptop_battery.py)RO",
+GitIssue1107,https://github.com/yujinrobot/kobuki/issues/136,GitHubIssues,Battery charge not shown in Android apps,"we always send 2.2, what is that of the 4S1P battery, because by now we cannot identify the batte",
+GitIssue11,https://github.com/dji-sdk/Onboard-SDK-ROS/issues/143,GitHubIssues,"dji_sdk_node crashes, probably related to missions",5 missions in 20-40 minutes or how long the battery lasts.The Waypoint Mission is used to implem,
+GitIssue1073,https://github.com/mavlink/mavros/issues/832,GitHubIssues,Frequent Hard syncing of clock,"is log (suspicious CON msgs)?
+Do you use 16S battery?Thank you for your response.Do you use ntpd_",
+GitIssue1043,https://github.com/mavlink/mavros/issues/1126,GitHubIssues,MAVROS::Altitude still a valid message?,"mavros/adsb/vehicle
+/mavros/altitude
+/mavros/battery
+/mavros/cam_imu_sync/cam_imu_stamp
+/mavros/d",
+GitIssue1003,https://github.com/mavlink/mavros/issues/574,GitHubIssues,Send MAVLink messages to QGroundControl,"rks, I tried to send one message with a fake battery status (mavros_msgs/BatteryStatus.msg):1 - F",
+GitIssue10,https://github.com/dji-sdk/Onboard-SDK-ROS/issues/157,GitHubIssues,Missing Battery Information,"When using an A3 with a custom lipo battery, there is no voltage, current, or capacity i",
+GitIssue0,https://github.com/yujinrobot/kobuki/issues/376,GitHubIssues,kobuki:Timed out while waiting for serial data stream [/mobile_base],"sys/class/power_supply/test_battery/capacity/energy_full_design does not exist]
+[ERROR] [9466881",
+GitPR98,https://github.com/whoenig/crazyflie_ros/pull/44,GitHubPRs,Added timeout to logblock stop in Crazyflie_cpp,"connected Crazyflie, since I will change the battery before removing the crazyflie from ROS). I a",
+GitPR94,https://github.com/uf-mil/NaviGator/pull/49,GitHubPRs,INSTALL: Common Install Script and Miscellaneous Fixes,install script (plus a small addition to the battery monitor).You'll need to merge in master then,
+GitPR92,https://github.com/UBC-Thunderbots/Software/pull/643,GitHubPRs,Add dead robot handling and more messages to radio_communication,"ore warning messages, most importantly a low battery warning.TBD on field No coverage uploaded fo",
+GitPR90,https://github.com/uf-mil/NaviGator/pull/215,GitHubPRs,GUI,Monitors the battery voltage and displays it. Its got tabs too fo,
+GitPR89,https://github.com/uf-mil/SubjuGator/pull/247,GitHubPRs,BUS VOLTAGE: widen window for bus voltage estimate,We still want to kill pretty quickly if the battery is actually low.The bus voltage actually dro,
+GitPR88,https://github.com/utexas-bwi/segbot/pull/63,GitHubPRs,segbot battery profiler,"nclude a method to build the 'profile' for a battery used by a segbot, irrespective of version. T",
+GitPR84,https://github.com/turtlebot/turtlebot/pull/226,GitHubPRs,Simplify launch,ch. thoughts?Three cheers for making netbook battery node optional We've already landed that int,
+GitPR83,https://github.com/turtlebot/turtlebot/pull/61,GitHubPRs,Fixing Roomba config file & laptop battery monitor fix,at I have also added some code to the laptop_battery.py (commit ) so that the new power manageme,
+GitPR80,https://github.com/RoboJackets/igvc-software/pull/364,GitHubPRs,Ethernet,"s not just the motors, but also monitors the battery, sets the PID, and handles all communication",
+GitPR78,https://github.com/OUXT-Polaris/robotx_core/pull/58,GitHubPRs,Feature/battery monitor driver,add battery status monitor node,
+GitPR76,https://github.com/jsk-ros-pkg/jsk_robot/pull/1138,GitHubPRs,[jsk_fetch_startup] add speak battery app,"add speak battery app for fetch
+now this app is running on fet",
+GitPR75,https://github.com/jsk-ros-pkg/jsk_robot/pull/1137,GitHubPRs,[jsk_fetch_startup] add battery warning node to fetch,"Robot warns if the battery percentage is under some threshold.
+under te",
+GitPR74,https://github.com/jsk-ros-pkg/jsk_robot/pull/34,GitHubPRs,add script to visualize pr2 battery,add script to visualize pr2 battery like following:,
+GitPR73,https://github.com/jsk-ros-pkg/jsk_robot/pull/1082,GitHubPRs,[jsk_pr2_startup] use new battery warning,"split from 
+this battery warning is written by and used in PR1040.
+c",
+GitPR72,https://github.com/jhu-asco/aerial_autonomy/pull/27,GitHubPRs,"Fix logic for takeoff, position control","When taking off, if low battery, should try to land
+When reaching goal, if l",
+GitPR70,https://github.com/ipa320/cob_robots/pull/488,GitHubPRs,disabled battery monitor sound/light and emmonitor sound,disabled battery_monitors sound + light and emergency monitor,
+GitPR68,https://github.com/jhu-asco/aerial_autonomy/pull/81,GitHubPRs,Add rpyt based pos control,"ld check for the validity of perceptin data, battery level of quad and height to ensure we are en",
+GitPR64,https://github.com/ekumenlabs/tangobot/pull/127,GitHubPRs,Publishing robot and device battery,no_keyword_in_contents,
+GitPR63,https://github.com/jsk-ros-pkg/jsk_robot/pull/1182,GitHubPRs,Fix battery warning,no_keyword_in_contents,
+GitPR62,https://github.com/RoverRobotics/rr_openrover_basic/pull/4,GitHubPRs,Feature/battery status,no_keyword_in_contents,
+GitPR61,https://github.com/uos/calvin_robot/pull/8,GitHubPRs,add battery guard to calvin.launch,no_keyword_in_contents,
+GitPR58,https://github.com/AutonomyLab/create_autonomy/pull/11,GitHubPRs,Compute and publish battery charge ratio,no_keyword_in_contents,
+GitPR57,https://github.com/AutonomyLab/create_autonomy/pull/9,GitHubPRs,Add battery info topics,no_keyword_in_contents,
+GitPR56,https://github.com/uf-mil/SubjuGator/pull/185,GitHubPRs,VISUALIZATION: add battery voltage and interactive kill markers,e sub to display the latest output from /bus_voltage. This will turn red when below a certain,
+GitPR55,https://github.com/turtlebot/turtlebot/pull/225,GitHubPRs,disable the battery node if TURTLEBOT_BATTERY is set to None,no_keyword_in_contents,
+GitPR53,https://github.com/jsk-ros-pkg/jsk_common/pull/618,GitHubPRs,add battery full capacity summary script,no_keyword_in_contents,
+GitPR52,https://github.com/jsk-ros-pkg/jsk_common/pull/1342,GitHubPRs,[jsk_tools/bin/battery_capacity_summary.py] print N/A for unavailable data,no_keyword_in_contents,
+GitPR51,https://github.com/jsk-ros-pkg/jsk_common/pull/1329,GitHubPRs,[jsk_tools/bin/battery_capacity_summary.py] more battery info,no_keyword_in_contents,
+GitPR50,https://github.com/jsk-ros-pkg/jsk_robot/pull/106,GitHubPRs,Speak the remaining percentages of the battery if it's not charged,no_keyword_in_contents,
+GitPR5,https://github.com/jsk-ros-pkg/jsk_robot/pull/1143,GitHubPRs,Merge PR1040 branch to master,() fix bug of volume () fix typo () enhance battery logging () fix battery warning () enable pr2,
+GitPR49,https://github.com/jsk-ros-pkg/jsk_robot/pull/105,GitHubPRs,Speak the remaining percentages of the battery if it's not charged,no_keyword_in_contents,
+GitPR48,https://github.com/jsk-ros-pkg/jsk_robot/pull/333,GitHubPRs,speak the percentage of the battery with min charge and it's id,"pr2 currently look at average of relative charge, but pr1040 shutdown when there is 6x% left",
+GitPR47,https://github.com/jsk-ros-pkg/jsk_visualization/pull/58,GitHubPRs,add a sample program to visualize pr2 battery,no_keyword_in_contents,
+GitPR46,https://github.com/ipa320/cob_robots/pull/404,GitHubPRs,added battery light monitor to cob4-2s bringup,no_keyword_in_contents,
+GitPR45,https://github.com/ipa320/cob_robots/pull/492,GitHubPRs,params for battery capacity calculation added,y more because we're using the phidget based power state publisher which calculates a relative_,
+GitPR440,https://github.com/uf-mil/NaviGator/pull/265,GitHubPRs,BATTERY: ignore voltage readings if fault,ing decoding of the byteyay hardwareWhen the battery powering a thruster is off (front for left b,YES
+GitPR438,https://github.com/utexas-bwi/segbot/pull/60,GitHubPRs,Battery Diagnostics for Segbot_v3,These changes make the battery diagnostics node (voltage monitor and emaile,YES
+GitPR437,https://github.com/uf-mil/NaviGator/pull/62,GitHubPRs,INSTALL: Common Install Script and Miscellaneous Fixes,tting started and contact informationBattery voltage defaults to none when no feedback is rece,YES
+GitPR43,https://github.com/jhu-asco/aerial_autonomy/pull/87,GitHubPRs,Abort instead of Land when battery is low,no_keyword_in_contents,
+GitPR417,https://github.com/utexas-bwi/segbot/pull/29,GitHubPRs,"Segbot2, voltage emailer update","rd in plaintext. Additionally, I matched the battery_diagnostics and fake_volt_pub subscriber and",YES
+GitPR413,https://github.com/RoboJackets/igvc-software/pull/348,GitHubPRs,Created system_stats node to publish system information,"this with system stats provided by the mbed (battery voltage, estop status, etc.) in a graphical",YES
+GitPR411,https://github.com/jsk-ros-pkg/jsk_robot/pull/1136,GitHubPRs,"add voltage, current and temperature info for pr2 battery logger","oltage, current and temperature info for pr2 battery logger
+cc. LGTMI checked on real PR2:applic",YES
+GitPR40,https://github.com/autowarefoundation/autoware/pull/2256,GitHubPRs,Add battery charging state,ne according to the test procedure./state_cmdcharge_startBatteryCharging/state_cmdcharge_endVeh,
+GitPR4,https://github.com/RoboJackets/igvc-software/pull/647,GitHubPRs,Feat/reduce imu spam,"proper diagnostics to imu, motor controller, battery, lidar, and joystickCleans up the serialInte",
+GitPR39,https://github.com/autowarefoundation/autoware/pull/2026,GitHubPRs,Add state battery charging,no_keyword_in_contents,
+GitPR37,https://github.com/PX4/avoidance/pull/250,GitHubPRs,Cost matrix image,ng functionchange smoothing kernel to be non energy conservantincrease box sizetake out histogra,
+GitPR36,https://github.com/ros-industrial/motoman/pull/132,GitHubPRs,v1.3.7 MotoROS Driver,"tes from Rosen Diankov (Mujin):Detection of ""energy savings"" mode.
+Fix support for R3 and R4 rob",
+GitPR231,https://github.com/jackal/jackal/pull/1,GitHubPRs,Initial messages for review.,"s the use you've got in mind? IMO a ""lowest battery voltage"" would be more usable for diagnosing",YES
+GitPR174,https://github.com/turtlebot/turtlebot/pull/104,GitHubPRs,fix renamed files for battery info on Ubuntu 12.04.3 LTS - Kernel 3.8,"ript by checking more efficiently /proc/acpi/power_supply directory, then /sys/class/power_supp",YES
+GitPR17,https://github.com/ros-controls/ros_control/pull/294,GitHubPRs,Added recover and stop in RobotHW,ement a wireless soft emergency stop for our battery-operated robots. This seems to be the best p,
+GitPR136,https://github.com/ipa320/cob_robots/pull/520,GitHubPRs,Feature/power state,no_keyword_in_contents,YES
+GitPR125,https://github.com/youbot/youbot-ros-pkg/pull/16,GitHubPRs,"added diagnostics message, dashboard, youbot battery monitor and adjust sim parameter","ou have to start the following files:For the battery monitor, please read the README in the respe",YES
+GitPR124,https://github.com/uwreact/frc_control/pull/67,GitHubPRs,Driver Station Backend,"to radio, to robot, etc)Add logic for the PC battery & CPU usage indicatorsAdd logic and timing f",YES
+GitPR123,https://github.com/uf-mil/NaviGator/pull/37,GitHubPRs,Sensor Control and Install,simple import error in move_helperCreated a battery monitor package to keep track of voltageAver,YES
+GitPR119,https://github.com/jsk-ros-pkg/jsk_common/pull/626,GitHubPRs,add hardware id tp battery capacity,"ng two ideas.The first one looks better, but battery infromation has no relationship with hrpsys.",YES
+GitPR114,https://github.com/jsk-ros-pkg/jsk_common/pull/631,GitHubPRs,add roscore_check,s code to know when PR2 shutdown because of battery .So there are many kind of other way to know,YES
+GitPR113,https://github.com/jsk-ros-pkg/jsk_robot/pull/474,GitHubPRs,Record battery info before power go off,"This will create 
+which mark down info of battery with minimum charge in each battery set befo",YES
+GitPR109,https://github.com/jsk-ros-pkg/jsk_common/pull/1628,GitHubPRs,[jsk_tools] Show voltage in battery_capacity_summary.py,"this PR.
+I tested with real PR2.what kind of battery estimation(?) can you get from this voltage",YES
+GitPR107,https://github.com/uf-mil/NaviGator/pull/273,GitHubPRs,GUI: add GUI for voltage monitoring,sary code. The program checks the params for battery-voltage/critical and battery-voltage/low eve,YES
+GitPR102,https://github.com/ipa320/cob_command_tools/pull/207,GitHubPRs,Sound emergency stop monitor,to specify the say output for emergency and battery monitor in and (in ) respectivelydefault b,YES
+GitPR100,https://github.com/jsk-ros-pkg/jsk_robot/pull/1165,GitHubPRs,[jsk_pr2_startup] To deal with NA battery,"In the case of pr2's battery is NA, we cannot calculate the remained perc",YES
+GitPR1,https://github.com/dji-sdk/Onboard-SDK-ROS/pull/253,GitHubPRs,Adding battery voltage information to ROS msg,feature has been removed in With this change battery voltage information (V) is provided in topic,
+REPO_P211,https://github.com/EndPointCorp/lg_ros_nodes,Repositories,lg_ros_nodes,{'wiimoteConstants': ' = 10 Ihttps://github.com/EndPointCorp/lg_ros_nodesstate in wiimote messages: 0: Percentage o'},CODE COMMENT
+REPO_P210,https://github.com/EndPointCorp/lg_ros_nodes,Repositories,lg_ros_nodes,"{'wiimote_node': 'g.rumble) + ""\\n Battery: ["" + str(msg.raw_battery) + "","" + str(msg.percent_battery))rospy.logd'}",CODE COMMENT
+REPO_P191,https://github.com/pbouffard/ccny-ros-pkg-pbouffard,Repositories,ccny-ros-pkg-pbouffard,{'monitor': '://en.wikipedia.org/wiki/Lithium-ion_polymer_battery Maximum Voltage Warning Voltage Minimum Volt'},CODE COMMENT
+REPO_P138,https://github.com/markusk/minibot,Repositories,minibot,{'battery_publisher': 'mestamp for NaN values (Not a Number) import power_supply.h we need a data type to publish the '},CODE COMMENT
+REPO_P1205,https://github.com/elpimous/Neo_robot,Repositories,Neo_robot,"{'pyFestival': 'le re.search(""Utterance"", data) == None:time.sleep(0.5)festCli.setVoice(""el_diphone"")festCli.se'}",CODE COMMENT
+REPO_P1138,https://github.com/chrisl8/ArloBot,Repositories,ArloBot,"{'arlobot_safety': 'r not Track battery I am going to set the AC power status as a parameter, so that it can be che'}",CODE COMMENT
+REPO_P1132,https://github.com/AUV-IITK/Varun-Software,Repositories,Software,{'charging_control_node': 'the status to: ready to leave charging area (battery full) Request that Duckiebot should drive to'},CODE COMMENT
+REPO_P1101,https://github.com/tum-phoenix/phx_quadrocopter_ros,Repositories,phx_quadrocopter_ros,{'controller_node': '!/usr/bin/env python in Hz self.s = 3 # battery configuration 3s/4s self.v_c = 4.7 # voltag'},CODE COMMENT
+REPO_P1087,https://bitbucket.org/udg_cirs/cola2_core,Repositories,cola2_core,{'vehicle_status_parser': 'or last nav data Create Publisher Initialize battery data Which value do I put? This should not b'},CODE COMMENT
+REPO_P1086,https://bitbucket.org/udg_cirs/cola2_core,Repositories,cola2_core,"{'sim_internal_sensors': ' received in X seconds, abort mission Reduce battery level Publish diagnostic message'}",CODE COMMENT
+REPO_P1077,https://github.com/markusk/minibot,Repositories,minibot,{'battery': ' Digital converter object read AD converter (battery voltage) use channel 0 on IC 13.44 Volt batt'},CODE COMMENT
+REPO_P1073,https://github.com/markusk/minibot,Repositories,minibot,{'minibot': 'e.########## Threads##### read AD converter (battery voltage) use channel 0 on IC 2.73 V = 12.32 '},CODE COMMENT
+REPO_P1070,https://github.com/markusk/minibot,Repositories,minibot,{'lcd_test': '-Battery with 3 x 3.3Volt = 9.9 Volt (empty battery) 3S LiPo-Battery with 3 x 4.2Volt = 12.6 Vol'},CODE COMMENT
+REPO_P1069,https://github.com/sbrodeur/ros-icreate-bbb,Repositories,ros-icreate-bbb,{'visualize_hdf5': 'from clock Select only the subset related to battery voltage and current (respectively) Convert c'},CODE COMMENT
+REPO_P1067,https://github.com/sbrodeur/ros-icreate-bbb,Repositories,ros-icreate-bbb,{'behaviours': ' # Activation of behaviour batteryLevel = float(state.battery.batteryCharge) / '},CODE COMMENT
+REPO_P1034,https://github.com/elpimous/Neo_robot,Repositories,Neo_robot,"{'qbo_energy_new': 'n speak just one time can speak when plug in power if unplugged, robot uses it internal battery'}",CODE COMMENT
+REPO_P1017,https://github.com/elpimous/Neo_robot,Repositories,Neo_robot,"{'qbo_energy': ""n attention shutdown soon... when you plug power on qbo side, you'll hear : charging !! charg""}",CODE COMMENT
+REPO_P1014,https://github.com/ipa320/cob_command_tools,Repositories,cob_command_tools,{'battery_monitor': 'ions and limitations under the License. % of battery level % of battery level % of battery level '},CODE COMMENT
+ROSA98,https://answers.ros.org/question/295503/ending-nodestopics-from-python-script/,ROSAnswers,Ending nodes/topics from python script,"he turtlebot to its point of origin when the battery is low, and stop when it reaches that point.",
+ROSA94,https://answers.ros.org/question/271371/how-to-create-a-battery-usage-plugin/,ROSAnswers,How to create a Battery usage plugin,robot model in Gazebo and i want to create a battery plugin and then connect battery with motors.,
+ROSA90,https://answers.ros.org/question/259313/how-to-combine-coordinate-program-and-auto-docking-program/,ROSAnswers,how to combine coordinate program and auto docking program,lly perform auto docking when it detects its battery is low. How to make it? below is my program,
+ROSA88,https://answers.ros.org/question/253680/kobuki-auto-docking-action-server-is-not-connected-yet/,ROSAnswers,Kobuki - Auto Docking - Action server is not connected yet,navigating to some location on a map and the battery drops below safe limits then it needs to ret,
+ROSA868,https://answers.ros.org/question/234963/turtlebot-2-kinect-typexbox360-version-or-pc-version/,ROSAnswers,Turtlebot 2 kinect type(xbox360 version or PC version?),"ad idea: extreme noise, reflections and more power consumption.Ah thank you for these informat",
+ROSA862,https://answers.ros.org/question/185761/board-minimum-hardware-requirements-single-board-full-motherboard-nuc-mini-itx/,ROSAnswers,board: minimum hardware requirements? single board? full motherboard? nuc? mini-itx?,"or any extra regulation when running from a battery. This part of the NUC spec is NOT OBVIOUS, a",
+ROSA85,https://answers.ros.org/question/243708/rviz-on-pc-not-reconnecting-after-robot-reboot/,ROSAnswers,rviz on PC not reconnecting after robot reboot,"master on a robot. When I replace the robot battery and boot the robot, rviz stops receiving dat",
+ROSA839,https://answers.ros.org/question/273784/turtlebot-3-questions/,ROSAnswers,Turtlebot 3 Questions,"nection. 
+Please check the operation voltage/power consumption of the SBC as OpenCR might not s",
+ROSA824,https://answers.ros.org/question/232235/laser-scanner-choose/,ROSAnswers,Laser scanner choose,"is completely different: cheaper, has lower power consumption but also much worse specs than t",
+ROSA808,https://answers.ros.org/question/45950/single-board-pc-for-ros/,ROSAnswers,Single board PC for ROS,"h least a 1.0Ghz modern CPU + 2GB of RAM. If power consumption is not a concern, I would recomm",
+ROSA8,https://answers.ros.org/question/264837/start-ur5-remotely/,ROSAnswers,start ur5 remotely,art UR5 remotely? My main purpose is to save energy on a mobile platform where UR5 is mounted on,
+ROSA796,https://answers.ros.org/question/34462/rosbridge-image-uri-data/,ROSAnswers,rosbridge image (uri-data),e mpeg_server because this solution is quite power consuming. (50-60% of the CPU if i ask for a,
+ROSA79,https://answers.ros.org/question/224477/ros-memory-usage/,ROSAnswers,Ros memory usage,erything works and pass sucessfully the test battery.The problem is when I call the same function,
+ROSA77,https://answers.ros.org/question/223046/control-8x8-grid-of-rgb-leds-like-raspberry-pi-sense-hat-or-unicorn-hat/,ROSAnswers,Control 8x8 grid of RGB LEDs like Raspberry Pi Sense Hat or Unicorn Hat?,ompletely new to ROS.We have a project where battery power is limited but we need some real-time,
+ROSA755,https://answers.ros.org/question/323055/equip-arduino-based-lawn-mower-with-ros/,ROSAnswers,Equip Arduino based lawn mower with ROS,"(like a fence)
+- IMU
+- Odometry
+- monitoring power consumption of motors (to detect high lawn a",
+ROSA74,https://answers.ros.org/question/218412/shutdown-nodes-from-within-a-ros-node/,ROSAnswers,Shutdown nodes from within a ROS node,"like to achieve is something like this:
+Once battery level is below a certain threshold:However I",
+ROSA737,https://answers.ros.org/question/263682/our-robot-will-be-equipped-with-lidars-sterio-camera-slam-algorithm-machine-vision-and-similar-loads-please-suggest-us-the-computer-specification/,ROSAnswers,"Our robot will be equipped with lidars, sterio camera, SLAM algorithm, machine vision and similar loads. Please suggest us the computer specification which will be ideal and optimal?","ng? Do you have any constrains about weight, power consumption?Weight constrain is not there as",
+ROSA725,https://answers.ros.org/question/236888/how-to-get-the-battery-status-of-a-robot-in-gazebo/,ROSAnswers,How to get the battery status of a robot in gazebo?,ebo world moving around. I need to get their battery status like how much battery are they consum,
+ROSA72,https://answers.ros.org/question/215130/problem-connect-turtlebot-and-workstation/,ROSAnswers,Problem connect turtlebot and workstation,577.419304] Battery : unable to check laptop battery info [global name 'exceptions' is not define,
+ROSA716,https://answers.ros.org/question/214026/getting-started-with-ros/,ROSAnswers,Getting Started with ROS,unds like very high performance and very low power consumption. Would the TK1 be used only for,
+ROSA71,https://answers.ros.org/question/214554/shutdown-system-computer-with-a-ros-node/,ROSAnswers,Shutdown system (computer) with a ROS node,"I would like to shutdown the system once the battery level reaches a certain point, however I don",
+ROSA708,https://answers.ros.org/question/199865/commanding-simple-paths-curves-to-move_base/,ROSAnswers,Commanding simple paths / curves to move_base,HiI want to measure the power consumption of my robot when it moves on som,
+ROSA633,https://answers.ros.org/question/324688/2d-navigation-with-arduino-irobot/,ROSAnswers,2d navigation with Arduino + iRobot?,"ncludes IMU data, wheel odom, bumper states, battery voltage, and laser scan data. It's absolutel",
+ROSA61,https://answers.ros.org/question/42059/unable-to-check-laptop-battery/,ROSAnswers,Unable to check laptop battery [closed],"the issue: Turtlebot unable to check laptop battery state, as explained in greater detail in I",
+ROSA606,https://answers.ros.org/question/245514/dc-motor-encoder-python/,ROSAnswers,DC MOTOR + ENCODER + PYTHON,"voltage regulator that can take a variety of battery voltages, and will power the Pi, too. It has",
+ROSA60,https://answers.ros.org/question/112261/brand-new-roomba-790-malfunctioning/,ROSAnswers,Brand new Roomba 790 Malfunctioning,at the same time for 30 seconds. Charge the battery for a good 16 hours after the reset.,
+ROSA6,https://answers.ros.org/question/9868/how-to-mount-a-kinect-with-my-laptop-without-any-ac-adapter/,ROSAnswers,How to mount a Kinect with my laptop without any AC Adapter [closed],"ct without any AC Adapter. Turtlebot use use energy from roomba, but I would like to use other p",
+ROSA59,https://answers.ros.org/question/99576/questions-about-irobot-create/,ROSAnswers,questions about irobot create,"A batteries? I'm inclined on not getting the battery pack, since I'd be using the robot in europe",
+ROSA58,https://answers.ros.org/question/92891/using-smach-to-monitor-robot-battery-level/,ROSAnswers,Using SMACH to monitor robot battery level,scenario using SMACH.The robot monitors its battery level on a topic called /battery_level using,
+ROSA562,https://answers.ros.org/question/55151/turtlebot-netbook-battery-error/,ROSAnswers,Turtlebot Netbook Battery Error,"pply_class.txt
+My system provided power_now, energy_now and voltage_now that I could use to calc",
+ROSA544,https://answers.ros.org/question/51273/is-there-a-ros-package-that-can-provide-gui-for-other-ros-nodes/,ROSAnswers,Is there a ros package that can provide GUI for other ros nodes?,"to show the information gathered by camera, battery power and temperature sensor.It would be bet",
+ROSA54,https://answers.ros.org/question/67616/turtlebot-unable-to-check-laptop-batterybat0state/,ROSAnswers,Turtlebot unable to check laptop battery/BAT0/state,"is Fuerte. Turtlebot unable to check laptop battery/BAT0/state.
+I think there is laptop battery",
+ROSA537,https://answers.ros.org/question/30670/turtleboteu-power-board-and-kinect/,ROSAnswers,turtlebot.eu power board and kinect,ot.eu power board. I don't have any external battery so everything is power through roomba's batt,
+ROSA512,https://answers.ros.org/question/9588/has-anyone-worked-with-the-clearpath-robotics-husky-a200/,ROSAnswers,Has anyone worked with the Clearpath Robotics Husky A200?,"odometric readings, system and power status, battery levels, etc), all published cleanly on separ",
+ROSA51,https://answers.ros.org/question/59996/cancelling-a-ros-action-within-an-executive_teer-node/,ROSAnswers,Cancelling a ROS action within an executive_teer node,points in a map using MoveBase actions and a battery_check task that monitors a simulated battery,
+ROSA458,https://answers.ros.org/question/249777/hector-exploration-slow/,ROSAnswers,Hector Exploration Slow?,"pretty slow when the computer is only on the battery, when it's plugged in the normal power outle",
+ROSA411,https://answers.ros.org/question/218043/what-compact-pc-to-buy-to-run-ros-in-a-mobile-robot/,ROSAnswers,What compact PC to buy to run ROS in a mobile robot,ts easy to power from the robot's batteries (battery board) if the computer only requires unregul,
+ROSA405,https://answers.ros.org/question/272286/ros-compatible-sbc-or-minipc-for-turtlebot-kobuki/,ROSAnswers,ros compatible SBC or minipc for Turtlebot (Kobuki),"ased cpus.
+Since the TK1 runs off the Kobuki battery, power usage is a big thing.
+Are the other c",
+ROSA4,https://answers.ros.org/question/60765/data-droping-at-transport-layer/,ROSAnswers,Data Droping at transport layer,"ts at Transport layer. To save the bandwidth,energy of nodes and reduce the congestion. So is it",
+ROSA39,https://answers.ros.org/question/27666/turtlebot-gmapping-large-area/,ROSAnswers,turtlebot gmapping large area,e I got a power error on the dashboard. The battery display showed that there was plenty of powe,
+ROSA386,https://answers.ros.org/question/253918/best-rgbd-camera-for-ros-on-a-raspberry-pi/,ROSAnswers,Best RGBD camera for ROS on a Raspberry Pi,"ezy, so limited to USB 2.0 I think. I have a battery pack (10w, 5200mAh) which needs to power the",
+ROSA384,https://answers.ros.org/question/251211/i-am-trying-to-start-turtlebot-but-it-is-not-starting/,ROSAnswers,"i am trying to start turtlebot , but it is not starting.","ng bot or green led on status. i checked the battery cable it is connected to 12v 1.5A perfectly,",
+ROSA36,https://answers.ros.org/question/11956/turtlebot-doesnt-start-rotating-on-calibration/,ROSAnswers,Turtlebot doesn't start rotating on calibration,"ibration file, even though still shows the battery amount and breakers in green.Env) Ubuntu 10.",
+ROSA359,https://answers.ros.org/question/210592/keyerrorlaptop_battery_state/,ROSAnswers,KeyError:'laptop_battery_state',"th the kobuki_dashboard.I can see the kobuki battery but not the laptop one. and when i do a ""ros",
+ROSA357,https://answers.ros.org/question/207710/kinect-stops-when-moving-motor/,ROSAnswers,Kinect stops when moving motor,e Laptop connected to the same power source (battery). Whats the whole setup? The motors get the,
+ROSA342,https://answers.ros.org/question/185261/pocketsphinx-microphone-connection-is-unreliable/,ROSAnswers,pocketsphinx microphone connection is unreliable,"that some process went to sleep mode, like a power save feature.Well, what I could see is that",
+ROSA341,https://answers.ros.org/question/174855/create-powers-off-after-minimallaunch/,ROSAnswers,Create powers off after minimal.launch,"low), but I dont see a prompt. I checked the battery and that's charged so that's not the problem",
+ROSA3,https://answers.ros.org/question/61318/udpros-protocol-and-lost-packetsequencing-algorithms/,ROSAnswers,UDPROS Protocol and Lost Packet/Sequencing Algorithms,"Option 2 requires more processing power and energy usage to maintain timeouts, and Option 2 han",
+ROSA291,https://answers.ros.org/question/12127/cant-get-data-from-create-robot-error-reading-from-sci-port-ttyusb0/,ROSAnswers,Cant get data from Create robot - Error reading from SCI port ttyUSB0,"the sensors are Stale apart from the Laptop battery one, and when I do I get the code below. We",
+ROSA290,https://answers.ros.org/question/11994/turtlebot-arm-servos-not-being-recognized/,ROSAnswers,Turtlebot arm servos not being recognized [closed],rbotix board directly off of a iRobot Create battery (as opposed to going through the power board,
+ROSA262,https://answers.ros.org/question/200897/robot-hits-the-obstacles-and-turns-around-occasionally-using-navigation-stack/,ROSAnswers,robot hits the obstacles and turns around occasionally using navigation stack,"t. Then i equipped my robot with a 25 v LiPo battery and now when navigating, it hits the obstacl",
+ROSA25,https://answers.ros.org/question/191251/battery_state_of_charge-publishes-nothing-on-pioneer3dx/,ROSAnswers,battery_state_of_charge publishes nothing on Pioneer3DX,"ion is written that, if the pioneer supports battery_state_of_charge the topic is published. The",
+ROSA230,https://answers.ros.org/question/239958/ros-isnt-recognizing-create/,ROSAnswers,ROS isn't recognizing Create,need to install? I've heard it could be the battery but I haven't received any error messages re,YES
+ROSA22,https://answers.ros.org/question/295138/the-error-about-roslaunchwhen-driving-the-teleoperating-part/,ROSAnswers,"the error about ""roslaunch""when driving the teleoperating part","ng the turtlebot software doesn't expose any battery information through ACPI, so the cannot rea",YES
+ROSA219,https://answers.ros.org/question/192938/are-there-standard-battery-level-messages-in-ros/,ROSAnswers,are there standard battery level messages in ROS,"ot, are there existing standard messages for battery level (in %) or voltage, or thresholds (low)",
+ROSA217,https://answers.ros.org/question/30631/turtlebot-unable-to-check-laptop-batterybat0state/,ROSAnswers,Turtlebot unable to check laptop battery/BAT0/state,My laptop (Thinkpad X120e) reports its battery status in proc/acpi/battery/BAT1/ folder (wh,
+ROSA21,https://answers.ros.org/question/285774/running-turtlebot-minimallaunch-on-a-pc-no-battery-state/,ROSAnswers,"Running Turtlebot minimal.launch on a PC, no battery state.",_full_design || /sys/class/power_supply/BAT0/energy_full_design does not exist],
+ROSA207,https://answers.ros.org/question/313363/local-planner-behaves-unordinary/,ROSAnswers,Local planner behaves unordinary,our robot is moving on and the state of your battery. I was experimenting with my large outdoor,
+ROSA206,https://answers.ros.org/question/336929/ros-newby-suitability-of-old-thinkpad-x240/,ROSAnswers,ROS newby - suitability of old Thinkpad X240?,"hinkpad. The only drawback in my case is the battery life, which for mine lasts only 2 hours or s",
+ROSA204,https://answers.ros.org/question/334408/using-rosserial-to-read-data-from-a-device/,ROSAnswers,Using rosserial to read data from a device,r code.If you're writing the firmware of the battery management system yourself then you could us,
+ROSA20,https://answers.ros.org/question/152146/integration-of-energy-framework-with-ros/,ROSAnswers,Integration of energy framework with ROS,rking on a software framework to monitor the energy consumption of robots or any embedded device,
+ROSA2,https://answers.ros.org/question/54840/alternate-turtlebot-configurations/,ROSAnswers,Alternate Turtlebot Configurations,"equiring 12V) with the much smaller and more energy efficient , which only needs 5V over USB? I",
+ROSA198,https://answers.ros.org/question/300209/robot-bucking-while-driving-in-reverse/,ROSAnswers,"Robot ""bucking"" while driving in reverse",em because it seems to change if I slide the battery around a little. It doesn't solve it but it,
+ROSA194,https://answers.ros.org/question/270751/turtlebot-charging-without-battery/,ROSAnswers,turtlebot charging without battery,rtlebot was delivered without the additional battery: 4S2P (4400 mAh) that has to be connected in,
+ROSA193,https://answers.ros.org/question/269683/intel-euclid-battery-state/,ROSAnswers,Intel Euclid battery state,orm and I'm trying to find a solution to get battery state.Any ideas or suggestionsThanks in adva,
+ROSA19,https://answers.ros.org/question/151946/ros-internals-topics-storage-and-network-comms/,ROSAnswers,ROS internals - topics storage and network comms?,rking on a software framework to monitor the energy consumption of robots or any embedded device,
+ROSA189,https://answers.ros.org/question/251877/slam-with-a-camera-without-odometry/,ROSAnswers,SLAM with a camera without odometry,r converter to produce this voltage from the battery that your RC car has. Then you'll have a ful,
+ROSA186,https://answers.ros.org/question/243928/din-usb-cable/,ROSAnswers,DIN-USB cable,rested in powering devices from the Roomba's battery you can see my about making your own.,
+ROSA184,https://answers.ros.org/question/236426/p2os-and-rosaria-not-connecting-to-pioneer-p3-at/,ROSAnswers,P2os and rosaria not connecting to Pioneer P3-AT,switch on the side. This will give you extra battery life and prevent any possible interference w,
+ROSA183,https://answers.ros.org/question/231771/rospy-sensor_msgsmsgbatterystate-is-not-found/,ROSAnswers,rospy sensor_msgs.msg.BatteryState is not found,"public apt repository.If you really need the battery message, you can use sensor_msgs from source",
+ROSA182,https://answers.ros.org/question/210527/how-to-integrate-kobuki-auto-docking-command-in-roscpp-or-python/,ROSAnswers,how to integrate kobuki auto docking command in roscpp or python,ogram automatically when it detects that the battery is low? then how to add that program to my c,
+ROSA181,https://answers.ros.org/question/219948/7-8-tablet-for-turtlebot/,ROSAnswers,"7-8"" Tablet for Turtlebot?",y 2-in-1 Inspiron 11 3157 (that has terrific battery life and is Ubuntu-certified).If you are wil,
+ROSA179,https://answers.ros.org/question/192672/what-should-i-expect-from-turtlebot-calibration-how-do-i-know-if-my-turtlebot-is-broken/,ROSAnswers,What should I expect from Turtlebot calibration? / How do I know if my Turtlebot is broken?,"to hardware (IMU and Battery). If the Ni-Mh battery is old and used over many charging cycles, i",
+ROSA178,https://answers.ros.org/question/218715/battery-usage-simulation-in-gazebo/,ROSAnswers,Battery Usage Simulation in Gazebo,"hat is best practice in simulating a robot's battery usage in gazebo?I have a robot, and therefor",
+ROSA176,https://answers.ros.org/question/207130/contacting-turtlebot-distributor-i-heart-engineering/,ROSAnswers,Contacting Turtlebot Distributor (I Heart Engineering).,r a while and there is only 2 that have this battery issue. I did some research on the model of a,
+ROSA175,https://answers.ros.org/question/204239/long-term-turtlebot-storage-and-care/,ROSAnswers,Long term turtlebot storage and care,Open the bottom of the Kobuki and unplug the battery pack. And remove the battery from the laptop,
+ROSA174,https://answers.ros.org/question/201704/how-to-power-off-kinect-from-software/,ROSAnswers,How to power off Kinect from software,"s, compute (or measure) their affect on your battery life, and figure out which steps actually ca",
+ROSA171,https://answers.ros.org/question/170766/tum_ardrone-autopilot/,ROSAnswers,tum_ardrone autopilot,and the drone took off after inserting a new battery and things like that. You could post some lo,
+ROSA168,https://answers.ros.org/question/127171/ekf-dosent-work-perfectly/,ROSAnswers,EKF dosen't work perfectly,stimating model parameters from output data (battery time until full while charging).,
+ROSA164,https://answers.ros.org/question/64292/rostopic-echo-to-webpage/,ROSAnswers,rostopic echo to webpage,e output from rostopic echo (for example the battery level) to a webpage? You can look at for t,
+ROSA163,https://answers.ros.org/question/58588/turtlebot-bringup-problems/,ROSAnswers,Turtlebot bringup problems,very helpful. This usually happens when the battery is very low or going bad. I would get a mult,
+ROSA162,https://answers.ros.org/question/57161/turtlebot_bringup-error-invalid-param-tag/,ROSAnswers,turtlebot_bringup error - invalid <param> tag [closed],e roslaunch works fine except for the laptop battery warning which I have described here - Thank,
+ROSA161,https://answers.ros.org/question/12900/microsoft-kinect-or-asus-xtion/,ROSAnswers,Microsoft Kinect or ASUS Xtion ? [closed],"is handy, but (if you can get access to raw battery voltage on your Roomba, like you can on a cr",
+ROSA158,https://answers.ros.org/question/41829/turtlebot-clearpath-kinect-visualization-tutorial/,ROSAnswers,Turtlebot (clearpath) Kinect Visualization Tutorial,"unable to fetch information in the laptop's battery charge state.
+I can set the robot to full mo",
+ROSA156,https://answers.ros.org/question/51181/how-to-connect-the-kinetic-sensor-to-my-ros-computer/,ROSAnswers,How to connect the kinetic sensor to my ROS computer,transformer it self and hook it to my robot battery...I recall there's a way of connecting a kin,
+ROSA155,https://answers.ros.org/question/45885/rviz-unsaved-changes/,ROSAnswers,rviz: unsaved changes,"rviz from time to time when I am working on battery, it saves some power (opengl likes my cpu).A",
+ROSA153,https://answers.ros.org/question/36330/p2os-teleop/,ROSAnswers,P2OS teleop,"rostopic list
+/aio
+/base_controller/command
+/battery_state
+/cmd_motor_state
+/cmd_vel
+/diagnostics",
+ROSA1520,https://answers.ros.org/question/263114/i-want-to-control-10-dynamixel-motors-using-ros-python-i-am-succeeding-up-to-6-motors-at-a-time-but-not-all/,ROSAnswers,I want to control 10 dynamixel motors using ROS Python. I am succeeding up to 6 motors at a time but not all,"ration what i want to do. This looks like a voltage drop issue. In our arm we have 7 motors,",
+ROSA151,https://answers.ros.org/question/38199/error-reading-from-sci-port-no-data-turtlebot-disconnects-when-set-full-mode/,ROSAnswers,Error reading from SCI port. No data. Turtlebot disconnects when set Full Mode,meter) please measure the voltage across the battery to make sure that it is fully charged. Simil,
+ROSA1509,https://answers.ros.org/question/223633/how-to-make-a-slam-robot-with-navigation/,ROSAnswers,How to make a slam robot with navigation?,"o parts are still missing:
+Battery plus some voltage converters. You can use a USB-Powerbank f",
+ROSA1508,https://answers.ros.org/question/220233/battery-monitor/,ROSAnswers,Battery Monitor,not using a laptop computer. I have lithium battery running everything. I would like to add a b,
+ROSA1490,https://answers.ros.org/question/53457/kinect-dies-when-using-the-follower-example-on-a-turtlebot/,ROSAnswers,kinect dies when using the follower example on a turtlebot,be a current issue. I would think that the battery pack could source plenty of current unless m,
+ROSA149,https://answers.ros.org/question/36430/gazebo-dead-slow-on-8x27ghz-cpu-with-a-nvidia-gt650m-gpu/,ROSAnswers,Gazebo dead slow on 8x2.7GHz cpu with a NVidia GT650m gpu,"has Optimus, with a sticker promising great battery life and great performance. I don't care for",
+ROSA147,https://answers.ros.org/question/32736/react-on-diagnostics-eg-shutdown-on-low-battery/,ROSAnswers,react on diagnostics (eg shutdown on low battery),"and?I'd like to shutdown the robot PC if the battery goes low (which the OS isn't aware of), and",
+ROSA1451,https://answers.ros.org/question/306234/looking-for-existing-electromyograph-emgeeg-or-voltage-messages/,ROSAnswers,"Looking for existing Electromyograph EMG/EEG, or voltage messages","EEG/EMG.There was a lightning talk about a (consumer) EEG device last ROSCon (), but that doesn",
+ROSA144,https://answers.ros.org/question/12973/kinect-issues-on-different-machines/,ROSAnswers,kinect issues on different machines,", the Kinect gets it power from the create's battery, not the USB. (The suspicious unconnected c",
+ROSA1437,https://answers.ros.org/question/217804/problem-creating-a-ros-package-with-the-presence-of-external-headers/,ROSAnswers,Problem creating a ROS package with the presence of external headers,"ions, for example to read the voltage of the battery, and publish the data as ROS messages. 
+I pu",
+ROSA1427,https://answers.ros.org/question/51036/irobot-create/,ROSAnswers,irobot create,a step-down appliance into my irobot adapter/charger ! :-) I just checked the transformer. It,
+ROSA1425,https://answers.ros.org/question/38786/problem-adding-rosserial-node-to-turtlebot-bringup/,ROSAnswers,Problem adding rosserial node to turtlebot bringup,"al.launch to have the following. The ""laptop battery"" stuff has been pulled out since I am using",
+ROSA142,https://answers.ros.org/question/12385/irobot-create-odometry-package/,ROSAnswers,irobot create odometry package,"kely that ...i recognized somehing. When the battery is not full, it gives erroneous measurements",
+ROSA1418,https://answers.ros.org/question/218015/problem-in-determining-a-link-language-while-using-external-libraries/,ROSAnswers,Problem in determining a link language while using external libraries,"ions, for example to read the voltage of the battery, and publish the data as ROS messages. I put",
+ROSA1412,https://answers.ros.org/question/293771/publisher-can-only-in-while-no-maybe-other-reason/,ROSAnswers,"publisher can only in While? no, maybe other reason.",PC.Last night I recharge the raspberry's li battery and this morning the code works fine.The pro,
+ROSA141,https://answers.ros.org/question/12263/kinect-does-not-turn-on-turns-off-on-its-own/,ROSAnswers,Kinect does not turn on / turns off on its own,"he kinect goes off again. I thought it was a battery problem, but the dashboard shows the battery",
+ROSA1406,https://answers.ros.org/question/30433/turtlebot-and-turtlebot-arm-and-hokuyo-laser-rangefinder/,ROSAnswers,Turtlebot and turtlebot arm and hokuyo laser rangefinder,"t shutting down the Kinect, Laser or Arm the battery empty faster than it can refill and may dama",
+ROSA1403,https://answers.ros.org/question/151526/using-move_base-recovery-for-initial-pose-estimation/,ROSAnswers,using move_base recovery for initial pose estimation,utocking sequence. Turtlebot have a docking (battery recharger) with infra-red emitters and the r,
+ROSA1402,https://answers.ros.org/question/287099/turtlebot-bringup-not-connecting-to-port/,ROSAnswers,TurtleBot Bringup Not Connecting to Port,"?
+Thanks.Turns out it was a power issue. The battery was too low to power the OpenCR board, so ma",
+ROSA1396,https://answers.ros.org/question/267407/about-battery-management-systems/,ROSAnswers,About Battery Management Systems,"WalterWhy do you need a BMS on a 4S, 6S LiPo battery? These battery packs can operate without th",
+ROSA1394,https://answers.ros.org/question/254899/ros-battery-status/,ROSAnswers,ROS Battery Status,"d car) batteries as well as some Lithium Ion battery packs. Unfortunately, none of the team membe",
+ROSA1393,https://answers.ros.org/question/248531/connect-failed-rosaria-with-robot/,ROSAnswers,Connect failed RosAria with Robot,f neccesary. Make sure the robot is fully charged or plugged in to the charger (with good ba,
+ROSA139,https://answers.ros.org/question/11276/best-pc-architecture-to-run-turtlebot/,ROSAnswers,Best PC architecture to run Turtlebot,ter to run on the TurtleBot is a tradeoff of battery life for computation and price. In general,
+ROSA1389,https://answers.ros.org/question/221362/turtlebot-bad-gyro-calibration/,ROSAnswers,turtlebot bad gyro calibration,"rcuit board from your CREATE Base. On a full battery charge, ensure that there is a constant 5V p",
+ROSA1386,https://answers.ros.org/question/202176/kinect-isnt-visible-from-odroid-when-battery-powered-turtlebot-v2/,ROSAnswers,Kinect isn't visible from Odroid when battery powered (turtlebot v2),Kinect that doesn’t work when the odroid is battery driven. Everything except the things in the,
+ROSA1382,https://answers.ros.org/question/198802/can-rosaria-and-p2os-both-be-used-simultaneously-for-pioneer-robots/,ROSAnswers,Can RosAria and p2os both be used simultaneously for pioneer robots?,e finder. I am however unable to monitor the battery and robot status. Are there any tools to mon,
+ROSA1372,https://answers.ros.org/question/65437/workstation-as-master-turtlebot/,ROSAnswers,Workstation as Master [Turtlebot],e Create. This usually means your turtlebot battery needs to be charged. Or that the connection,
+ROSA1371,https://answers.ros.org/question/58247/turtlebot2-power-for-laptop/,ROSAnswers,Turtlebot2 power for laptop,"Hello,I would like to use the battery of the Kobuki base of my turtlebot to give p",
+ROSA137,https://answers.ros.org/question/10397/is-visualization-ok-on-laptops-with-optimusbumblebee/,ROSAnswers,Is visualization OK on laptops with Optimus+Bumblebee?,"orked fine (unfortunately, you don't get the battery savings that optmius integrated graphics wou",
+ROSA1368,https://answers.ros.org/question/38848/dashboard-is-unble-to-check-the-laptop-battey-state/,ROSAnswers,Dashboard is unble to check the laptop battey state,e: 1342422151.301084] Unable to check laptop battery state. Exception: Value 12265 mW did not hav,
+ROSA1366,https://answers.ros.org/question/34239/turtlebot-dying-when-launching-kinect/,ROSAnswers,Turtlebot dying when launching kinect,down issue is that I swapped to a new laptop_battery.py and it seems to not show the correct char,
+ROSA1362,https://answers.ros.org/question/11885/file-rospack-find-turtlebot_navigationnav_rvizvcg-does-not-exist/,ROSAnswers,file [rospack find turtlebot_navigation/nav_rviz.vcg] does not exist,dashboard to light up properly as one of the battery lights never turn green but both batteries a,
+ROSA136,https://answers.ros.org/question/9647/how-to-connect-kinect-to-a-12v-battery/,ROSAnswers,How to connect Kinect to a 12v battery,mount my kinect on my robot which has a 12v battery. i am a completely noob in the field of elec,
+ROSA1359,https://answers.ros.org/question/10903/does-battery-matter-to-simulated-pr2-robot/,ROSAnswers,Does 'Battery' matter to simulated pr2 robot,"nning pr2 in simulation for a long time, the battery will go down eventually to 0. Does that matt",
+ROSA1357,https://answers.ros.org/question/9448/loading-a-prior-map-with-gmapping/,ROSAnswers,Loading a prior map with gmapping,". Imagine a robot that maps, then docks to recharge. The dock is at the same location as the st",
+ROSA1354,https://answers.ros.org/question/29648/failed-to-put-the-turtlebot-in-full-mode/,ROSAnswers,Failed to put the turtlebot in full mode,"do this:Then, restart. If that doesn't work, charge your turtlebot. This happens every once and",
+ROSA1344,https://answers.ros.org/question/337861/autonomous-docking/,ROSAnswers,Autonomous docking,"I have a DIY robot that docks itself on the charger.
+I use AMCL and Navigation stack to put th",
+ROSA134,https://answers.ros.org/question/10546/pni-digital-compass-driver/,ROSAnswers,PNI Digital Compass Driver,milar problems?I can't do anything about the battery life :) . I have however written some code i,
+ROSA133,https://answers.ros.org/question/44660/suggestions-on-using-irobot-create-with-hokuyo-urg-04lx-turtlebot/,ROSAnswers,Suggestions on using irobot create with hokuyo urg 04lx / turtlebot?,the 12V for Kinect. We use a Yanec external battery (6 Ah) with 5V and 12V (it has also a third,
+ROSA1329,https://answers.ros.org/question/265899/how-can-i-use-sensor_msgsbatterystate/,ROSAnswers,how can I use sensor_msgs/BatteryState,you can follow ) that will suscribe to your battery state topic.In the callback function you can,
+ROSA1324,https://answers.ros.org/question/241032/poor-results-of-loop-closurse-detection-rtabmap_ros/,ROSAnswers,Poor results of loop closurse detection rtabmap_ros.,can. I will make more algorithm tests but my battery is empty i need to wait for charge,
+ROSA1323,https://answers.ros.org/question/10235/android-and-ros-communication-over-usb-instead-of-wifi/,ROSAnswers,Android and ROS Communication over USB instead of Wifi,s would also ensure the android device stays charged. :P At least with the Android Honeycomb,
+ROSA132,https://answers.ros.org/question/53529/usb-graphics-card-for-ubuntu-1204lts/,ROSAnswers,USB Graphics Card for Ubuntu 12.04LTS,"You don't mention if it must be a laptop, or battery operated?The easiest path is to get yourself",
+ROSA1310,https://answers.ros.org/question/61517/turtlebot-teleop-running-no-response/,ROSAnswers,"Turtlebot teleop running, no response","Yes, everything is plugged in correctly and charged. Please help! Do you have TurtleBot 1 or T",
+ROSA131,https://answers.ros.org/question/27755/roomba-500-series-installation-problem/,ROSAnswers,Roomba 500 series installation problem,rate error and a complaint about the laptop battery being in Ma instead of Mw - is this some E,
+ROSA1305,https://answers.ros.org/question/40830/irobot-create-and-beagleboard-failed-to-open-port-devttyusb0/,ROSAnswers,"iRobot Create and BeagleBoard ""Failed to open port /dev/ttyUSB0"" [closed]","should be getting clear, regularly repeating battery status messages - something like: ""bat: mi",
+ROSA1304,https://answers.ros.org/question/41815/raspberry-pi-optimization/,ROSAnswers,Raspberry Pi optimization [closed],a Raspberry Pi with the Turtlebot to save on power consumption and simplify charging.,
+ROSA1302,https://answers.ros.org/question/12928/how-to-use-bilibot/,ROSAnswers,How to use bilibot?,does not come with USB-SCI cable and Create charger dock (for auto homing). Is that normal?Ma,
+ROSA1300,https://answers.ros.org/question/12294/starting-p3dx-using-p2os/,ROSAnswers,Starting p3dx using p2os,i others are not colored (red/green) and the battery is 0% even though the robot is fully charged,
+ROSA1298,https://answers.ros.org/question/12048/status-stale-in-turtlebots-dashboard/,ROSAnswers,"Status ""Stale"" in Turtlebot's dashboard",ly available in ). Does it mean that (a) the battery of is left unused for long so that it has m,
+ROSA1293,https://answers.ros.org/question/136741/turtlebot-outputting-over-serial-but-not-receiving/,ROSAnswers,"Turtlebot outputting over serial, but not receiving",get data from the Turtlebot that seems to be battery charge information.How is it that I have a w,
+ROSA1284,https://answers.ros.org/question/10746/kinect-power-create-shutdown-issue/,ROSAnswers,Kinect power - Create shutdown issue,"can bring the robot down. (both lowering the battery voltage and draining the battery faster)
+Thi",
+ROSA1282,https://answers.ros.org/question/27623/turtlebot-roomba-create-power-issues/,ROSAnswers,turtlebot Roomba/ Create power issues.,. I am struggling with multiple dead roomba battery packs. If I can feed a fixed voltage throug,
+ROSA128,https://answers.ros.org/question/46782/information-about-turtlebot2/,ROSAnswers,Information about Turtlebot2,"he robot isn't docked (to avoid draining the battery), but I'll have to confirm that This post i",
+ROSA124,https://answers.ros.org/question/212371/how-do-i-reset-the-odometry-topic-on-ardrone_autonomy/,ROSAnswers,How do i reset the odometry topic on ardrone_autonomy,date the firmware. Just make sure your phone battery and AR Drone battery is full and click updat,
+ROSA123,https://answers.ros.org/question/61244/can-a-smach-state-machine-be-paused-and-resumed/,ROSAnswers,Can a SMACH state machine be paused and resumed?,"machine. However, it is also monitoring its battery levels using a SMACH MonitorState. When the",
+ROSA122,https://answers.ros.org/question/228533/ekf_localization-odometryfiltered-topicfrequency-too-low/,ROSAnswers,ekf_localization: odometry/filtered topic:Frequency too low?,maximum cpu is utilized unless you're using battery power. It turns out that the default may be,
+ROSA121,https://answers.ros.org/question/230198/which-single-board-computer-should-i-chose/,ROSAnswers,Which single board computer should I chose?,So I shouldn' t prefer it.Do you run from a battery? If so you might want to ditch the Cortex A7,
+ROSA120,https://answers.ros.org/question/236239/how-can-i-power-a-kinect-using-the-irobot-create-2-base-turtlebot/,ROSAnswers,How can I power a kinect using the iRobot Create 2 base? (Turtlebot),"ng the kinect?Or will I need an external 12V battery?Thanks! I'm relatively new to electronics, s",
+ROSA119,https://answers.ros.org/question/251805/i-need-help-writing-a-controller-node-for-a-drone/,ROSAnswers,I need help writing a controller node for a drone,will also ignore any mavlink commands if the battery is a dangerously low and return to their lan,
+ROSA117,https://answers.ros.org/question/296145/turtlebot3-low-battery-beeping/,ROSAnswers,turtlebot3 low battery beeping,"s source code so that it does beep when the battery is low. Thanks! Hi ,The buzzer you mentione",
+ROSA115,https://answers.ros.org/question/331522/sending-velocity-commands-to-the-robot-throught-cmd_vel-topic/,ROSAnswers,sending velocity commands to the robot throught cmd_vel topic,I have another question!!! where to get the battery state so I can send an error message when th,
+ROSA113,https://answers.ros.org/question/342128/ros-create2-ca_driver-dashboard/,ROSAnswers,ROS Create2 ca_driver dashboard?,ca_driver.It publishes several topics on the battery.when I run:rostopic echo /battery/chargeIt r,
+ROSA112,https://answers.ros.org/question/341812/turtlebot3-is-not-functionnig-on-his-bettery-i-dont-undrstend-the-problem/,ROSAnswers,turtlebot3 is not functionnig on his bettery i don't undrstend the problem,ts work but when i turn the turtle on by the battery the respbary3 does not turn on their is a re,
+ROSA111,https://answers.ros.org/question/340524/open-mobile-manipulator-project/,ROSAnswers,Open Mobile Manipulator Project [closed],"0w dc-dc buvk converters(25),1 lipo 5000 mah battery(50), robot base could be just 2 leveled wood",
+ROSA110,https://answers.ros.org/question/314418/local-costmap-window-slowly-drifts-over-static-global-map/,ROSAnswers,local costmap window slowly drifts over static global map,s did not happen. It might be tied when the battery getting low.I will update with a bag file wh,
+ROSA11,https://answers.ros.org/question/208932/cannot-see-the-scan-data-of-rplidar-on-raspberry-pi/,ROSAnswers,Cannot see the scan data of rplidar on raspberry pi,"upply, worked fine!! It´s really a matter of energy!! Thanx a lot!! Saved my day!!max_usb_curren",
+ROSA107,https://answers.ros.org/question/330995/battery-damaged-after-full-discharge/,ROSAnswers,Battery damaged after full discharge,One of my pupils let the battery plugged on the Turtlebot Burger 3 for one ye,
+ROSA106,https://answers.ros.org/question/321734/hokuyo-ust-10lx-power-options/,ROSAnswers,Hokuyo UST-10LX power options,uyo UST-10LX on my RC car and have separated battery to power the lidar and the car. To reduce th,
+ROSA105,https://answers.ros.org/question/52203/kobuki-malformed-subpayload/,ROSAnswers,"Kobuki ""malformed subpayload""","e few times we did, we noticed that Kobuki's battery level was low. Could you test your netbook w",
+ROSA104,https://answers.ros.org/question/318738/have-two-nodes-publish-to-same-topic/,ROSAnswers,Have two nodes publish to same topic,then have another node which sends only when battery is too low. I don't want to change anything,
+ROSA103,https://answers.ros.org/question/313024/turtlebot3-burger-is-not-charging/,ROSAnswers,Turtlebot3 burger is not charging [closed],"requested in the online manual : unplug the battery, take it out of the robot, plug the white pa",
+ROSA102,https://answers.ros.org/question/311408/rosserial-kinetic-error-5-inputoutput-error/,ROSAnswers,rosserial kinetic [Error 5] Input/output error,"would be the answer.Btw, I connected another battery to the motor to supply the working current/v",
+ROSA101,https://answers.ros.org/question/257182/getting-started-in-the-world-of-drone-programming/,ROSAnswers,Getting started in the world of drone programming,"need the drone to have around 30 minutes of battery(ideally more, but if not possible that will",
+ROSA1,https://answers.ros.org/question/42315/ubuntu-1204-and-pandaboard-fails-to-open-asus-xtion-driver-issues-for-arm/,ROSAnswers,Ubuntu 12.04 and Pandaboard -> fails to open ASUS xtion/ Driver issues for ARM,lag of enough usb ports and the fact of less energy consumption). The compiling seems to work we,
+ROSA0,https://answers.ros.org/question/193078/minimum-hardware-requirement-for-ros/,ROSAnswers,Minimum Hardware Requirement for ROS,. So we need to select the hardware which is energy efficient and can have ROS run on it. This,
+ROSD36,https://discourse.ros.org/t/turtlebot3-joule-stalled/2739,ROSDiscourse,Turtlebot3 - Joule stalled,on 12V/3A external power supply or with the battery provided with the Turtlebo3 kit. Logs don’t,2017-09-23 04:28 PM
+ROSD3,https://discourse.ros.org/t/which-board-microprocessor-should-i-use-i-want-to-use-ros-kinetic-on-ubuntu-16-04-along-with-packages-like-move-base-laser-scan-matcher-for-indoor-autonomous-navigation/11488,ROSDiscourse,"Which board/microprocessor should I use? I want to use ROS Kinetic on Ubuntu 16.04, along with packages like move_base, laser_scan_matcher for indoor autonomous navigation",l switch to something that is smaller / more energy efficient but harder to work with.Looks like,2019-11-14 05:53 AM
+ROSD253,https://discourse.ros.org/t/turtlebot3-software-and-firmware-update-and-waffle-pi/3729,ROSDiscourse,TurtleBot3 software and firmware update and 'waffle_pi',"sary to show the new Publisher /diagnostic, /battery_state information and to connect a speaker t",2018-01-18 03:39 AM
+ROSD250,https://discourse.ros.org/t/what-do-you-want-to-see-in-an-educational-ros-platform/10958,ROSDiscourse,What do you want to see in an educational ROS platform?,SLAM onboard.If I just use a 3S LiPo 5000mah battery (it’s already larger than the default). The,2019-10-10 02:21 AM
+ROSD243,https://discourse.ros.org/t/autoware-v1-12-alpha-1/9396,ROSDiscourse,Autoware v1.12-alpha.1,()Split drive state ()melodic support ()add battery charging state ()modify mssion state for fms,2019-06-03 11:15 PM
+ROSD235,https://discourse.ros.org/t/looking-for-kobuki-power-supply-battery-charger/8754,ROSDiscourse,Looking for Kobuki power supply / battery charger,"AC, 50/60Hz, 1.5A max; Output: 19V DC, 3.16A power supply.Here’s an example on Amazon: As for t",2019-04-15 09:00 PM
+ROSD23,https://discourse.ros.org/t/announcing-tf-remapper-cpp-and-static-transform-mux-more-power-to-your-tf/9219,ROSDiscourse,Announcing tf_remapper_cpp and static_transform_mux: More power to your TF!,g TF? Have you looked at the ? Stop wasting energy and CPU cycles by moving to . The API is a s,2019-05-19 05:39 PM
+ROSD227,https://discourse.ros.org/t/sbs-smart-battery-system-smbus-over-usb/12836,ROSDiscourse,SBS (Smart Battery System) SMBus over USB?,"ed, but I’m trying to integrate a SBS laptop battery into a ROS-based robot I’m building, and it’",2018-04-16 08:11 AM
+ROSD226,https://discourse.ros.org/t/tb3-turtlebot3-automatic-parking-under-ar-detection/4476,ROSDiscourse,[TB3] TurtleBot3 Automatic Parking under AR detection,"ironments, such as no-light. Make your own recharge stations or like that by using these packag",2018-04-16 08:11 AM
+ROSD225,https://discourse.ros.org/t/turtlebot3-impressions-so-far/2907,ROSDiscourse,Turtlebot3 - Impressions so far,ointing out in the instructions that charger power supply will also serve as a Joule power supp,2017-10-11 03:02 PM
+ROSD220,https://discourse.ros.org/t/regional-robotics-sailing-winter-academy-at-zhejiang-university/6980,ROSDiscourse,Regional Robotics Sailing Winter Academy at Zhejiang University,ea on a much longer duration compared to the battery-powered counterpart and potentially could se,2018-11-27 07:11 PM
+ROSD22,https://discourse.ros.org/t/autoware-1-12-released/9817,ROSDiscourse,Autoware 1.12 released,including support for better stop states and battery chargingConvex hull predictionSupport for RO,2019-07-08 07:32 PM
+ROSD163,https://discourse.ros.org/t/research-about-the-battery-in-robots/5566,ROSDiscourse,Research about the battery in robots,ching on how to make robots programming more efficient and of a better quality. If you are into ro,2018-07-30 11:33 PM
+ROSD144,https://discourse.ros.org/t/autoware-reference-platform-working-group-meeting-3/11451,ROSDiscourse,Autoware Reference Platform Working Group Meeting #3,"heng
+Requests by Kalray and TierIV
+Estimated power consumption : 20-30 Watts (without accelerat",2019-11-12 11:42 AM
+ROSD138,https://discourse.ros.org/t/project-azure-for-kinect-4th-gen-kinect/4729,ROSDiscourse,Project Azure for Kinect (4th gen Kinect),ncy and modulation contrast resulting in low power consumption with overall system power of 225,2018-05-08 11:21 AM
+ROSD12,https://discourse.ros.org/t/using-nuc-with-kobuki/489,ROSDiscourse,Using NUC with Kobuki,was aware of a power solution e.g. external battery that can connect to the Kobuki 19v output AN,2016-09-10 06:38 PM
+ROSD101,https://discourse.ros.org/t/dont-miss-eu-funding-for-ros-developments-via-rosin-ftps-next-cut-off-dates-june-14-sept-13-2019/8999,ROSDiscourse,"Don't miss EU funding for ROS developments via ROSIN FTPs - Next cut-off dates: June 14 & Sept 13, 2019","ent solutions (in terms of computation time, energy consumption) for a specified task. Currently",2019-05-02 08:43 AM
+SO2,https://stackoverflow.com/questions/59778016/simulating-battery-life-of-a-turtlebot-3-in-gazebo,StackOverflow,Simulating battery life of a Turtlebot 3 in Gazebo,e I can drive around a Turtlebot 3 while its battery state is simulated.I have read about the Gaz,2019-01-16 09:24 PM
+W50,https://wiki.ros.org/phm_tools,Wiki,phm_tools,more component in the Power Module which is battery and the failure rate of this component selec,LAST EDITED
+W42,https://wiki.ros.org/ocean_battery_driver,Wiki,ocean_battery_driver,"ry and Power System.
+
+
+ controls an array of battery controllers. The API below is for informati",LAST EDITED
+W39,https://wiki.ros.org/rosserial_embeddedlinux,Wiki,rosserial_embeddedlinux,"l, and consumes under 10 watts of electrical power. This makes them expandable and interesting",LAST EDITED
+W31,https://wiki.ros.org/pr2_gazebo_plugins,Wiki,pr2_gazebo_plugins,kBaseline>GazeboRosPowerNode<robotNamespace><powerStateTopic><powerStateRate><fullChargeCapacit,LAST EDITED
+W3,https://wiki.ros.org/ps3joy,Wiki,ps3joy,"f>
+<n>: inactivity timeout in seconds (saves battery life).
+<f>: file name to redirect output to.",LAST EDITED
+W23,https://wiki.ros.org/battery_monitor_rmp,Wiki,battery_monitor_rmp,s and then uses espeak to tell the user if a battery is getting low. It also publishes this infor,LAST EDITED
+W21,https://wiki.ros.org/pr2_power_board,Wiki,pr2_power_board,lates the main fan speed of the PR2 based on battery and power board temperature. power_node2pow,LAST EDITED
+W2,https://wiki.ros.org/laptop_battery_monitor,Wiki,laptop_battery_monitor,Simple script to check battery status,LAST EDITED
+W17,https://wiki.ros.org/wiimote,Wiki,wiimote,"umble (vibrator),
+ buttons, joystick, and battery state. The node additionally enables ROS",LAST EDITED
+W14,https://wiki.ros.org/m4atx_battery_monitor,Wiki,m4atx_battery_monitor,ckage will read the information from a m4atx battery supply and publish it as a ros message. Loca,LAST EDITED
+W12,https://wiki.ros.org/kobuki_node,Wiki,kobuki_node,heel_right_joint_namestringwheel_right_joint~battery_capacitydouble16.5~battery_lowdouble13.5~bat,LAST EDITED
+W11,https://wiki.ros.org/power_monitor,Wiki,power_monitor,"wer_monitor collects messages from the ocean_battery_server and
+ the pr2_power_board, and pub",LAST EDITED

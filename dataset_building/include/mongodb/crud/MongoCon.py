@@ -10,7 +10,7 @@ from helpers import ConfReader
 
 class MongoCon:
     def connectDB(self):
-        cReader = ConfReader.ConfReader('../mongodb.cfg')
+        cReader = ConfReader.ConfReader('../parameters.cfg')
         host = cReader.getConf('general', 'host')
         method = cReader.getConf('general', 'con_method')
         user = cReader.getConf('security', 'user')
