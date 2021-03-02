@@ -2,7 +2,7 @@ import ssl
 import json
 import sys
 
-sys.path.insert(1, '../../config/')
+sys.path.insert(1, '../include/')
 
 from mongodb.crud import MongoCon
 
