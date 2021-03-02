@@ -34,7 +34,7 @@ token = ***
 ```	
 The GitHub token is required for Phase 2.	
 
-## Phase 1	
+## Phase 1: Searching for Energy-related Data Points
 
 ```bash	
 $ cd phase1/	
