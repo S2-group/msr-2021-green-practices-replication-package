@@ -16,17 +16,19 @@ $ pip install -r requirements.txt
 
 2) [Restore](https://docs.mongodb.com/manual/reference/program/mongorestore/) the database to your MongoDB instance.	
 
-3) Configure the configuration parameters (file ```./parameters.cfg```):	
+3) Set the configuration parameters (parameters.cfg):	
 
 ```	
 [general]	
 host = ***:27017	
 database = data_phase1	
 con_method = mongodb	
+
 [security]	
 user = ***	
 password = ***	
 extra_param = ?authSource=admin	
+
 [github]	
 token = ***	
 ```	
