@@ -29,3 +29,6 @@ $ python energy_mining.py
 
 The output data is in the <i>output_data</i> folder.
 
+## Generating the Analysis Spreadsheets
+
+...
