@@ -27,7 +27,7 @@ $ cd phase1/
 $ python energy_mining.py
 ```
 
-The output data is in the <i>output_data</i> folder.
+The output will be in the <i>output_data</i> folder.
 
 ## Generating the Analysis Spreadsheets
 
