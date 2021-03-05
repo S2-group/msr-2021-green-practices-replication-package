@@ -20,7 +20,16 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
 ```
-...
+@inproceedings{MSR_2021_architectural_tactics,
+  year = { 2021 },
+  pages = { To appear },
+  month = { May },
+  author = { Michel Albonico and Ivano Malavolta and Gustavo Pinto and Emitzá Guzmán and Katerina Chinnappan and Patricia Lago },
+  publisher = { ACM },
+  booktitle = { Proceedings of the 18th International Conference on Mining Software Repositories, {MSR} },
+  title = { Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation },
+  address = { New York, NY },
+}
 ```
 
 ### Overview of the Replication Package
