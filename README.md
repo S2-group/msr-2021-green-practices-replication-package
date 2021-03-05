@@ -80,7 +80,7 @@ All the explanation of executing dataset building scripts is in the folder [read
        output_data/
             |--- false-negatives.json                  JSON file containing the possible false negatives.
        |--- get_false_negatives.py                     Mining code that searches for false-negatives.
-  |--- Energy-Data-Points-Summary.pdf                  Summary of energy-related data points from our paper.
+  |--- energy_terms_stats.pdf                          Summary of data points with energy terms.
   |--- mongodb-dump.tar.gz                             Dump of MongoDB database.
   |--- parameters.cfg                                  Configuration file.
   |--- requirements.txt                                Python requirements.
