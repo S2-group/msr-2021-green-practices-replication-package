@@ -77,7 +77,7 @@ All the explanation of executing dataset building scripts is in the folder [read
        |--- no-energy-terms-datapoints.csv             List of data points without energy terms.
   |--- energy_terms_stats.pdf                          Summary of data points with energy terms.
   |--- mongodb-dump.tar.gz                             Dump of MongoDB database.
-  |--- parameters.cfg                                  Configuration file.
+  |--- configuration.cfg                                  Configuration file.
   |--- requirements.txt                                Python requirements.
 ```
 
@@ -88,7 +88,6 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 ---
 ```
 ./data_analysis/
-    |--- energy-related-datapoints.csv                 Energy-related data points with timestamp, robot type and main capability.
     |--- coding/
         |--- initial-codes.csv                         Data points and their codes.
 	|--- separated-codes.csv                       List of separated codes.
