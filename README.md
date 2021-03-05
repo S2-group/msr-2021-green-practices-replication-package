@@ -79,7 +79,7 @@ All the explanation of executing dataset building scripts is in the folder [read
   |--- phase3/
        output_data/                                    JSON files of each collection containing the possible false negatives.
        |--- get_false_negatives.py                     Mining code that searches for false-negatives.
-       |--- energy-no-terms.csv			       List of data points without energy terms.
+       |--- no-energy-terms-datapoints.csv             List of data points without energy terms.
   |--- energy_terms_stats.pdf                          Summary of data points with energy terms.
   |--- mongodb-dump.tar.gz                             Dump of MongoDB database.
   |--- parameters.cfg                                  Configuration file.
