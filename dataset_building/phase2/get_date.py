@@ -11,7 +11,7 @@ import os.path
 
 sys.path.insert(1, '../include/')
 
-from mongodb.crud import MongoCon
+from mongodb import mongo_con
 from helpers import ConfReader
 
 def get_dp_date():
@@ -25,7 +25,7 @@ def get_dp_date():
         git_token = cReader.getConf('github', 'token')
         
         # MONGODB DRIVER
-        client = MongoCon.con.mongoClient
+        client = mongo_con.con.mongoClient
         db = client.data_phase1
         
         with open('./input_data/included-datapoints.csv', newline='') as csvfile:

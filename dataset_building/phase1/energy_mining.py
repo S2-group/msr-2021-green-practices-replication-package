@@ -4,7 +4,7 @@ import sys
 
 sys.path.insert(1, '../include/')
 
-from mongodb.crud import MongoCon
+from mongodb import mongo_con
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -261,7 +261,7 @@ def get_energy_pr(collection, rk, collection_key):
 ############################
 
 # MONGODB DRIVER
-client = MongoCon.con.mongoClient
+client = mongo_con.con.mongoClient
 db = client.data_phase1
 
 # REGEX KEYWORDS
