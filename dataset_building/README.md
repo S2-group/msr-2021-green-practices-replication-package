@@ -52,7 +52,9 @@ The output will be in the file <i>energy-term-datapoints.csv</i>.
 
 ## Phase 2: Generating Timestamps
 
-Here we just get the data point dates and transform them into timestamps, necessary for answering RQ1. If you wish to completly execute this phase, you must delete the <i>input_data/included-datapoints-date.csv</i> file.	
+Here we just get the data point dates and transform them into timestamps, necessary for answering RQ1. The list of <b>included</b> data points (energy-related ones) must be saved in <i>input_data/included-datapoints.csv</i>. 
+
+***If you wish to completly execute this phase, you must delete the <i>input_data/included-datapoints-date.csv</i> file.	***
 
 ```bash	
 $ cd phase2/	
