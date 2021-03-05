@@ -99,8 +99,8 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
         |--- 01-rq2-themes.csv                            Cause themes.               
 	|--- 02-main-causes.csv                           Causes after themes.
     |--- rq3/
-        |--- 03-rq3-themes.csv                            Solution themes.
-	|--- 04-main-solutions.csv                        Solutions after themes.
+        |--- 01-rq3-themes.csv                            Solution themes.
+	|--- 02-main-solutions.csv                        Solutions after themes.
     |--- rq4/
     	|--- quality-attributes.csv                    Quality atributes.
 ```
