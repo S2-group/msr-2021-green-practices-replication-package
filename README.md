@@ -63,7 +63,7 @@ All the explanation of executing dataset building scripts is in the folder [read
             |--- git_repos_data.json                   Markdown files and code comments (we still need to upload this to MongoDB).
        |--- output_data/                               JSON files (for each collection) containing data points with energy-related terms.
        |--- energy_mining.py                           Mining code that searches for energy-related.
-       |--- gen_csv.py				       Code that generates the CSV file from extracted JSONs.
+       |--- gen_csv.sh				       Code that generates the CSV file from extracted JSONs.
        |--- energy-term-datapoints.csv                 Data points with energy terms.
   |--- phase2/
        |--- input_data/
