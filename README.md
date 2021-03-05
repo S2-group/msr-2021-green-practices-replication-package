@@ -39,8 +39,8 @@ This replication package is structured as follows:
 
 ```
 ./
-    |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
+    |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
 ```
 
