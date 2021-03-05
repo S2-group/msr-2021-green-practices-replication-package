@@ -16,34 +16,43 @@ $ pip install -r requirements.txt
 
 2) [Restore](https://docs.mongodb.com/manual/reference/program/mongorestore/) the database to your MongoDB instance.	
 
-3) Configure the configuration parameters (file ```./parameters.cfg```):	
+3) Set the configuration parameters (./configuration.cfg):	
 
 ```	
 [general]	
 host = ***:27017	
 database = data_phase1	
 con_method = mongodb	
+
 [security]	
 user = ***	
 password = ***	
 extra_param = ?authSource=admin	
+
 [github]	
 token = ***	
 ```	
 The GitHub token is required for Phase 2.	
 
-## Phase 1	
+## Phase 1: Searching for Energy-related Data Points
 
 ```bash	
 $ cd phase1/	
 $ python energy_mining.py	
 ```	
 
-The output will be in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.	
+The output will be JSON files in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.	
 
-## Generating Data for Phase 2	
+Now, it is time to generate a CSV file for Phase 2.
 
-Here we just get the data point dates and transform them into timestamps. If you wish to completly execute this phase, you must delete the <i>input_data/included-datapoints-date.csv</i> file.	
+```bash	
+$ bash gen_csv.sh	
+```	
+The output will be in the file <i>energy-term-datapoints.csv</i>.
+
+## Phase 2: Generating Timestamps
+
+Here we just get the data point dates and transform them into timestamps, necessary for answering RQ1. If you wish to completly execute this phase, you must delete the <i>input_data/included-datapoints-date.csv</i> file.	
 
 ```bash	
 $ cd phase2/	
@@ -51,3 +60,7 @@ $ python get_timestamps.py
 ```	
 
 All the data required for Phase 2 will be in the <i>output_data/energy-datapoints.csv</i> file. Now, proceed to the [data analysis](../data_analysis/).
+
+## Phase 3: Searching for False Negatives
+
+...
