@@ -29,7 +29,7 @@ If the dataset is helping your research, consider to cite it is as follows, than
 This replication package is structured as follows:
 
 ```
-/
+./
     |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
     |--- MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
@@ -43,7 +43,7 @@ All the explanation of executing dataset building scripts is in the folder [read
 
 ---
 ```
-dataset_building
+./dataset_building
   |--- include/
   |--- configuration/conf_reader.py                    Functions to read configuration files.
   |--- mongodb/                                        MongoDB connectors.
@@ -80,7 +80,7 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 
 ---
 ```
-data_analysis
+./data_analysis
     |--- energy-related-datapoints.csv                 Energy-related data points with timestamp, robot type and main capability.
     |--- coding/
         |--- initial-codes.csv                         Data points and their codes.
