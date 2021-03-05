@@ -43,7 +43,7 @@ All the explanation of executing dataset building scripts is in the folder [read
 
 ---
 ```
-./dataset_building
+./dataset_building/
   |--- include/
   |--- configuration/conf_reader.py                    Functions to read configuration files.
   |--- mongodb/                                        MongoDB connectors.
@@ -80,7 +80,7 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 
 ---
 ```
-./data_analysis
+./data_analysis/
     |--- energy-related-datapoints.csv                 Energy-related data points with timestamp, robot type and main capability.
     |--- coding/
         |--- initial-codes.csv                         Data points and their codes.
