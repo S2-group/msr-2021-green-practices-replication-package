@@ -88,7 +88,7 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 	|--- cleaned-codes.csv                         Renamed codes.
 	|--- codes-classification.csv                  Initial classification of codes by research question.
     |--- rq1/
-	|--- plot_graph.R                              R script that plots the RQ1 graph.
+	|--- plot_graph.R                              R script that plots RQ1 graph.
     |--- rq2/
         |--- rq2-themes.csv                            Cause themes.               
 	|--- main-causes.csv                           Causes after themes.
