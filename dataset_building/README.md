@@ -43,7 +43,7 @@ $ python energy_mining.py
 
 The output will be in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.	
 
-## Phase2: Generating Timestamps
+## Phase 2: Generating Timestamps
 
 Here we just get the data point dates and transform them into timestamps. If you wish to completly execute this phase, you must delete the <i>input_data/included-datapoints-date.csv</i> file.	
 
@@ -54,6 +54,6 @@ $ python get_timestamps.py
 
 All the data required for Phase 2 will be in the <i>output_data/energy-datapoints.csv</i> file. Now, proceed to the [data analysis](../data_analysis/).
 
-## Phase3: Searching for False Negatives
+## Phase 3: Searching for False Negatives
 
 ...
