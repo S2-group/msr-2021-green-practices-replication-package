@@ -75,6 +75,7 @@ dataset_building
 ```
 
 ### Data Analysis
+The data in the CSV files has been manually, collaboratively, and iteratively extracted by the authors of the paper. 
 ---
 ```
 data_analysis
@@ -95,7 +96,6 @@ data_analysis
     |--- rq4/
     	|--- quality-attributes.csv                    Quality atributes.
 ```
-The data in the CSV files has been manually, collaboratively, and iteratively extracted by the authors of the paper. 
 
 ## License
 
