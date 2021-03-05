@@ -45,7 +45,6 @@ All the explanationg of how to execute the dataset building scripts are in the f
 ---
 ```
 dataset_building
-    	.
   |--- include/
   |--- configuration/conf_reader.py                    Functions to read configuration files.
   |--- mongodb/                                        MongoDB connectors.
