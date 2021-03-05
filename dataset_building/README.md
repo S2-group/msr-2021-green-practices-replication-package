@@ -41,7 +41,14 @@ $ cd phase1/
 $ python energy_mining.py	
 ```	
 
-The output will be in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.	
+The output will be JSON files in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.	
+
+Now, it is time to generate a CSV file for Phase 2.
+
+```bash	
+$ bash gen_csv.sh	
+```	
+The output will be in the file <i>energy-term-datapoints.csv</i>.
 
 ## Phase 2: Generating Timestamps
 
