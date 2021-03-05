@@ -58,4 +58,4 @@
 ,{"url": "https://wiki.ros.org/lanelet2_routing", "package": "lanelet2_routing", "package_summary": ["Routing module for lanelet2"]}
 ,{"url": "https://wiki.ros.org/controller_manager_msgs", "package": "controller_manager_msgs", "package_summary": ["Messages and services for the controller manager."]}
 ,{"url": "https://wiki.ros.org/urg_c", "package": "urg_c", "package_summary": ["The urg_c package"]}
-,]
+]
