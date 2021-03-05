@@ -89,18 +89,18 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 ```
 ./data_analysis/
     |--- coding/
-        |--- initial-codes.csv                         Data points and their codes.
-	|--- separated-codes.csv                       List of separated codes.
-	|--- cleaned-codes.csv                         Renamed codes.
-	|--- codes-classification.csv                  Initial classification of codes by research question.
+        |--- 01-initial-codes.csv                         Data points and their codes.
+	|--- 02-separated-codes.csv                       List of separated codes.
+	|--- 03-cleaned-codes.csv                         Renamed codes.
+	|--- 04-codes-classification.csv                  Initial classification of codes by research question.
     |--- rq1/
 	|--- plot_graph.R                              R script that plots RQ1 graph.
     |--- rq2/
-        |--- rq2-themes.csv                            Cause themes.               
-	|--- main-causes.csv                           Causes after themes.
+        |--- 01-rq2-themes.csv                            Cause themes.               
+	|--- 02-main-causes.csv                           Causes after themes.
     |--- rq3/
-        |--- rq3-themes.csv                            Solution themes.
-	|--- main-solutions.csv                        Solutions after themes.
+        |--- 03-rq3-themes.csv                            Solution themes.
+	|--- 04-main-solutions.csv                        Solutions after themes.
     |--- rq4/
     	|--- quality-attributes.csv                    Quality atributes.
 ```
