@@ -77,9 +77,9 @@ All the explanation of executing dataset building scripts is in the folder [read
        |--- get_date.py	                               Gets the date of each data point (we still need to move this to Phase 1).
        |--- get_timestamp.py                           Gets the timestamp of each data point (we still need to move this to Phase 1).
   |--- phase3/
-       output_data/
-            |--- false-negatives.json                  JSON file containing the possible false negatives.
+       output_data/                                    JSON files of each collection containing the possible false negatives.
        |--- get_false_negatives.py                     Mining code that searches for false-negatives.
+       |--- energy-no-terms.csv			       List of data points without energy terms.
   |--- energy_terms_stats.pdf                          Summary of data points with energy terms.
   |--- mongodb-dump.tar.gz                             Dump of MongoDB database.
   |--- parameters.cfg                                  Configuration file.
