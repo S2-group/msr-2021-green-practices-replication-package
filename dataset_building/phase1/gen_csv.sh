@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files=`ls ../csvutils/*.py`
+files=`ls ../include/csvutils/*.py`
 
 for f in $files
 do
