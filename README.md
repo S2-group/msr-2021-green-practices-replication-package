@@ -33,7 +33,7 @@ This replication package is structured as follows:
     .
     |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
-    |---MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
+    |--- MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
 ```
 
 Each of the folders listed above are described in details in the remaining of this readme.
@@ -52,7 +52,7 @@ dataset_building
        |--- driver.py                                  Used by mongo_con.
        |--- mongo_con.py                               Functions to connect and query MongoDB. 
   |--- phase1/
-       |--- input_data/                                Data used by Phase 1 scripts.
+       |--- input_data/                                
             |--- git_repos_data.json                   Markdown files and code comments (we still need to upload this to MongoDB).
        |--- output_data/                               JSON files (for each collection) containing data points with energy-related terms.
        |--- energy_mining.py                           Mining code that searches for energy-related.
