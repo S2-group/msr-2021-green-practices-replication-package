@@ -31,9 +31,9 @@ This replication package is structured as follows:
 ```
     /
     .
-    |--- data_analysis/       		The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
-    |--- dataset_building/     		The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
-    |--- ICSE_SEIP_2020.pdf             A copy of the paper in pdf format
+    |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
+    |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
+    |---MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
 ```
 
 Each of the folders listed above are described in details in the remaining of this readme.
@@ -46,28 +46,34 @@ All the explanationg of how to execute the dataset building scripts are in the f
 ```
 dataset_building
     	.
-	|--- include/
-       |--- configuration/conf_reader.py              Functions to read the configuration file.
-       |--- mongodb/                                  MongoDB connectors.
-             |--- driver.py
-             |--- mongo_con.py                        Functions to connect and query MongoDB. 
+  |--- include/
+  |--- configuration/conf_reader.py                    Functions to read configuration files.
+  |--- mongodb/                                        MongoDB connectors.
+       |--- driver.py                                  Used by mongo_con.
+       |--- mongo_con.py                               Functions to connect and query MongoDB. 
   |--- phase1/
-       |--- input_data/                               Data that is not queried from MongoDB.
-            |--- git_repos_data.json                  ?
-       |--- output_data/                              JSON files corresponding energy-related data points extracted from each of the database collections. 
-       |--- energy_mining.py                          Mining code that searches for energy-related terms in the data points.
+       |--- input_data/                                Data used by Phase 1 scripts.
+            |--- git_repos_data.json                   Markdown files and code comments (we still need to upload this to MongoDB).
+       |--- output_data/                               JSON files (for each collection) containing data points with energy-related terms.
+       |--- energy_mining.py                           Mining code that searches for energy-related.
   |--- phase2/
        |--- input_data/
-            |--- included-datapoints-date-msr2021.csv
-            |--- included-datapoints-date.csv
-            |--- included-datapoints.csv (TO BE EXCLUDED)
+            |--- included-datapoints-date-msr2021.csv  Reference file (used in the paper) - all the energy-related data points and their dates.     
+            |--- included-datapoints-date.csv          Editable list of energy-related data points with dates.
+	    |--- included-datapoints.csv               All the energy-related datapoints without dates.
        |--- output_data/
-            |--- energy-datapoints-msr2021.csv
-            |--- energy-datapoints.csv
-  |--- aaaa.pdf                                       Summary of energy-related data points from our paper. 
-  |--- mongodb-dump.tar.gz
-  |--- parameters.cfg
-  |--- requirements.txt
+            |--- energy-datapoints-msr2021.csv         Reference file (used in the paper) - all the energy-related data points with timestamps.
+            |--- energy-datapoints.csv                 Editable list of energy-related data points with timestamps.
+       |--- get_date.py	                               Gets the date of each data point (we still need to move this to Phase 1).
+       |--- get_timestamp.py                           Gets the timestamp of each data point (we still need to move this to Phase 1).
+  |--- phase3/
+       output_data/
+            |--- false-negatives.json                  JSON file containing the possible false negatives.
+       |--- get_false_negatives.py                     Mining code that searches for false-negatives.
+  |--- Energy-Data-Points-Summary.pdf                  Summary of energy-related data points from our paper.
+  |--- mongodb-dump.tar.gz                             Dump of MongoDB database.
+  |--- parameters.cfg                                  Configuration file.
+  |--- requirements.txt                                Python requirements.
 ```
 
 ### Data Analysis
