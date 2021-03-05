@@ -1,0 +1,863 @@
+Separated codes,Cleaned codes
+2d laser scanner,laser scanner
+4 cells pcm,battery cells
+7 A li-ion battery,lithium battery
+??,NA
+???,NA
+AA battery autonomy,AA batteries
+CPU as relevant energy drainer,CPU as power sink
+CPU on high demand,CPU as power sink
+CPU power,CPU as power sink
+CPU slows down,CPU performance
+CPU usage,CPU usage
+Create2 robot,Create2 robot
+DO LATER,NA
+FP,FP
+FP?,FP
+GUI,GUI
+Intel Euclid,CPU
+Intel over Atoms,CPU
+LCD test,LCD display
+NA - sodiumvions battery,sodium battery
+NUC mini-pc,NUC mini-pc
+OLED display,OLED display
+OLED displays,OLED display
+OR battery level,OR battery level
+Pioneer3DX,Pioneer3DX
+Provide battery information,battery information
+RGB led grid,led
+ROS integration,ROS integration
+ROS master,ROS master
+ROS msg,ROS message
+ROS topic,ROS topic
+ROSA117,NA
+SBC for ROS,SBC for ROS
+Sailing robots,sailing robot
+TO CHECK - FIXED,NA
+TPK1 package,TPK1 package
+UI,UI
+UR5 is on,UR5 is on
+URG-04LX sensor,URG-04LX sensor
+abort instead land,abort instead land
+abort_mission,abort mission
+abstract power modes,abstract power modes
+abstract raw battery readings,abstract raw battery readings
+acpi,ACPI
+ad converter,AD converter
+adaptation,adaptation
+add,NA
+add battery charging,battery charge
+add battery guard,battery guard
+add battery node,add battery node
+add battery state suport,add battery state support
+add battery warning,add battery warning
+add battery_state topic,battery state
+add charge states,battery state
+add energy,energy message
+add hardware id,hardware ID
+add pct,battery percentage
+add sensor,sensor
+add status,battery state
+add topic,energy topic
+add voltage,battery voltage
+add voltage info,battery voltage
+"add voltage, current and temperature",battery information
+added battery information,battery information
+added charge and discharge states,battery charge
+additional mail info,email
+adjustable warning,adjustable warning
+airdrone driver fails,airdrone driver fails
+alarm,alarm
+alarm variable,alarm variable
+allways sounds warning,always sounds warning
+any state,battery state
+api,energy API
+architecture,architecture
+arduino,Arduino
+arduino nano,Arduino
+arduino publishing voltage,Arduino
+arm based cpu,CPU
+as ros message,energy message
+auto dock,auto dock
+auto docking,auto dock
+auto recharging,auto recharging
+auto_docking,auto dock
+autocore board,autocore board
+autonomous_navigation,autonomous navigation
+autonomy,autonomy
+autonomy lab,NA
+autopilots,autopilots drone
+autoware reference,autoware
+autoware relase,autoware
+avoid cortex a7,CPU as power sink
+avoid draining robot battery,avoid draining robot battery
+avoid warning for no battery,avoid warning for no battery
+avoiding low battery beep,avoiding low battery beep
+avoiding oscilation near to the threashold,avoiding oscilation near to the threashold
+back home,back home
+baterry info,battery information
+batter info,battery information
+batter monitoring,battery monitor
+batter-operated robots,batter-operated robots
+battery and temperature info,battery and temperature info
+battery as part of diagnostics,battery as part of diagnostics
+battery autonomy,battery autonomy
+battery calculation,battery estimation
+battery capacity,battery capacity
+battery capacity summary,battery capacity
+battery characterization,battery estimation
+battery charge ratio,energy profiler
+battery charger,charge
+battery charging state,charge state
+battery ckeck,battery check
+battery code bug,battery code bug
+battery configuration,battery configuration
+battery configurations,battery configuration
+battery consumption,energy consumption
+battery consumption question,energy consumption
+battery critical level,battery low
+battery current,battery current
+battery diagnistic node,battery diagnostic
+battery diagnostic,battery diagnostic
+battery diagnostic fails,battery diagnostic
+battery diagnostic/info,battery diagnostic
+battery display testing,testing
+battery documentation,battery documentation
+battery draining fast,battery draining fast
+battery driven,battery mode
+battery error,battery error
+battery estimation,battery estimation
+battery file,battery configuration
+battery high,high battery
+battery in the log,logging
+battery indicator,UI
+battery inf,battery information
+battery info,battery information
+battery info = stale,battery information
+battery info issue,battery information
+battery info msg,battery information
+battery info node,battery information
+battery info plugin,battery information
+battery info script,battery information
+battery info/monitor,battery information
+battery info/monitoring,battery information
+battery info/power monitor,battery information
+battery info/profiling,battery information
+battery info/state,battery information
+battery information,battery information
+battery is full,battery full
+battery is in green,UI
+battery led is misconfigured too,LED
+battery level,battery information
+battery low,battery low
+battery low threshold,battery lower threshold
+battery lower than 40%,battery lower threshold
+battery lower than 50pct,battery lower threshold
+battery maintanance,battery management
+battery management,battery management
+battery management system,battery management
+battery manegement,battery management
+battery misinfo,battery misinformation
+battery misinformation,battery misinformation
+battery mode,battery mode
+battery monitor,battery monitor
+battery monitor hardware,battery monitor
+battery monitoring,battery monitor
+battery monitoring issue,battery monitor
+battery monitoring/check,battery monitor
+battery node optional,battery node optional
+battery not connected,battery not connected
+battery of thinkpad laptop,laptop battery
+battery online profiling,battery online profiling
+battery parameters,battery parameters
+battery percentage,battery percentage
+battery profile,energy profiler
+battery recharge,recharge battery
+battery saving,energy saving
+battery script location,battery script location
+battery simulation,battery simulation
+battery state,battery state
+battery state timeout,battery state timeout
+battery tactic,battery tactic
+battery temp,battery temperature
+battery test,testing
+battery thresholds,threshold
+battery too low,battery low
+battery update timeout,battery state timeout
+battery very low,battery low
+battery voltage,battery voltage
+battery voltage low,battery voltage
+battery voltage topic,battery voltage
+battery voltage/type,battery voltage
+battery warning,battery warning
+battery warning/,battery warning
+battery warning/info,battery warning
+battery-based strategy,battery tactic
+battery_pack,battery pack
+battery_percent,battery percentage
+battery_raw_percentage,battery percentage
+battery_settings,battery configuration
+battery_state topic,battery topic
+battery_voltage,battery voltage
+battery_warning,battery warning
+battrey and gps state,battery state
+baud rate not battery,NA
+beep,beep warning
+beep warning,beep warning
+before going off,before shutting down
+before innacurate voltage,beffore battery misinformation
+before shuting down,before shutting down
+before velocity change,velocity change
+behaviour switch,behaviour switch
+benchmarking,benchmarking
+better representation,better representation
+better resolution/v1,better resolution/v1
+bug,bug
+bug fix,bug
+calculation,battery calculation for task
+calibration,battery calibration
+calvin,calvin
+camera,camera
+cannot code,NA
+capacity summary,battery information
+car battery,car battery
+care-o-bot,care-o-bot
+chaging state,charging state
+changing sw version,changing sw version
+charge,charge
+charge always 0,charge always 0
+charge estimation independent of the type of battery,charge estimation independent of the type of battery
+charge percentage,charge percentage
+charge progress,charge progress
+charge state,charge state
+charger,charge
+charging,charge
+charging info,charging info
+charging state,charging state
+charging strategy,charging strategy
+charging_during_mission,charge during mission
+check battery level,check battery level
+check battery voltage,check battery voltage
+check energy consumption OpenCR,chech energy consumption
+check voltage,check battery voltage
+checking power routine,check power routine
+checks uav status,checks uav status
+closed due to code policy,NA
+closed without solution,no solution
+cob robots,cob robot
+cob4-2s,cob robot
+code correction,code
+code issues,code
+coding,code
+comment,in the comments
+comment: battery diagnostic speaker,in the comments
+comments,in the comments
+communication issue,communication
+compact computers,compact computers
+complete mission,complete mission
+computation in the cloud,cloud computing
+computation power,computational power
+config,configuration
+configurable battery thresholds,threshold
+configurable estimation method,configurable estimation method
+configurable frequency,configurable frequency
+configuration,configuration
+configuration files,configuration
+connect to the netbook,communication issue
+connection issue,communication issue
+constrains fan speed,fan speed contraint
+correct msg format,message format
+correct state after a while,correct state ocasionally
+corrected yaml,configuration file
+correctness,correctness
+cost,battery cost
+could be FP,NA
+could be battery,NA
+could be ok for testing,testing
+cpu tradeoff,CPU tradeoff
+cpu usage,CPU usage
+cpu utilization,CPU usage
+crazyflies hang when one goes down,crazyflies hang when one goes down
+css and image,NA
+curious to see,NA
+current and voltage,battery voltage
+customize message,ROS message
+customizing turtlebot3 kit,turtlebot kit
+dashboard,dashboard
+default battery behavior,default battery behavior
+denied by dev,NA
+dependency,diagnostic depends on battery info
+depends on battery level,battery level
+diagnosis,battery diagnostic
+diagnostic,battery diagnostic
+diagnostics,battery diagnostic
+difficult_implementation,difficult implementation
+disable battery info,disable battery info
+disable servo,disable servo
+disable sound,disable sound
+disabling battery failsafe,disable battery failsafe
+display shows plenty of power,battery full
+displays dead battery,battery dead
+dji a3,dji
+dji autopilots,dji
+do not charge anymore,charging issue
+do not work on ubuntu,ubuntu related issue
+does not matter,NA
+don't say why,NA
+drive mode,drive mode
+drone battery autonomy,autonomy
+drone controller node,drone controller node
+drone navigation/flying,drone navigation
+drone uncontrolled flying,drone navigation
+dropping useless tcp pkts,dropping useless tcp pkts
+duplicate GPR50,NA
+eMMC memory low power,memory
+eco mode,eco mode
+education,education
+emailer,email
+embedded system,embedded system
+embedded_device,embedded system
+emergency stop,emergency stop
+energy consumption,energy consumption
+energy consumption calc,energy consumption
+energy consumption monitoring,energy consumption
+energy consumption of CPU,energy consumption
+energy consumption of kinect,energy consumption
+energy efficiency,energy efficiency
+energy efficient,energy efficiency
+energy info,battery information
+energy saving,energy saving
+energy tactic,energy tactic
+energy_saving_as_problem,energy saving as problem
+enough for a task,task battery autonomy
+error,error
+error contacting device,communication error
+error gyro calibration,error calibrating gyro
+error message,error message
+error reading SCI port,communication error
+error while launching,launching error
+estimation,battery estimation
+etc,NA
+ethernet communication,network
+even when low,battery low information
+event trigger,event trigger
+failure,failure
+faking battery status,faking battery status
+false power up - kinect seems on but it does not work since it does not receive enough power,false power up - kinect seems on but it does not work since it does not receive enough power
+fault report,fault report
+filtering tools/iptables,network
+first code,NA
+fix,fix
+fix battery warning,fix battery warning
+fix launch file,fix launch file
+fix take off code,fix take off code
+fixed,fix
+flying,flying
+flying with mavros,flying
+following specific path,navigation
+framework,framework
+friendlier message format,friendlier message format
+full capacity,battery full
+full charge,battery full
+further battery status,battery information
+further info,additional battery information
+gazebo plugin,gazebo plugin
+go_back_home_battery_low,back home
+graph,battery state machine
+gui,GUI
+hardware,hardware
+hardware compatibility,hardware
+hardware id?,hardware
+hardware requirement,hardware
+hardware stuff,hardware
+hector exploration too slow,hector exploration too slow
+help,help
+high battery level,high battery level
+high performance,high performance
+highest modulation frequency,highest modulation frequency
+hits obstacles,hits obstacles
+hovering,hovering
+how to auto dock,auto dock
+how to get battery info,howto battery info
+how to go back to the last state,howto go back to last state
+how to kill all,howto kill all nodes
+how to kill nodes,howto kill all nodes
+howto,howto
+howto help,howto
+howto show it on dashboard,howto ui
+howto warn,howto warning
+html page,NA
+husky robots gazebo,gazebo husky
+hybernating,hybernation
+if battery cause,check battery as issue cause
+if higher than 0,battery not empty
+ignore commands if battery low,ignore commands if battery low
+image freezes,freezing image
+image message,Image message
+image publishing frequence,image publishing frequence
+implementation feature,new feature
+implementation in python or C++,python vs C++
+improve battery charge info,battery information
+improvements,NA
+in launch file,launch file
+in motors launch file,launch file
+in the comments,in the comments
+inactivity timeout for saving battery,inactivity timeout for saving battery
+including battery status,battery state
+incompatible battery,incompatible battery
+increase volume,battery warning volume
+indices/vars without code,NA
+infra-red or camera,infrared camera
+initial position estimation,estimate initial position
+innactivity timeout,inactivity timeout for saving battery
+insufficient battery to power OpenCR,lack of battery information
+integrate to ROS,ROS integration
+into a log file,logging
+irobot create,irobot create
+joystick,joystick
+joystick drains battery,battery drain
+just mention battery,NA
+keep history,keep track of battery life
+keeps sending info,keeps sending info
+kill process if battery is low,kill process if battery is low
+kinect,kinect
+kinect connected,kinect availability
+kinect dies,kinect dies
+kinect issue,kinect problem
+kinect not visible,kinect availability
+kinect v2,kinect
+kinect with laptop,kinect with laptop
+kinet error,kinect problem
+kobuki,kobuki
+kobuki do not run,kobuki
+kobuki node,kobuki
+kobuki robot,kobuki
+lack of power kinect,kinect lack of power
+lack of sensor,no sensor data
+land if battery is smaller than x,land when battery low
+land now,landing
+land when battery low,land when battery low
+landing,landing
+laptop,laptop
+laptop and device,laptop
+laptop battery,laptop battery
+laptop battery state not shows up,laptop battery
+large sensor depth,large sensor depth
+laser scanner,laser scanner
+latpot diagnostics,laptop battery diagnostic
+lauch file,launch file
+launch file,launch file
+launch files,launch file
+launchfile,launch file
+lcd,LCD display
+level,battery level
+level in rviz,battery level
+level under threshold,battery level
+levels,battery level
+life unplugged,battery life when unplugged
+light monitor,battery light monitor
+likely misconfiguration,misconfiguration
+limite features if battery is low,battery tactic limit features
+link to rviz,rviz
+lipo battery,lipo battery
+local costmap drifts,local costmap drifts
+log,logging
+log file,logging
+low battery,battery low
+low consumption,low energy consumption
+low current,low current
+low power consumption,low energy consumption
+low processing power,low processing power
+low voltage,low voltage
+low-power devices,low-powered device
+low-powered motherboard,low-powered device
+low-powered robot,low-powered device
+lower power consumption,low energy consumption
+lower threshold,battery lower threshold
+maintainability,maintainability
+makes kinect to go off,kinect shutdown
+many battery in the log,logging
+matching topics,ROS topic
+max voltage constant,battery max voltage
+measure energy consumption,energy consumption measurement 
+merge,NA
+mic stops working,microphone stops working
+microprocessor,microprocessor
+minimal launch,minimal launch
+minutes after connecting kinect,after connecting kinect
+misplugged power cables,misplugged power cables
+missing info,battery misinformation
+mjpeg_server,mjpeg server
+mobile platform,mobile platform
+monitor and stop notification,battery monitoring and stop notification
+monitor energy consumption,energy monitoring
+monitor fix,energy monitoring
+monitor launch file,energy monitoring
+monitorin,energy monitoring
+monitoring,energy monitoring
+monitoring motor power,motors monitoring
+monitoring the motors,motors monitoring
+more power consumption,high energy consumption
+motor control issue,motors control
+motor controller,motors control
+motor movement issue,motors issues
+motor power is killed,motor power is killed
+movement,NA
+moving code,NA
+lawn mowing robot,lawn mowing robot
+mpeg_server is power consuming,mpeg_server is power consuming
+mros max speed,mros max speed
+msg,message
+multiple battery,multiple battery
+multiple cells,batter cells
+navigation,navigation
+navigation issue,navigation issue
+navigation state machine,navigation
+nb battery node optional,battery node optional
+need battery voltage,battery voltage
+need to integrate to ROS,ROS integration
+needs power reset,power reset
+new /sys filesystem organization,file path
+new bms,battery management
+new calculation params,new calculation params
+new feature,new feature
+new fields,new fields
+new tf_remapper module,new tf_remapper module
+new type/file path,new file path
+new version consumes more,energy inefficient new version
+no answer,NA
+no battery constraint,no battery constraint
+no battery info,no battery info
+no battery topic,no battery topic
+no charge,no charge
+no charging symbol on dashboard,no charging symbol on dashboard
+no data,no data
+no feedback,NA
+no feedback received,NA
+no robot and laptop info,no robot and laptop info
+no serial connection,communication issue
+node,ROS nodes
+not a battery issue,NA
+not answered,NA
+not available,NA
+not available/not found,NA
+not battery,NA
+not detected,NA
+not in the dashboar,UI misconfiguration
+not mavros but drone itself,drone issue
+not receiving,communication issue
+not stopping on base,not stopping on base
+ocean server,ocean server
+odometry error,UI error
+odometry frequency,UI misconfiguration
+odometry frequency,odroid
+old battery,old battery
+OLED display,OLED display
+once down never comes back,never comes back
+only a comment,NA
+only in the logs,logging
+only says he only receives battery info,NA
+open rover,open rover
+opencr,opencr
+opencr and intel nuc,opencr
+opencr shuts down/cannot power on,opencr do not power back
+operate longer,howto operate longer
+optimize loading,UI optimization
+optimus nvidia,NVIDIA optimus
+oriental language/characteres,NA
+os_sleep,OS sleep
+other single board comp,SBC
+outdated code,outdated code
+overall sm energy and nav,overall sm energy and nav
+pack into battery_state topic,pack into battery_state topic
+path in lauch file,launch file
+pct,percentage
+percentage_raw_battery,battery percentage
+performance,performance
+perncentage,percentage
+phidget devices plugin,device plugin
+physical battery,physical battery
+physical battery discussion,physical battery
+physical battery info,physical battery
+physical stuff,physical battery
+physucal battery,physical battery
+pixhawk/autopilots drones interface,autopilots drone
+pkg,package
+plugged and power,plugged and power information
+polishing,update
+poor battery management systme,battery management
+poor specs,low resolution specs sensor
+possibe voltage drop,battery voltage drop
+possibility/could be,NA
+possible FP,FP
+possible power supply issue,power supply
+power,power
+power changes,power variation
+power consumption,energy consumption
+power consumption info,energy consumption information
+power down,shutdown
+power events,power events
+power functions,power functions
+power level indicator,energy level
+power line or battery,power line or battery
+power management,power management
+power monitor,energy monitoring
+power on the arm when controller is already on,power on the arm when controller is already on
+power state,power state
+power supply,power supply
+power-related events,power events
+power_board,power board
+powering with capacitor,powering with capacitor
+pr1040,pr robot
+pr2,pr robot
+pr2 battery log,logging
+pr2 power board,pr robot
+pr2 robot,pr robot
+pr2 shutdown,pr robot shutdown
+pr2_power_board,pr robot
+provide battery info,battery information
+provide battery information,battery information
+ps3joy gamepad,gamepad
+publish,publish battery information
+publish even if battery is no low,publish even if battery is no low
+publish power and battery states,publish battery information
+publish topics,publish battery information
+publisher,publish battery information
+pulish,publish battery information
+question: consider running out of battery,battery low
+readme file,NA
+real-time visualization as energy inefficiency,real-time visualization as energy inefficiency
+recharge battery after reseting,recharge battery after reseting
+recharge on the robot,robot recharge
+recharging station,charging station
+recorde,battery track
+red battery led,battery led
+regulate tension to 8v,tension regulation
+relax CPU,CPU usage
+remaining,remaining battery
+remaining distance,remaining
+remaining lifetime,battery lifetime
+remaining pct,battery percentage
+remote power on,power on remotely
+rename files,file path
+replace battery,replace battery
+replace land by abort,replace land by abort
+replaced battery,replace battery
+requirement,NA
+result not available,NA
+return to base/auto docking,auto dock
+reuse powerstate function,reuse powerstate function
+rich info not tracked,rich info not tracked
+robot and laptop,robot and laptop
+robot do not return to base,auto dock
+robot movement,movement
+robot navigation,navigation
+robot unresponsive,unresponsive
+robots programming,NA
+roomba,roomba
+ros + raspberrypi saving energy,energy saving
+ros compatible,ROS integration
+ros message,ROS message
+ros msg to gui,GUI
+ros serial connection error,communication error
+ros topic,ROS topic
+rosaria,ROS rosaria
+rosbag,ROS rosbag
+roscore_check,ROS roscore check
+rosout,ROS rosout
+rqt_robot_dashboard,UI
+runtime graph,battery state graph
+rviz,rviz
+rviz closed,rviz closed
+rviz stops receiving data,rviz stops receiving data
+safety,safety
+sailing boat,sailing boat
+same as REPO_P1077,NA
+same as ROSA20,NA
+sample code,NA
+save battery,save energy
+save energy,save energy
+save energy after shutdown,save energy
+save energy timeout,save energy
+save energy used by arm on a mobile platform,save energy
+saving mode,save energy
+sbc asus xtion,SBC
+scanner,laser scanner
+script,ROS script
+seems to be battery hardware or charge,physical battery
+seems to be physical battery,physical battery
+segbot,segbot
+segbot multi-version,segbot
+self-driven golf car,self-driven car
+sensing,sensor
+sensor,sensor
+sensor control,control sensor
+sensor_msg,sensor message
+sensors,sensor
+sensors actuators simulation,sensor
+separate UI for different batteries,ui
+serial com,serial communication
+serial node publishing,ROS publisher
+service,service
+servo,servo motor
+set battery configuration,battery configuration
+set mode to false,battery mode
+set voltage to zero,energy configuration
+"setting up warning, error and critical thresholds",battery information
+shopping tip,NA
+should land when battery is low,battery low landing
+show remaining time,battery information
+shutdown ros nodes,shutdown
+shutdown system,shutdown
+shutdown when battery is low,battery low shutdown
+shuts off when lower than 13v,battery low shutdown
+simple msgs easy to parse,message parsing
+simulated energy but always static values,simulated energy
+simulated values,simulated energy
+simulating battery,battery simulation
+simulating pr2 robot,simulation
+simulation,simulation
+simulator,simulation
+single comment,NA
+sleep mode,sleep mode
+smach state machine,state machine
+small device,low-powered device
+smart BMS,battery management
+smart battery msg error,battery information
+smart battery system - laptop,battery management include laptop
+smoothing battery raw data,battery information
+software optimization as a tactic,tactic software optimization
+solution: external battery,physical battery
+solved,NA
+solved by external battery,NA
+solved by in new images,NA
+speak alert,battery warning
+speak warning low battery,battery warning
+speaker,battery information speaker
+speaks shutdown,batter warning speaks shutdown
+speaks when charging,battery charging speaker
+splitting to two nodes,ROS nodes
+state always float,battery state
+state is zero,battery state
+status bar,UI
+status not being updated,status not being updated
+"status, health and lipo","status, health and lipo"
+std messages,battery standard message
+stop and recover,stop and recover
+stop due to monitor,stop due to monitor
+stop mission if low voltage,stop mission if low voltage
+stop movement,stop movement
+stops after 45 minutes,stops after 45 minutes
+stream frequency,streaming frequency
+streaming images as binaries saves energy,save energy by streaming binary images
+stuck,robot stuck
+subscribe,subscribing
+subscriber cannot read,subscribing
+survey GForms,NA
+switch to passive mode,passive mode
+tactic,tactic
+takeoff,takeoff
+tangobot,tangobot
+technical debt,technical debt
+test,testing
+test display,testing
+tested,testing
+testing,testing
+they don't discuss it,NA
+threshold,threshold
+thresholds,threshold
+thruster gazebo simulation,thruster gazebo simulation
+time-based diagnostics,battery diagnostic
+timeout,timeout
+tlp-rdw,NA
+to video display,video display
+too fast,robot too fast
+topics for future conference,NA
+tradeoff,tradeoff
+tradeoff with performance,performance tradeoff
+transforms expensive,NA
+triggers,triggers
+troubles bringing up map,troubles bringing up map
+turnoff kinect,turnoff kinect
+turtlebot,turtlebot
+turtlebot and base with infra-red,turtlebot and base with infra-red
+turtlebot and kobuki base,kobuki base and turtlebot
+turtlebot burger,turtlebot
+turtlebot dashboard,UI
+turtlebot hardware config,turtlebot hardware
+turtlebot mapping error,mapping error
+turtlebot runs out of battery,turtlebot battery drain
+turtlebot sensor,sensor
+turtlebot to full mode,charging mode
+turtlebot turns off automatically,turtlebot turns off automatically
+turtlebot2 as a solution,turtlebot2 as a solution
+turtlebot3,turtlebot
+turtlebot3_diagnosis.cpp,diagnostics
+tutorial,tutorial
+tutorial suggestions,tutorial
+two nodes,ROS nodes
+uav drones,drone
+ubiquity robotics image,ubiquity robotics image
+ubuntu,ubuntu
+ubuntu pkg,ubuntu package
+ui,UI
+unable to check,NA
+unable to check battery state,unable to check battery state
+unable to check laptop,unable to check laptop
+unable to get battery state,unable to check battery state
+unable to get data,unable to get data
+unavailable,NA
+unclear unit of measure,NA
+unpair code,unpair code
+unstable,unstable
+unsupported hardware,unsupported hardware
+update,update
+ur5 dashboard,UI
+ur5 robotic arm,robotic arm
+validate voltage,battery voltage validation
+vehicle state machine,vehicle state machine
+version update,version update
+visualization,visualization
+visualization but rviz,visualization but rviz
+voltage,battery voltage
+voltage and alarm,battery warning
+voltage and capacity,battery capacity
+voltage and current,battery voltage
+voltage approximated from hardware,voltage approximated from hardware
+voltage calculation,battery voltage calculation
+voltage estimator,battery voltage estimation
+voltage monitor,battery monitoring
+voltage returns none,no voltage data
+voltage sensor,sensor
+voltage unstable,battery voltage unstable
+waiting for Onvoard-SDK new version,waiting for Onvoard-SDK new version
+waiting for messages,waiting for messages
+warning,warning
+warning thresholds,threshold
+warning when no battery,battery warning
+"warning, error and critical",battery warning
+web,UI
+when battery driven,battery driven
+when battery is dead,battery dead
+when battery not full,battery not full
+when servo motor,servo motor
+which sensors,sensors
+wide sight,wide sight
+wiimote device,wiimote
+wind for saving power,wind power
+wind power,wind power
+react quickly if the battery is low,react quickly if the battery is low
+worked,NA
+works after firmware update,firmware
+worst hardware specs,hardware
+wrong battery info,battery misinformation
+wrong behavior,wrong behavior
+wrong file path,wrong file path
+wrong metric,wrong metric
+wrong odometry data,wrong UI
+wrong unit convertion,wrong unit convertion
+wrong value,wrong value
+wrong/outdated parameters,wrong parameters
+yaml file issue,configuration file
+youbot,youbot
+yoybot,youbot

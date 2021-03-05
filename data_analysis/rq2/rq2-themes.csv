@@ -1,0 +1,159 @@
+Codes,Themes
+AA batteries,BATTERY_PHYSICAL_SPECS
+ACPI,LOW_LEVEL_CONNECTORS
+AD converter,LOW_LEVEL_CONNECTORS
+after connecting kinect,KINECT
+airdrone driver fails,DRIVERS
+autopilots drone,NAVIGATION
+batter-operated robots,NOT_INFORMATIVE
+battery code bug,BUGS
+battery dead,BUGS
+battery drain,BATTERY_PHYSICAL_SPECS
+battery draining fast,NOT_INFORMATIVE
+battery driven,NOT_INFORMATIVE
+battery error,BUGS
+battery life when unplugged,BATTERY_PHYSICAL_SPECS
+battery misinformation,BATTERY_MISINFORMATION
+battery not connected,NOT_INFORMATIVE
+battery not full,CHARGING_ISSUE
+battery voltage drop,VOLTAGE
+battery voltage unstable,VOLTAGE
+beffore battery misinformation,BATTERY_MISINFORMATION
+before shutting down,LOGGING
+bug,BUGS
+changing sw version,CHARGING_ISSUE
+charge,CHARGING_ISSUE
+charge always 0,CHARGING_ISSUE
+charging issue,CHARGING_ISSUE
+check battery as issue cause,ENERGY_AS_BUG_CAUSE
+code,BUGS
+communication error,LOW_LEVEL_CONNECTORS
+computational power,CPU
+CPU,CPU
+CPU as power sink,CPU
+CPU performance,CPU
+CPU tradeoff,CPU
+CPU usage,CPU
+crazyflies hang when one goes down,NOT_INFORMATIVE
+difficult implementation,DIFFICULT_CODING
+disable battery failsafe,VOLTAGE
+dji,ROBOT_SPECIFIC
+drone,NOT_INFORMATIVE
+drone navigation,NAVIGATION
+energy inefficient new version,SW_HW_UPDATE
+error,BUGS
+error calibrating gyro,DRIVERS
+failure,BUGS
+false power up - kinect seems on but it does not work since it does not receive enough power,KINECT
+file path,TROUBLESHOOTING
+freezing image,TROUBLESHOOTING
+help,TROUBLESHOOTING
+high energy consumption,SW_HW_UPDATE
+high performance,BOARD
+highest modulation frequency,SENSORS_ACTUATORS
+howto,TROUBLESHOOTING
+Image message,SEND_IMAGES
+image publishing frequence,SEND_IMAGES
+incompatible battery,BATTERY_PHYSICAL_SPECS
+irobot create,ROBOT_SPECIFIC
+joystick,ROBOT_SPECIFIC
+keeps sending info,NETWORKING
+kinect,KINECT
+kinect availability,KINECT
+kinect dies,KINECT
+kinect lack of power,KINECT
+kinect problem,KINECT
+kinect shutdown,KINECT
+kobuki,ROBOT_SPECIFIC
+lack of battery information,BATTERY_MISINFORMATION
+laptop battery,BATTERY_PHYSICAL_SPECS
+large sensor depth,SENSORS_ACTUATORS
+laser scanner,SENSORS_ACTUATORS
+launch file,LAUNCH
+launching error,LAUNCH
+lipo battery,BATTERY_PHYSICAL_SPECS
+lithium battery,BATTERY_PHYSICAL_SPECS
+local costmap drifts,ENERGY_AS_BUG_CAUSE
+low current,VOLTAGE
+low voltage,VOLTAGE
+microphone stops working,ENERGY_AS_BUG_CAUSE
+minimal launch,LAUNCH
+misconfiguration,BUGS
+mjpeg server,STREAM_VIDEO
+motors issues,NAVIGATION
+movement,NAVIGATION
+mpeg_server is power consuming,STREAM_VIDEO
+multiple battery,NOT_INFORMATIVE
+navigation,NAVIGATION
+navigation issue,NAVIGATION
+never comes back,NAVIGATION
+new feature,SW_HW_UPDATE
+no battery constraint,NOT_INFORMATIVE
+no battery info,BATTERY_MISINFORMATION
+no battery topic,BATTERY_MISINFORMATION
+no charge,CHARGING_ISSUE
+no charging symbol on dashboard,UI
+no data,NETWORKING
+no robot and laptop info,TROUBLESHOOTING
+no sensor data,SENSORS_ACTUATORS
+no solution,TROUBLESHOOTING
+no voltage data,VOLTAGE
+NVIDIA optimus,BOARD
+odroid,BOARD
+old battery,BATTERY_PHYSICAL_SPECS
+opencr,BOARD
+opencr do not power back,BOARD
+OR battery level,NOT_INFORMATIVE
+outdated code,TECHNICAL_DEBT
+performance,NOT_INFORMATIVE
+performance tradeoff,NOT_INFORMATIVE
+physical battery,BATTERY_PHYSICAL_SPECS
+Pioneer3DX,ROBOT_SPECIFIC
+power line or battery,BATTERY_PHYSICAL_SPECS
+power supply,VOLTAGE
+power variation,VOLTAGE
+pr robot,ROBOT_SPECIFIC
+pr robot shutdown,ROBOT_SPECIFIC
+publish even if battery is no low,TROUBLESHOOTING
+real-time visualization as energy inefficiency,UI
+recharge battery,CHARGING_ISSUE
+recharge battery after reseting,CHARGING_ISSUE
+replace battery,BATTERY_PHYSICAL_SPECS
+rich info not tracked,BATTERY_MISINFORMATION
+robot stuck,NAVIGATION
+robot too fast,NAVIGATION
+rviz,UI
+rviz closed,UI
+rviz stops receiving data,UI
+SBC,BOARD
+servo motor,SENSORS_ACTUATORS
+sodium battery,BATTERY_PHYSICAL_SPECS
+status not being updated,BATTERY_MISINFORMATION
+subscribing,BATTERY_MISINFORMATION
+takeoff,NAVIGATION
+tangobot,ROBOT_SPECIFIC
+tradeoff,NOT_INFORMATIVE
+troubles bringing up map,LAUNCH
+turtlebot,ROBOT_SPECIFIC
+turtlebot battery drain,ROBOT_SPECIFIC
+ubuntu,OS
+ubuntu related issue,OS
+UI error,UI
+UI misconfiguration,UI
+unable to check battery state,TROUBLESHOOTING
+unable to check laptop,BUGS
+unable to get data,BATTERY_MISINFORMATION
+unpair code,NETWORKING
+unresponsive,TROUBLESHOOTING
+unstable,VOLTAGE
+unsupported hardware,BATTERY_PHYSICAL_SPECS
+velocity change,TROUBLESHOOTING
+waiting for Onvoard-SDK new version,SDK
+wide sight,SENSORS_ACTUATORS
+wrong behavior,BUGS
+wrong file path,BUGS
+wrong metric,BUGS
+wrong parameters,BUGS
+wrong UI,UI
+wrong unit convertion,BUGS
+wrong value,BUGS

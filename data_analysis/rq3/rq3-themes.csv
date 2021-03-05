@@ -1,0 +1,308 @@
+Codes,THEMES
+abort instead land,ABORT_MISSION_TACTIC
+abort mission,ABORT_MISSION_TACTIC
+abstract power modes,ENERGY_OR_BATTERY_INFORMATION
+abstract raw battery readings,ENERGY_OR_BATTERY_INFORMATION
+adaptation,ROBOT_STATE
+add battery node,ENERGY_OR_BATTERY_MONITORING
+add battery state support,ENERGY_OR_BATTERY_MONITORING
+add battery warning,WARNING
+additional battery information,ENERGY_OR_BATTERY_INFORMATION
+adjustable warning,WARNING
+alarm,ALARM
+alarm variable,ALARM
+architecture,SOFTWARE_ARTIFACT
+Arduino,DEVICE
+auto dock,AUTO_DOCK_TACTIC
+auto recharging,BATTERY_RECHARGE
+autocore board,DEVICE
+autonomy,DO_NOT_ANSWER
+autoware,SOFTWARE_ARTIFACT
+avoid draining robot battery,ROBOT_STATE
+avoid warning for no battery,ROBOT_STATE
+avoiding low battery beep,ROBOT_STATE
+avoiding oscilation near to the threashold,ROBOT_STATE
+back home,BACK_HOME_TACTIC
+batter cells,PHYSICAL_BATTERY
+batter warning speaks shutdown,WARNING
+batter-operated robots,ROBOT
+battery and temperature info,ENERGY_OR_BATTERY_INFORMATION
+battery as part of diagnostics,ENERGY_OR_BATTERY_DIAGNOSTIC
+battery autonomy,ENERGY_OR_BATTERY_ESTIMATION
+battery calculation for task,ENERGY_OR_BATTERY_ESTIMATION
+battery calibration,ENERGY_OR_BATTERY_ESTIMATION
+battery capacity,ENERGY_OR_BATTERY_ESTIMATION
+battery cells,PHYSICAL_BATTERY
+battery charge,BATTERY_CHARGE
+battery charging speaker,ENERGY_OR_BATTERY_INFORMATION
+battery check,ROBOT_STATE
+battery configuration,PHYSICAL_BATTERY
+battery current,ENERGY_METRIC_MEASUREMENT
+battery diagnostic,ENERGY_OR_BATTERY_DIAGNOSTIC
+battery documentation,DOCUMENTATION
+battery estimation,ENERGY_OR_BATTERY_ESTIMATION
+battery guard,ROBOT_STATE
+battery information,ENERGY_OR_BATTERY_INFORMATION
+battery information speaker,ENERGY_OR_BATTERY_INFORMATION
+battery led,VISUALIZATION_DISPLAY
+battery level,ENERGY_OR_BATTERY_ESTIMATION
+battery lifetime,ENERGY_OR_BATTERY_ESTIMATION
+battery light monitor,VISUALIZATION_DISPLAY
+battery low,ENERGY_OR_BATTERY_ESTIMATION
+battery low information,ENERGY_OR_BATTERY_INFORMATION
+battery low landing,LAND_TACTIC
+battery low shutdown,SHUTDOWN_TACTIC
+battery lower threshold,SHUTDOWN_TACTIC
+battery management,ROBOT_STATE
+battery management include laptop,ROBOT_STATE
+battery max voltage,ENERGY_OR_BATTERY_ESTIMATION
+battery mode,ROBOT_STATE
+battery monitor,ENERGY_OR_BATTERY_MONITORING
+battery monitoring,ENERGY_OR_BATTERY_MONITORING
+battery monitoring and stop notification,WARNING
+battery node optional,ENERGY_OR_BATTERY_INFORMATION
+battery not empty,ENERGY_OR_BATTERY_ESTIMATION
+battery online profiling,ENERGY_OR_BATTERY_ESTIMATION
+battery parameters,RECONFIGURATION
+battery percentage,ENERGY_OR_BATTERY_ESTIMATION
+battery script location,RECONFIGURATION
+battery simulation,SIMULATION
+battery standard message,ENERGY_OR_BATTERY_INFORMATION
+battery state,ROBOT_STATE
+battery state graph,ROBOT_STATE
+battery state machine,ROBOT_STATE
+battery state timeout,ROBOT_STATE
+battery tactic,GENERIC_TACTIC
+battery tactic limit features,LIMITED_FEATURES_TACTIC
+battery temperature,ENERGY_OR_BATTERY_INFORMATION
+battery topic,ENERGY_OR_BATTERY_INFORMATION
+battery track,ENERGY_OR_BATTERY_INFORMATION
+battery voltage,ENERGY_METRIC_MEASUREMENT
+battery voltage calculation,ENERGY_OR_BATTERY_ESTIMATION
+battery voltage estimation,ENERGY_OR_BATTERY_ESTIMATION
+battery voltage validation,ENERGY_OR_BATTERY_ESTIMATION
+battery warning,WARNING
+battery warning volume,RECONFIGURATION
+beep warning,WARNING
+behaviour switch,ROBOT_STATE
+benchmarking,TESTING
+better representation,VISUALIZATION_DISPLAY
+better resolution/v1,VISUALIZATION_DISPLAY
+calvin,ROBOT
+car battery,PHYSICAL_BATTERY
+care-o-bot,ROBOT
+charge,BATTERY_CHARGE
+charge during mission,CHARGE_DURING_MISSION_TACTIC
+charge estimation independent of the type of battery,ENERGY_OR_BATTERY_ESTIMATION
+charge percentage,ENERGY_OR_BATTERY_ESTIMATION
+charge progress,ENERGY_OR_BATTERY_ESTIMATION
+charge state,ROBOT_STATE
+charging info,ENERGY_OR_BATTERY_INFORMATION
+charging mode,BATTERY_RECHARGE
+charging state,ROBOT_STATE
+charging station,BATTERY_RECHARGE
+charging strategy,BATTERY_RECHARGE
+chech energy consumption,ENERGY_OR_BATTERY_MONITORING
+check battery level,ENERGY_OR_BATTERY_ESTIMATION
+check battery voltage,ENERGY_METRIC_MEASUREMENT
+check power routine,ROBOT_STATE
+checks uav status,ENERGY_OR_BATTERY_INFORMATION
+cloud computing,SERVICE
+cob robot,ROBOT
+compact computers,DEVICE
+complete mission,ENERGY_OR_BATTERY_ESTIMATION
+configurable estimation method,ENERGY_OR_BATTERY_ESTIMATION
+configurable frequency,RECONFIGURATION
+configuration,RECONFIGURATION
+configuration file,RECONFIGURATION
+control sensor,LIMITED_FEATURES_TACTIC
+correct state ocasionally,SOFTWARE_CORRECTION
+Create2 robot,SOFTWARE_ARTIFACT
+dashboard,VISUALIZATION_DISPLAY
+default battery behavior,ROBOT_STATE
+device plugin,SOFTWARE_ARTIFACT
+diagnostic depends on battery info,ENERGY_OR_BATTERY_INFORMATION
+diagnostics,ENERGY_OR_BATTERY_DIAGNOSTIC
+disable servo,DISABLE_ROBOT_FUNCTION_TACTIC
+disable sound,DISABLE_ROBOT_FUNCTION_TACTIC
+dji,ROBOT
+drive mode,ROBOT_STATE
+drone,ROBOT
+drone controller node,HOVERING_TACTIC
+dropping useless tcp pkts,COMMUNICATION
+eco mode,ROBOT_STATE
+email,ENERGY_OR_BATTERY_INFORMATION
+embedded system,DEVICE
+emergency stop,STOP_TACTIC
+energy API,SOFTWARE_ARTIFACT
+energy configuration,RECONFIGURATION
+energy consumption,ENERGY_OR_BATTERY_ESTIMATION
+energy consumption information,ENERGY_OR_BATTERY_INFORMATION
+energy consumption measurement,ENERGY_METRIC_MEASUREMENT
+energy efficiency,DEVICE
+energy level,ENERGY_OR_BATTERY_ESTIMATION
+energy message,ENERGY_OR_BATTERY_INFORMATION
+energy monitoring,ENERGY_OR_BATTERY_MONITORING
+energy profiler,ENERGY_OR_BATTERY_ESTIMATION
+energy saving,LIMITED_FEATURES_TACTIC
+energy saving as problem,CAUSE
+energy tactic,GENERIC_TACTIC
+energy topic,ENERGY_OR_BATTERY_INFORMATION
+event trigger,ROBOT_STATE
+failure,CAUSE
+fan speed contraint,ROBOT_STATE
+fault report,DO_NOT_ANSWER
+firmware,SOFTWARE_ARTIFACT
+fix,SOFTWARE_CORRECTION
+fix battery warning,SOFTWARE_CORRECTION
+fix launch file,LAUNCH
+fix take off code,SOFTWARE_CORRECTION
+flying,LAND_TACTIC
+framework,SOFTWARE_ARTIFACT
+friendlier message format,ENERGY_OR_BATTERY_INFORMATION
+gamepad,DEVICE
+gazebo husky,SIMULATION
+gazebo plugin,SIMULATION
+GUI,VISUALIZATION_DISPLAY
+hector exploration too slow,GENERIC_TACTIC
+high battery,DO_NOT_ANSWER
+high battery level,DO_NOT_ANSWER
+hovering,HOVERING_TACTIC
+howto,TROUBLESHOOTING
+howto battery info,ENERGY_OR_BATTERY_INFORMATION
+howto kill all nodes,SHUTDOWN_TACTIC
+howto operate longer,TROUBLESHOOTING
+howto ui,VISUALIZATION_DISPLAY
+howto warning,WARNING
+hybernation,HYBERNATION_TACTIC
+ignore commands if battery low,DISABLE_ROBOT_FUNCTION_TACTIC
+Image message,COMMUNICATION
+image publishing frequence,RECONFIGURATION
+inactivity timeout for saving battery,RECONFIGURATION
+infrared camera,DEVICE
+keep track of battery life,ENERGY_OR_BATTERY_ESTIMATION
+kill process if battery is low,SHUTDOWN_TACTIC
+kinect,DEVICE
+kinect with laptop,DO_NOT_ANSWER
+kobuki,ROBOT
+kobuki base and turtlebot,BATTERY_RECHARGE
+land when battery low,LAND_TACTIC
+landing,LAND_TACTIC
+laptop battery,PHYSICAL_BATTERY
+laptop battery diagnostic,ENERGY_OR_BATTERY_DIAGNOSTIC
+laser scanner,SENSING
+launch file,LAUNCH
+lawn mowing robot,ROBOT
+LCD display,VISUALIZATION_DISPLAY
+led,VISUALIZATION_DISPLAY
+LED,VISUALIZATION_DISPLAY
+low energy consumption,DEVICE
+low processing power,RESTRICTED_PROCESSING_POWER
+low resolution specs sensor,LIMITED_FEATURES_TACTIC
+low-powered device,DEVICE
+maintainability,DO_NOT_ANSWER
+message format,RECONFIGURATION
+message parsing,ENERGY_OR_BATTERY_INFORMATION
+microprocessor,DEVICE
+minimal launch,LAUNCH
+mjpeg server,SERVICE
+mobile platform,DEVICE
+motor power is killed,CAUSE
+motors control,DO_NOT_ANSWER
+motors monitoring,ENERGY_OR_BATTERY_MONITORING
+network,COMMUNICATION
+new calculation params,ENERGY_OR_BATTERY_ESTIMATION
+new fields,ENERGY_OR_BATTERY_INFORMATION
+new file path,RECONFIGURATION
+new tf_remapper module,SOFTWARE_ARTIFACT
+NUC mini-pc,DEVICE
+NVIDIA optimus,SOFTWARE_ARTIFACT
+ocean server,SERVICE
+OLED display,VISUALIZATION_DISPLAY
+open rover,SOFTWARE_ARTIFACT
+OR battery level,ENERGY_OR_BATTERY_ESTIMATION
+OS sleep,COMMUNICATION
+overall sm energy and nav,ROBOT_STATE
+pack into battery_state topic,ENERGY_OR_BATTERY_INFORMATION
+package,SOFTWARE_ARTIFACT
+passive mode,ROBOT_STATE
+percentage,ENERGY_OR_BATTERY_ESTIMATION
+plugged and power information,ENERGY_OR_BATTERY_INFORMATION
+power board,DEVICE
+power events,ROBOT_STATE
+power functions,ROBOT_STATE
+power management,ROBOT_STATE
+power state,ROBOT_STATE
+powering with capacitor,BATTERY_RECHARGE
+pr robot,ROBOT
+publish battery information,ENERGY_OR_BATTERY_INFORMATION
+react quickly if the battery is low,ROBOT_STATE
+real-time visualization as energy inefficiency,VISUALIZATION_DISPLAY
+remaining,ENERGY_OR_BATTERY_ESTIMATION
+remaining battery,ENERGY_OR_BATTERY_ESTIMATION
+replace land by abort,MISSION_TACTIC
+reuse powerstate function,ROBOT_STATE
+robot and laptop,DEVICE
+robot recharge,BATTERY_RECHARGE
+robotic arm,ROBOT
+roomba,SERVICE
+ROS message,ENERGY_OR_BATTERY_INFORMATION
+ROS publisher,ENERGY_OR_BATTERY_INFORMATION
+ROS script,RECONFIGURATION
+ROS topic,ENERGY_OR_BATTERY_INFORMATION
+rviz,VISUALIZATION_DISPLAY
+save energy,GENERIC_TACTIC
+save energy by streaming binary images,COMMUNICATION
+segbot,ENERGY_OR_BATTERY_DIAGNOSTIC
+self-driven car,ROBOT
+sensor,SENSING
+sensor message,SENSING
+sensors,SENSING
+service,SERVICE
+servo motor,DEVICE
+shutdown,SHUTDOWN_TACTIC
+simulated energy,SIMULATION
+simulation,SIMULATION
+sleep mode,ROBOT_STATE
+state machine,ROBOT_STATE
+"status, health and lipo",ENERGY_OR_BATTERY_INFORMATION
+stop and recover,STOP_TACTIC
+stop due to monitor,STOP_TACTIC
+stop mission if low voltage,ABORT_MISSION_TACTIC
+stops after 45 minutes,CAUSE
+streaming frequency,RECONFIGURATION
+subscribing,ENERGY_OR_BATTERY_INFORMATION
+tactic,GENERIC_TACTIC
+tactic software optimization,SOFTWARE_OPTIMIZATION_TACTIC
+task battery autonomy,ENERGY_OR_BATTERY_ESTIMATION
+tension regulation,ENERGY_OR_BATTERY_ESTIMATION
+testing,TESTING
+threshold,ROBOT_STATE
+thruster gazebo simulation,SIMULATION
+timeout,SOFTWARE_CORRECTION
+TPK1 package,COMMUNICATION
+triggers,ENERGY_OR_BATTERY_MONITORING
+turnoff kinect,DEVICE
+turtlebot,ROBOT
+turtlebot turns off automatically,SHUTDOWN_TACTIC
+turtlebot2 as a solution,DEVICE
+tutorial,DOCUMENTATION
+ubiquity robotics image,VISUALIZATION_DISPLAY
+ubuntu,SOFTWARE_ARTIFACT
+ubuntu package,SOFTWARE_ARTIFACT
+UI,VISUALIZATION_DISPLAY
+ui,VISUALIZATION_DISPLAY
+UI optimization,VISUALIZATION_DISPLAY
+update,SOFTWARE_CORRECTION
+UR5 is on,LAUNCH
+URG-04LX sensor,LIMITED_FEATURES_TACTIC
+vehicle state machine,ROBOT_STATE
+version update,SOFTWARE_CORRECTION
+video display,VISUALIZATION_DISPLAY
+visualization,VISUALIZATION_DISPLAY
+visualization but rviz,SOFTWARE_CORRECTION
+voltage approximated from hardware,ENERGY_OR_BATTERY_ESTIMATION
+waiting for messages,COMMUNICATION
+warning,WARNING
+wiimote,DEVICE
+youbot,ROBOT
