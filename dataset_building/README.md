@@ -63,4 +63,17 @@ All the data required for Phase 2 will be in the <i>output_data/energy-datapoint
 
 ## Phase 3: Searching for False Negatives
 
-...
+In this phase we generate a list of data points without the energy terms, so we can check whether we miss something (false negatives). 
+
+First, we generate the JSON files for each of the collections.
+
+```bash	
+$ cd phase3/	
+$ python get_false_negatives.py
+```	
+
+Then, we generate a CSV file that is used for a manual analysis.
+
+```bash	
+$ bash ../phase1/gen_csv.sh
+```
