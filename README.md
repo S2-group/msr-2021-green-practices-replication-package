@@ -67,11 +67,9 @@ All the explanation of executing dataset building scripts is in the folder [read
        |--- energy-term-datapoints.csv                 Data points with energy terms.
   |--- phase2/
        |--- input_data/
-            |--- included-datapoints-date-msr2021.csv  Reference file (used in the paper) - all the energy-related data points and their dates.     
             |--- included-datapoints-date.csv          Editable list of energy-related data points with dates.
 	    |--- included-datapoints.csv               All the energy-related datapoints without dates (already manually filtered).
        |--- output_data/
-            |--- energy-datapoints-msr2021.csv         Reference file (used in the paper) - all the energy-related data points with timestamps.
             |--- energy-datapoints.csv                 Editable list of energy-related data points with timestamps.
        |--- gen_codes.py                               Generates a list of codes (output: ../data_analysis/coding/initial-codes.csv).
        |--- get_date.py	                               Gets the date of each data point (we still need to move this to Phase 1).
