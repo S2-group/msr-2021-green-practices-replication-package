@@ -1,4 +1,4 @@
-# MSR 2021 – Replication package
+# MSR 2021 – Replication Package
 
 <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3672050.svg)](https://doi.org/10.5281/zenodo.3672050)-->
 
