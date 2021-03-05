@@ -16,14 +16,14 @@ This study has been designed, developed, and reported by the following investiga
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
-## How to cite the dataset
+## How to Cite the Dataset
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
 ```
 ...
 ```
 
-### Overview of the replication package
+### Overview of the Replication Package
 ---
 
 This replication package is structured as follows:
