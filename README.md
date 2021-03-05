@@ -39,8 +39,8 @@ This replication package is structured as follows:
 
 ```
 ./
-    |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
+    |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
 ```
 
@@ -54,10 +54,9 @@ All the explanation of executing dataset building scripts is in the folder [read
 ```
 ./dataset_building/
   |--- include/
-  |--- configuration/conf_reader.py                    Functions to read configuration files.
-  |--- mongodb/                                        MongoDB connectors.
-       |--- driver.py                                  Used by mongo_con.
-       |--- mongo_con.py                               Functions to connect and query MongoDB. 
+  	|--- helpers/				       Scripts for secondary tasks, such as reading the configuration file.
+  	|--- mongodb/                                  Scripts to interact to MongoDB.
+        |--- csvutils/				       Scripts to convert JSON to CSV files.
   |--- phase1/
        |--- input_data/                                
             |--- git_repos_data.json                   Markdown files and code comments (we still need to upload this to MongoDB).
@@ -67,19 +66,15 @@ All the explanation of executing dataset building scripts is in the folder [read
        |--- energy-term-datapoints.csv                 Data points with energy terms.
   |--- phase2/
        |--- input_data/
-            |--- included-datapoints-date-msr2021.csv  Reference file (used in the paper) - all the energy-related data points and their dates.     
-            |--- included-datapoints-date.csv          Editable list of energy-related data points with dates.
-	    |--- included-datapoints.csv               All the energy-related datapoints without dates (already manually filtered).
+	    |--- included-datapoints.csv               All the energy-related datapoints without dates (result from manual selection).
        |--- output_data/
-            |--- energy-datapoints-msr2021.csv         Reference file (used in the paper) - all the energy-related data points with timestamps.
-            |--- energy-datapoints.csv                 Editable list of energy-related data points with timestamps.
-       |--- gen_codes.py                               Generates a list of codes (output: ../data_analysis/coding/initial-codes.csv).
+            |--- energy-datapoints.csv                 List of energy-related data points with timestamps.
        |--- get_date.py	                               Gets the date of each data point (we still need to move this to Phase 1).
        |--- get_timestamp.py                           Gets the timestamp of each data point (we still need to move this to Phase 1).
   |--- phase3/
-       output_data/
-            |--- false-negatives.json                  JSON file containing the possible false negatives.
-       |--- get_false_negatives.py                     Mining code that searches for false-negatives.
+       output_data/                                    JSON files of each collection containing the possible false negatives.
+       |--- get_false_negatives.py                     Searches for false-negatives.
+       |--- no-energy-terms-datapoints.csv             List of data points without energy terms.
   |--- energy_terms_stats.pdf                          Summary of data points with energy terms.
   |--- mongodb-dump.tar.gz                             Dump of MongoDB database.
   |--- parameters.cfg                                  Configuration file.
