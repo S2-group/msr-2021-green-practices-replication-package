@@ -63,14 +63,17 @@ All the explanation of executing dataset building scripts is in the folder [read
             |--- git_repos_data.json                   Markdown files and code comments (we still need to upload this to MongoDB).
        |--- output_data/                               JSON files (for each collection) containing data points with energy-related terms.
        |--- energy_mining.py                           Mining code that searches for energy-related.
+       |--- gen_csv.py				       Code that generates the CSV file from extracted JSONs.
+       |--- energy-term-datapoints.csv                 Data points with energy terms.
   |--- phase2/
        |--- input_data/
             |--- included-datapoints-date-msr2021.csv  Reference file (used in the paper) - all the energy-related data points and their dates.     
             |--- included-datapoints-date.csv          Editable list of energy-related data points with dates.
-	    |--- included-datapoints.csv               All the energy-related datapoints without dates.
+	    |--- included-datapoints.csv               All the energy-related datapoints without dates (already manually filtered).
        |--- output_data/
             |--- energy-datapoints-msr2021.csv         Reference file (used in the paper) - all the energy-related data points with timestamps.
             |--- energy-datapoints.csv                 Editable list of energy-related data points with timestamps.
+       |--- gen_codes.py                               Generates a list of codes (output: ../data_analysis/coding/initial-codes.csv).
        |--- get_date.py	                               Gets the date of each data point (we still need to move this to Phase 1).
        |--- get_timestamp.py                           Gets the timestamp of each data point (we still need to move this to Phase 1).
   |--- phase3/
