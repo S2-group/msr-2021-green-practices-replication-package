@@ -29,8 +29,7 @@ If the dataset is helping your research, consider to cite it is as follows, than
 This replication package is structured as follows:
 
 ```
-    /
-    .
+/
     |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
     |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
     |--- MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
@@ -79,10 +78,24 @@ dataset_building
 ---
 ```
 data_analysis
-    .
-    |--- 
+    |--- energy-related-datapoints.csv                 Energy-related data points with timestamp, robot type and main capability.
+    |--- coding/
+        |--- initial-codes.csv                         Data points and their codes.
+	|--- separated-codes.csv                       List of separated codes.
+	|--- cleaned-codes.csv                         Renamed codes.
+	|--- codes-classification.csv                  Initial classification of codes by research question.
+    |--- rq1/
+	|--- plot_graph.R                              R script that plots the RQ1 graph.
+    |--- rq2/
+        |--- rq2-themes.csv                            Cause themes.               
+	|--- main-causes.csv                           Causes after themes.
+    |--- rq3/
+        |--- rq3-themes.csv                            Solution themes.
+	|--- main-solutions.csv                        Solutions after themes.
+    |--- rq4/
+    	|--- quality-attributes.csv                    Quality atributes.
 ```
-The data in the CSV files has been manually, collaboratively, and iteratively extracted by the authors of the paper. The steps for recreating the plots presented in the paper the list of contributors to contact for replicating this study are presented [here](./INSTALL.md). 
+The data in the CSV files has been manually, collaboratively, and iteratively extracted by the authors of the paper. 
 
 ## License
 
