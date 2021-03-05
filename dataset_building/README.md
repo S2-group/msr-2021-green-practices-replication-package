@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 
 2) [Restore](https://docs.mongodb.com/manual/reference/program/mongorestore/) the database to your MongoDB instance.	
 
-3) Set the configuration parameters (parameters.cfg):	
+3) Set the configuration parameters (./configuration.cfg):	
 
 ```	
 [general]	
