@@ -2,7 +2,7 @@
 
 <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3672050.svg)](https://doi.org/10.5281/zenodo.3672050)-->
 
-This repository contains the replication package and dataset of the paper <b>to be </b> published at MSR 2021 with the title **Mining Energy-Related Practices in Robotics Software**.
+This repository contains the replication package of the paper published at MSR 2021 with the title **Mining Energy-Related Practices in Robotics Software**.
 
 This study has been designed, developed, and reported by the following investigators:
 
