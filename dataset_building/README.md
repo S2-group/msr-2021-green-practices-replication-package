@@ -53,3 +53,7 @@ $ python get_timestamps.py
 ```	
 
 All the data required for Phase 2 will be in the <i>output_data/energy-datapoints.csv</i> file. Now, proceed to the [data analysis](../data_analysis/).
+
+## Searching for False Negatives
+
+...
