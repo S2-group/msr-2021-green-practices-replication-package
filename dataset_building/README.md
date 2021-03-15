@@ -48,7 +48,7 @@ Now, it is time to generate a CSV file for Phase 2.
 ```bash	
 $ bash gen_csv.sh	
 ```	
-The output will be in the file <i>energy-term-datapoints.csv</i>.
+The output will be in the <i>energy-term-datapoints.csv</i> file.
 
 ## Phase 2: Generating Timestamps
 
