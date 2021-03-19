@@ -27,7 +27,7 @@ If the dataset is helping your research, consider to cite it is as follows, than
   author = { Michel Albonico and Ivano Malavolta and Gustavo Pinto and Emitzá Guzmán and Katerina Chinnappan and Patricia Lago },
   publisher = { ACM },
   booktitle = { Proceedings of the 18th International Conference on Mining Software Repositories, {MSR} },
-  title = { Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation },
+  title = { Mining Energy-Related Practices in Robotics Software },
   address = { New York, NY },
 }
 ```
