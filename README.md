@@ -21,16 +21,18 @@ If the dataset is helping your research, consider to cite it is as follows, than
 
 ```
 @inproceedings{MSR_2021_architectural_tactics,
-  year = { 2021 },
   pages = { To appear },
   month = { May },
   author = { Michel Albonico and Ivano Malavolta and Gustavo Pinto and Emitzá Guzmán and Katerina Chinnappan and Patricia Lago },
-  publisher = { ACM },
+  publisher = {{IEEE} / {ACM}},
+  year      = {2021},
   booktitle = { Proceedings of the 18th International Conference on Mining Software Repositories, {MSR} },
   title = { Mining Energy-Related Practices in Robotics Software },
   address = { New York, NY },
 }
 ```
+
+The preprint paper is available at [arXiv](https://arxiv.org/abs/2103.13762).
 
 ### Overview of the Replication Package
 ---
