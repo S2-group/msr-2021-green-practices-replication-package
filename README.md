@@ -28,7 +28,7 @@ If the dataset is helping your research, consider to cite it is as follows, than
   publisher = {{IEEE} / {ACM}},
   year      = {2021},
   booktitle = { Proceedings of the 18th International Conference on Mining Software Repositories, {MSR} },
-  url = {https://arxiv.org/abs/2103.13762}
+  url = {https://arxiv.org/abs/2103.13762},
   address = { New York, NY },
 }
 ```
