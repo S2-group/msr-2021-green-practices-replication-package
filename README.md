@@ -20,7 +20,7 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
 ```
-@inproceedings{MSR_2021_architectural_tactics,
+@inproceedings{MSR_2021_robotics_green_practices,
   title = { Mining Energy-Related Practices in Robotics Software },
   author = { Michel Albonico and Ivano Malavolta and Gustavo Pinto and Emitzá Guzmán and Katerina Chinnappan and Patricia Lago },
   pages = { To appear },
