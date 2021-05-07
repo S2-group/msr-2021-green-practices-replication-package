@@ -18,7 +18,7 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 
 ## Watch the Video
 <center>
-[![Video of MSR](http://img.youtube.com/vi/p-ozR-lbo-A/0.jpg)](http://www.youtube.com/watch?v=p-ozR-lbo-A "MSR 2021 Presentation")
+[Video of MSR](http://img.youtube.com/vi/p-ozR-lbo-A/0.jpg)](http://www.youtube.com/watch?v=p-ozR-lbo-A "MSR 2021 Presentation")
 </center>
 
 ## How to Cite the Dataset
