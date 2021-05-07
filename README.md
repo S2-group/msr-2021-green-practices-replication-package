@@ -16,6 +16,11 @@ This study has been designed, developed, and reported by the following investiga
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
+## Watch the Video
+<center>
+[![Video of MSR](http://img.youtube.com/vi/p-ozR-lbo-A/0.jpg)](http://www.youtube.com/watch?v=p-ozR-lbo-A "MSR 2021 Presentation")
+</center>
+
 ## How to Cite the Dataset
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
