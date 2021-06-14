@@ -53,6 +53,11 @@ Each of the folders listed above are described in details in the remaining of th
 
 ### Dataset
 
+#### Building the Dataset
+...
+
+#### Mining the Data
+
 All the explanation of executing dataset building scripts is in the folder [readme](https://github.com/S2-group/msr-2021-green-practices-replication-package/blob/main/dataset_building/README.md).
 
 ---
