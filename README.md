@@ -2,23 +2,20 @@
 
 <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3672050.svg)](https://doi.org/10.5281/zenodo.3672050)-->
 
-This repository contains the replication package of the paper published at MSR 2021 with the title **Mining Energy-Related Practices in Robotics Software**.
+This repository contains the replication package of the paper published at MSR 2021 with the title **Energy-Aware Robotics Software: A Catalog of Architectural Tactics from the ROS Ecosystem**.
 
 This study has been designed, developed, and reported by the following investigators:
 
-- [Michel Albonico](https://michelalbonico.github.io) (Vrije Universiteit Amsterdam/Federal University of Technology, Paraná) 
-- [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
-- [Gustavo Pinto](https://gustavopinto.org/) (Federal University of Pará)
-- [Emitzá Guzmán](https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en) (Vrije Universiteit Amsterdam)
 - [Katerina Chinnappan](http://katerinachinnppan.com/) (Vrije Universiteit Amsterdam)
+- [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
 - [Patricia Lago](https://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html) (Vrije Universiteit Amsterdam)
+- [Michel Albonico](https://michelalbonico.github.io) (Vrije Universiteit Amsterdam/Federal University of Technology, Paraná) 
+- [Grace A. Lewis](https://www.andrew.cmu.edu/user/gritter/lewis.html) (Software Engineering Institute, Carnegie Mellon University, USA)
+
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
-
-## Watch the Video
-[![Video of MSR](http://img.youtube.com/vi/p-ozR-lbo-A/0.jpg)](http://www.youtube.com/watch?v=p-ozR-lbo-A "MSR 2021 Presentation")
-
+<!--
 ## How to Cite the Dataset
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
@@ -36,7 +33,9 @@ If the dataset is helping your research, consider to cite it is as follows, than
 }
 ```
 
+
 The preprint paper is available on [arXiv](https://arxiv.org/abs/2103.13762).
+-->
 
 ### Overview of the Replication Package
 ---
@@ -45,14 +44,14 @@ This replication package is structured as follows:
 
 ```
 ./
-    |--- dataset_building/     		  The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
-    |--- data_analysis/       		  The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the spreadsheets used to analyse the data.
-    |--- MSR_2020.pdf (not available yet)  A copy of the paper in pdf format
+    |--- dataset/     		  The full dataset of ROS-based systems mined from GitHub and the scripts used to extract the data.
+    |--- data_analysis/       	  Mining scripts and spreadsheets used in the manual data analysis.
+    |--- ECSA_2021.pdf            (not available yet)  A copy of the paper in pdf format.
 ```
 
 Each of the folders listed above are described in details in the remaining of this readme.
 
-### Dataset Building
+### Dataset
 
 All the explanation of executing dataset building scripts is in the folder [readme](https://github.com/S2-group/msr-2021-green-practices-replication-package/blob/main/dataset_building/README.md).
 
@@ -89,26 +88,17 @@ All the explanation of executing dataset building scripts is in the folder [read
 
 ### Data Analysis
 
-The data in the CSV files has been manually, collaboratively, and iteratively extracted by the authors of the paper. 
+The data in the CSV files has been manually, collaboratively, and iteratively extracted by the authors of the paper.
 
 ---
 ```
 ./data_analysis/
-    |--- coding/
-        |--- 01-initial-codes.csv                         Data points and their codes.
-	|--- 02-separated-codes.csv                       List of separated codes.
-	|--- 03-cleaned-codes.csv                         Renamed codes.
-	|--- 04-codes-classification.csv                  Initial classification of codes by research question.
-    |--- rq1/
-	|--- plot_graph.R                              R script that plots RQ1 graph.
-    |--- rq2/
-        |--- 01-rq2-themes.csv                            Cause themes.               
-	|--- 02-main-causes.csv                           Causes after themes.
-    |--- rq3/
-        |--- 01-rq3-themes.csv                            Solution themes.
-	|--- 02-main-solutions.csv                        Solutions after themes.
-    |--- rq4/
-    	|--- quality-attributes.csv                    Quality atributes.
+    |--- phase2-filtering_by_terms/
+        |--- ...
+    |--- phase3-data_points_selection/
+	|--- ...
+    |--- phase4-tactics_extraction/
+        |--- ...
 ```
 
 ## License
