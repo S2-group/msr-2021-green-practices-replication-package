@@ -58,7 +58,7 @@ Each of the folders listed above are described in details in the remaining of th
 
 #### Mining the Data
 
-All the explanation of executing dataset building scripts is in the folder [readme](https://github.com/S2-group/msr-2021-green-practices-replication-package/blob/main/dataset_building/README.md).
+All the explanation of the data mining is in the folder [readme](https://github.com/S2-group/msr-2021-green-practices-replication-package/blob/main/dataset_building/README.md).
 
 ---
 ```
@@ -71,7 +71,7 @@ All the explanation of executing dataset building scripts is in the folder [read
        |--- input_data/                                
             |--- git_repos_data.json                   Markdown files and code comments (we still need to upload this to MongoDB).
        |--- output_data/                               JSON files (for each collection) containing data points with energy-related terms.
-       |--- energy_mining.py                           Mining code that searches for energy-related.
+       |--- energy_mining.py                           Mining code that searches for energy-related terms.
        |--- gen_csv.sh				       Code that generates the CSV file from extracted JSONs.
        |--- energy-term-datapoints.csv                 Data points with energy terms.
   |--- phase2/
